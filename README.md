@@ -1,5 +1,7 @@
 # public_data
-Repository of public data sets released by the Thomas A. Edison Papers
+Repository of public data sets released by the Thomas A. Edison Papers at Rutgers University
+
+http://edison.rutgers.edu
 
 **correspondence_release_2017_001.csv**
 
