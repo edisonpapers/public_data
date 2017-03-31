@@ -6,6 +6,7 @@ http://edison.rutgers.edu
 **correspondence_release_2017_001.csv**
 
 - 90,519 rows of data 
+- raw data from merged SQL query on database
 - represents a curated set of correspondence from the edison.rutgers.edu database with both author and recipient identified.
 
 Data structure:
