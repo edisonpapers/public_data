@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd  http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" ID="COLLECTION_2" OBJID="COLLECTION_2" LABEL="Notebook Series: 1887-1898" TYPE="Collection" >
+	<METS:metsHdr CREATEDATE="2017-02-18T22:20:02" ID="HDR_COLLECTION_2" ADMID="AMD_COLLECTION_2" >
+		<METS:agent ROLE="ARCHIVIST" TYPE="INDIVIDUAL" >
+			<METS:name>Super User</METS:name>
+			<METS:note></METS:note>
+		</METS:agent>
+		<METS:agent ROLE="CREATOR" TYPE="INDIVIDUAL" >
+			<METS:name>Super User</METS:name>
+			<METS:note></METS:note>
+		</METS:agent>
+		<METS:agent ROLE="OTHER" TYPE="OTHER" >
+			<METS:name>Omeka MetsExport Plugin</METS:name>
+			<METS:note>The software used to generate this document is called Omeka MetsExport, which operates as a plugin for Omeka. Documentation can be found at http://github/MetsExport/</METS:note>
+		</METS:agent>
+	</METS:metsHdr>
+	<METS:dmdSec ID="DMD_COLLECTION_2" >
+		<METS:mdWrap ID="MDW_COLLECTION_2_dc" LABEL="Dublin Core" MDTYPE="DC" >
+			<METS:xmlData>
+				<dc:title>Notebook Series: 1887-1898</dc:title>
+				<dc:subject>notebooks</dc:subject>
+				<dc:description>The Notebook Series for 1887-1898 comprises several sets of technical notes and drawings. They appear in the following order: (1) Notebooks by Edison; (2) Notebooks by Experimenters Other Than Edison; (3) Arthur E. Kennelly Notebooks; (4) Pocket Notebooks; (5) Miscellaneous Notebooks; (6) Unbound Notes and Drawings. For a discussion of the numbering systems used for Edison's notebooks, click here.
+				<dc:publisher>Thomas A. Edison Papers at Rutgers University</dc:publisher>
+				<dc:contributor>Thomas Edison National Historical Park</dc:contributor>
+				<dc:relation>Notebook Series: Numbering Systems for Edison's Notebooks
+				</dc:relation>
+				<dc:relation>Notebook Series -- Notebooks by Edison</dc:relation>
+				<dc:format>directory</dc:format>
+				<dc:language>English</dc:language>
+				<dc:type>InteractiveResource</dc:type>
+				<dc:identifier>http://edison.rutgers.edu/NamesSearch/glocpage.php3?gloc=NA000&amp;</dc:identifier>
+				<dc:coverage>1887-1898</dc:coverage>
+			</METS:xmlData>
+		</METS:mdWrap>
+	</METS:dmdSec>
+	<METS:amdSec ID="ADM_COLLECTION_2" >
+	</METS:amdSec>
+	<METS:dmdSec ID="DMD_ITEM_4" >
+		<METS:mdWrap ID="MDW_ITEM_4_dc" LABEL="Dublin Core" MDTYPE="DC" >
+			<METS:xmlData>
+				<dc:title>Edison, Thomas Alva -- Technical Notes and Drawings</dc:title>
+				<dc:subject>electricity</dc:subject>
+				<dc:description>This undated notebook was used by Edison, probably in 1887, for drawings and calculations relating to electrical experiments. There are also inscriptions by Edison on page 3: &quot;Theory&quot; and &quot;Magnetism tends to.&quot; The book contains 288 numbered pages.
+				Blank pages: 12-288. </dc:description>
+				<dc:creator>Thomas A. Edison</dc:creator>
+				<dc:publisher>Thomas A. Edison Papers at Rutgers University</dc:publisher>
+				<dc:date>1887</dc:date>
+				<dc:contributor>Thomas A. Edison</dc:contributor>
+				<dc:relation>Notebook Series -- Notebooks by Edison</dc:relation>
+				<dc:format>image/jpeg</dc:format>
+				<dc:language>English</dc:language>
+				<dc:type>Image</dc:type>
+				<dc:identifier>http://edison.rutgers.edu/NamesSearch/glocpage.php3?gloc=NA001&amp;</dc:identifier>
+				<dc:coverage>1887</dc:coverage>
+			</METS:xmlData>
+		</METS:mdWrap>
+	</METS:dmdSec>
+	<METS:dmdSec ID="DMD_FILE4_0" ></METS:dmdSec>
+	<METS:dmdSec ID="DMD_FILE4_2" ></METS:dmdSec>
+	<METS:dmdSec ID="DMD_FILE4_4" ></METS:dmdSec>
+	<METS:dmdSec ID="DMD_FILE4_6" ></METS:dmdSec>
+	<METS:dmdSec ID="DMD_FILE4_8" ></METS:dmdSec>
+	<METS:amdSec ID="ADM_ITEM_4" ></METS:amdSec>
+	<METS:fileSec ID="FILES_ITEM4" >
+		<METS:file ID="FILE40" MIMETYPE="image/jpeg" SIZE="32646" CREATED="2017-02-18 22:19:23" DMDID="DMD_FILE4_0" >
+			<FLocat LOCTYPE="URL" xlink:href="http://edisonpapers.org/omeka1/files/original/5fad331f1a5530e62a751fd3d380d2b1.jpg" ></FLocat>
+		</METS:file>
+		<METS:file ID="FILE41" MIMETYPE="image/jpeg" SIZE="25233" CREATED="2017-02-18 22:19:23" DMDID="DMD_FILE4_1" >
+			<FLocat LOCTYPE="URL" xlink:href="http://edisonpapers.org/omeka1/files/original/c74fbe2fe2d97063e19db5b21374f9b7.jpg" ></FLocat>
+		</METS:file>
+		<METS:file ID="FILE42" MIMETYPE="image/jpeg" SIZE="23710" CREATED="2017-02-18 22:19:23" DMDID="DMD_FILE4_2" >
+			<FLocat LOCTYPE="URL" xlink:href="http://edisonpapers.org/omeka1/files/original/be02e84c44a0e5502392be46175feaf4.jpg" ></FLocat>
+		</METS:file>
+		<METS:file ID="FILE43" MIMETYPE="image/jpeg" SIZE="29429" CREATED="2017-02-18 22:19:23" DMDID="DMD_FILE4_3" >
+			<FLocat LOCTYPE="URL" xlink:href="http://edisonpapers.org/omeka1/files/original/2704b5228f2c40c18be6b60ef992895c.jpg" ></FLocat>
+		</METS:file>
+		<METS:file ID="FILE44" MIMETYPE="image/jpeg" SIZE="25323" CREATED="2017-02-18 22:19:23" DMDID="DMD_FILE4_4" >
+			<FLocat LOCTYPE="URL" xlink:href="http://edisonpapers.org/omeka1/files/original/e5499fbf5d07824113320631948ba4a0.jpg" ></FLocat>
+		</METS:file>
+	</METS:fileSec>
+	<METS:structMap >
+		<METS:div TYPE="COLLECTION" DMDID="DMD_COLLECTION_2" ADMID="AMD_COLLECTION_2" >
+			<METS:div TYPE="ITEM" DMDID="DMD_ITEM_4" ADMID="AMD_ITEM_4" ></METS:div>
+		</METS:div>
+	</METS:structMap>
+</METS:mets>
