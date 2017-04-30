@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3"
+
+<titleInfo>
+	<title>Edison's Prose Poem</title>
+</titleInfo>
+<titleInfo type="alternative">
+	<title>Miscellaneous Shop and Laboratory Notebook: Cat. 297 Disbound Scrapbook (1871-1874)</title>
+</titleInfo>
+<name>
+	<name type="personal">
+	<namePart>Edison,Thomas A.</namePart>
+	<displayForm>Thomas A. Edison</displayform>
+	<role>
+		<roleTerm type="text">creator</roleTerm>
+	</role>
+</name>
+<typeOfResource>still image</typeOfResource>
+<genre>Historical Science</genre>
+<originInfo>
+	<place>
+		<placeTerm type="text">New Jersey</placeTerm>
+	</place>
+	<publisher>Rutgers University</publisher>
+	<dateCreated encoding="w3cdtf">1874</dateCreated>
+</originInfo>
+<language>
+	<languageTerm type="text">English</languageTerm>
+	<languageTerm type="code" authority="iso639-2b">
+	eng</languageTerm>
+</language>
+<physicalDescription>
+	<form>scanned notebook image</form>
+	<internetMediaType>image/jpeg</internetMediaType>
+	<digitalOrigin>reformatted digital</digitalOrigin>
+</physicalDescription>
+<abstract>Image of poem in prose written by Edison in a scrapbook</abstract>
+<targetAudience authority="marctarget">
+	adult</targetAudience>
+<note>Apparently in response to his public treatment at the hands of former business partner James Ashley, Edison wrote this rather fanciful description of "the foulest demon of the Cosmos".</note>
+<subject>
+	<topic>Poems and Songs</topic>
+	<geographic>New Jersey</geographic>
+	<temporal>1871-1874</temporal>
+</subject>
+<relatedItem type="host">
+	<titleInfo>
+		<title>Notebook Series Digital Image Collection</title>
+	<titleInfo>
+</relatedItem>
+<identifier type="document number">NM003015</identifier>
+<location>
+	<physicalLocation>The Edison Papers, Rutgers University Archives</physicalLocation>
+</location>
+<accessCondition>Copyright (c) 1874 Rutgers University</accessCondition>
+<recordInfo>
+	<recordCreationDate encoding="w3cdtf">2017-02<recordCreationDate>
+	<recordOrigin>MODS record originally created by Rutgers University Digital Archive Interns to conform to the MODS User Guidelines.</recordOrigin>
+<languageOfCataloging>	
+	<languageOfCataloging>
+		<languageTerm authority="isoc639-2b">
+		eng</languageTerm>
+	<languageOfCataloging>
+</recordInfo>
+
+</mods>
