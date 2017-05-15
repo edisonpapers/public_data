@@ -7,7 +7,7 @@
 	<xs:import namespace="http://purl.org/dc/terms/" />
 	<xs:import namespace="http://www.tei-c.org/ns/1.0" /> 
 	
-	<xs:complexType>
+	<xs:group name="taep-record">
 		<xs:sequence>
 			<xs:element ref="dcterms:title" maxOccurs="1"/>
 			<xs:element ref="dcterms:identifier" maxOccurs="2"/>
@@ -22,5 +22,5 @@
 			<xs:element ref="dcterms:isPartOf" maxOccurs="2" />
 			<xs:element ref="dcterms:hasPart" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
-	</xs:complexType>
+	</xs:group>
 </xs:schema>
