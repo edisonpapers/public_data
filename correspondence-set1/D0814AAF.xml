@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 
-<record
+<taep
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:dcterms="http://purl.org/dc/terms/"
-  xmlns:tei="http://www.tei-c.org/ns/1.0">
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xsi:schemaLocation="https://raw.githubusercontent.com/edisonpapers/public_data/master/ https://raw.githubusercontent.com/edisonpapers/public_data/master/taep-master.xsd">
 
   <dc:identifier>
     D0814AAF
@@ -39,4 +40,4 @@
 	<tei:persName>Miller, Harry Frederick</tei:persName>
     </tei:correspAction>
   </tei:correspDesc>
-</record>
+</taep>
