@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    LB068105
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 196:898
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Edison, Thomas Alva to General Electric Co and Rice, Edwin Wilbur, Jr, May 05, 1902
+  </dc:title>
+  <dc:date>
+    1902-05-05
+  </dc:date>
+  <dc:subject>
+    Sockets, fuses, meters, and other interior elements; Testing and quality control
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [LB068] General Letterbook Series Letterbook, LB-068 (1902-1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=LB068</dcterms:isPartOf>none available
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Edison, Thomas Alva</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>General Electric Co</tei:persName>
+	<tei:persName>Rice, Edwin Wilbur, Jr</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

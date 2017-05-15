@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    D0814AAF
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 192:289
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Edison, William Leslie to Miller, Harry Frederick, March 19, 1908
+  </dc:title>
+  <dc:date>
+    1908-03-19
+  </dc:date>
+  <dc:subject>
+    Edison, Blanche Travers (Mrs William L.); Edison-Miller family; Finances (TAE and family)
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [D0814] Document File Series -- 1908 (D-08-14) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0814</dcterms:isPartOf>none available
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Edison, William Leslie</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Miller, Harry Frederick</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

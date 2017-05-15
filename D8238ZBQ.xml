@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    D8238ZBQ
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 62:434
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Bailey, Joshua Franklin to Edison, Thomas Alva, June 22, 1882
+  </dc:title>
+  <dc:date>
+    1882-06-22
+  </dc:date>
+  <dc:subject>
+    Expositions, demonstrations, lectures; Incandescent lamp
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [D8238] Document File Series -- 1882 (D-82-38) Electric Light -- Foreign -- Europe
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D8238</dcterms:isPartOf>
+  <dcterms:hasPart xsi:type="dcterms:URI">http://edison.rutgers.edu/images/cj/cj0429.jpg</dcterms:hasPart>
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Bailey, Joshua Franklin</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Edison, Thomas Alva</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

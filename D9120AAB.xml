@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    D9120AAB
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 131:38
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Lathrop, George Parsons to Tate, Alfred Ord, January 28, 1891
+  </dc:title>
+  <dc:date>
+    1891-01-28
+  </dc:date>
+  <dc:subject>
+    Edison, Thomas Alva; Stanley, Henry Morton
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [D9120] Document File Series -- 1891 (D-91-20) Edison, T.A. -- Visitors
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D9120</dcterms:isPartOf>
+  <dcterms:hasPart xsi:type="dcterms:URI">http://edison.rutgers.edu/images/fa/fa0036.jpg</dcterms:hasPart>
+  <dcterms:hasPart xsi:type="dcterms:URI">http://edison.rutgers.edu/images/fa/fa0037.jpg</dcterms:hasPart>
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Lathrop, George Parsons</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Tate, Alfred Ord</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

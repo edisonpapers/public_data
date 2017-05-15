@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    CJ606AAS
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 202:554
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Pilling, William Stockman to Mallory, Walter Seeley, June 14, 1902
+  </dc:title>
+  <dc:date>
+    1902-06-14
+  </dc:date>
+  <dc:subject>
+    Darling, Edward A; Hagerty, Edward E; Jaques, E A; Financial operations (companies and organizations); Management (companies and organizations)
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [CJ606] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ606</dcterms:isPartOf>none available
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Pilling, William Stockman</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Mallory, Walter Seeley</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>
