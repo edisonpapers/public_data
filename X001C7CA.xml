@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    X001C7CA
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of the Henry Ford Museum and Greenfield Village Research Center.
+  </dc:source>
+  <dc:title>
+    Letter from Campsall, Frank to Ott, Frederick Paul, June 17, 1929
+  </dc:title>
+  <dc:date>
+    1929-06-17
+  </dc:date>
+  <dc:subject>
+    Ford, Henry; Electric battery
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [X001C7] Henry Ford Museum and Greenfield Village Research Center, Dearborn, Mich. Edison Papers and Related Items -- Series I: Manuscripts -- Thomas A. Edison-Henry Ford Office Correspondence (1929)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X001C7</dcterms:isPartOf>
+  <dcterms:hasPart xsi:type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx9617.jpg</dcterms:hasPart>
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Campsall, Frank</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Ott, Frederick Paul</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    LB103269
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 276:98
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Edison, Thomas Alva to Urlus, Jacques, April 10, 1915
+  </dc:title>
+  <dc:date>
+    1915-04-10
+  </dc:date>
+  <dc:subject>
+    Miller, Walter Henry; Recording artists; TAE opinions and prejudices
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [LB103] General Letterbook Series Letterbook, LB-103 (1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=LB103</dcterms:isPartOf>none available
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Edison, Thomas Alva</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Urlus, Jacques</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

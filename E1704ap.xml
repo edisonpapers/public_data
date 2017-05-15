@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    E1704ap
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 268:75
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Edison, Thomas Alva to New York Sun, New York World, New York Herald, New York Tribune, New York Times, New York Post, New York Journal of Commerce, New York Journal, New York Globe, Newark Star Eagle and New York Mail and Express, February 23, 1917
+  </dc:title>
+  <dc:date>
+    1917-02-23
+  </dc:date>
+  <dc:subject>
+    Newark News; National government (U.S.); World War I
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [E1704] Edison General File Series -- 1917 (E-17-04) Articles
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=E1704</dcterms:isPartOf>none available
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Edison, Thomas Alva</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>New York Sun</tei:persName>
+	<tei:persName>New York World</tei:persName>
+	<tei:persName>New York Herald</tei:persName>
+	<tei:persName>New York Tribune</tei:persName>
+	<tei:persName>New York Times</tei:persName>
+	<tei:persName>New York Post</tei:persName>
+	<tei:persName>New York Journal of Commerce</tei:persName>
+	<tei:persName>New York Journal</tei:persName>
+	<tei:persName>New York Globe</tei:persName>
+	<tei:persName>Newark Star Eagle</tei:persName>
+	<tei:persName>New York Mail and Express</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>

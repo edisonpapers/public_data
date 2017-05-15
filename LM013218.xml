@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
+  <dc:identifier>
+    LM013218
+  </dc:identifier>
+  <dc:identifier>
+    TAEM 84:622
+  </dc:identifier>
+  <dc:publisher>
+    The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dc:publisher>
+  <dc:source>
+    Courtesy of Thomas Edison National Historical Park.
+  </dc:source>
+  <dc:title>
+    Letter from Insull, Samuel to Savannah Florida and Western Railway Co and Jackson, O W, December 17, 1886
+  </dc:title>
+  <dc:date>
+    1886-12-17
+  </dc:date>
+  <dc:subject>
+    Phonoplex and railroad telegraphy
+  </dc:subject>  
+  <dcterms:isPartOf>
+    [LM013] Letterbook Series -- Miscellaneous Letterbooks (LM-013) Phonoplex Letterbook (1886-1888)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf xsi:type="dcterms:URI">http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=LM013</dcterms:isPartOf>
+  <dcterms:hasPart xsi:type="dcterms:URI">http://edison.rutgers.edu/images/df/df0616.jpg</dcterms:hasPart>
+  <tei:correspDesc>
+    <tei:correspAction type="sent">
+	<tei:persName>Insull, Samuel</tei:persName>
+    </tei:correspAction>
+    <tei:correspAction type="received">
+	<tei:persName>Savannah Florida and Western Railway Co</tei:persName>
+	<tei:persName>Jackson, O W</tei:persName>
+    </tei:correspAction>
+  </tei:correspDesc>
+</record>
