@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <taep
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:dcterms="http://purl.org/dc/terms/"
   xmlns:tei="http://www.tei-c.org/ns/1.0">
   <dcterms:identifier>
