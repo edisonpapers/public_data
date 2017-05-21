@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Edison, Thomas Alva to Clarke, Charles Lorenzo, September 22, 1882
+	</dcterms:title>
+	<dcterms:date>
+		1882-09-22
+	</dcterms:date>
+	<dcterms:creator>
+		Edison, Thomas Alva
+	</dcterms:creator>
+	<dcterms:contributor>
+		Clarke, Charles Lorenzo
+	</dcterms:contributor>
+	<dcterms:subject>
+		Central stations
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		
+	</dcterms:source>
+	<dcterms:identifier>
+		B017AB
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[B017] Ernest Hodgdon Collection, Derry, N. H. 
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B017
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0394.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Howe, Arthur Whitney to Perry, William S, November 14, 1891
+	</dcterms:title>
+	<dcterms:date>
+		1891-11-14
+	</dcterms:date>
+	<dcterms:creator>
+		Howe, Arthur Whitney
+	</dcterms:creator>
+	<dcterms:contributor>
+		Perry, William S
+	</dcterms:contributor>
+	<dcterms:subject>
+		Bethlehem Iron Co; North Branch Steel Co; Ore concentrate; Sales and service; Sand
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ003AFX
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:429
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0418.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0419.jpg</dcterms:hasPart>
+</metadata>

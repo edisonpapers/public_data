@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Andress, Fred R to Edison, Thomas Alva, February 28, 1898
+	</dcterms:title>
+	<dcterms:date>
+		1898-02-28
+	</dcterms:date>
+	<dcterms:creator>
+		Andress, Fred R
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Ogden Ore Separating Plant; Briquettes and bricker machinery; Labor; Production difficulties and adjustments
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ011AAO
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:843
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ011] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1898)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ011
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0832.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0833.jpg</dcterms:hasPart>
+</metadata>

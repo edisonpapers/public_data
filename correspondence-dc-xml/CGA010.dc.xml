@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Brant, L J (Mrs John) to Edison, Thomas Alva, November 23, 1908
+	</dcterms:title>
+	<dcterms:date>
+		1908-11-23
+	</dcterms:date>
+	<dcterms:creator>
+		Brant, L J (Mrs John)
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Brant, John; Edison Ore Milling Co Ltd; Ore milling and separation; Stocks, bonds, and investments
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CGA010
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:641
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CGA] Company Records Series -- Edison Ore Milling Company, Ltd. Administrative Records (1892-1908)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CGA
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0630.jpg</dcterms:hasPart>
+</metadata>

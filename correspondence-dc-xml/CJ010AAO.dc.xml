@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Pilling and Crane to Edison, Thomas Alva, May 21, 1897
+	</dcterms:title>
+	<dcterms:date>
+		1897-05-21
+	</dcterms:date>
+	<dcterms:creator>
+		Pilling and Crane
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Mallory, Walter Seeley; Ogden Ore Separating Plant; Briquettes and bricker machinery; Ore milling and separation
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ010AAO
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:769
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ010] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1897)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ010
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0758.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0759.jpg</dcterms:hasPart>
+</metadata>
