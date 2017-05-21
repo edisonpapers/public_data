@@ -369,7 +369,7 @@
   	<xs:annotation>
     	<xs:documentation xml:lang="en">
     		This is included as a convenience for schema authors who need to define a root
-    		or container element for all of the DC elements and element refinements.
+    		or container element for all of the DC elements and element refinements. 
     	</xs:documentation>
   	</xs:annotation>
 
