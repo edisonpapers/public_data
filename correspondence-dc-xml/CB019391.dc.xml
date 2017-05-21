@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Edison Electric Light Co and Eaton, Sherburne Blake to Exhibition. Chicago Railway (1883), August 13, 1883
+	</dcterms:title>
+	<dcterms:date>
+		1883-08-13
+	</dcterms:date>
+	<dcterms:creator>
+		Edison Electric Light Co; Eaton, Sherburne Blake; 
+	</dcterms:creator>
+	<dcterms:contributor>
+		Exhibition. Chicago Railway (1883)
+	</dcterms:contributor>
+	<dcterms:subject>
+		Edison, Thomas Alva; Scientific American; Dynamos and generators; Expositions, demonstrations, lectures; Incandescent lamp
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CB019391
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 96:862
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CB019] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #19
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB019
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0841.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0842.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0843.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0844.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0845.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Platt, John to New Jersey and Pennsylvania Concentrating Works, January 17, 1896
+	</dcterms:title>
+	<dcterms:date>
+		1896-01-17
+	</dcterms:date>
+	<dcterms:creator>
+		Platt, John
+	</dcterms:creator>
+	<dcterms:contributor>
+		New Jersey and Pennsylvania Concentrating Works
+	</dcterms:contributor>
+	<dcterms:subject>
+		Newspapers, books, other publications; Ore milling and separation; Tools and machinery
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ009AAC
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:674
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ009] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1896)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ009
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0663.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0664.jpg</dcterms:hasPart>
+</metadata>

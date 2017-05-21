@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Rowe, William G to Livor, Henry M, March 18, 1889
+	</dcterms:title>
+	<dcterms:date>
+		1889-03-18
+	</dcterms:date>
+	<dcterms:creator>
+		Rowe, William G
+	</dcterms:creator>
+	<dcterms:contributor>
+		Livor, Henry M
+	</dcterms:contributor>
+	<dcterms:subject>
+		Griess, George G; Hartzell, Henry Kerr; Ore exploration and mining; Property
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ001AAG
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:18
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ001] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1889)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ001
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0008.jpg</dcterms:hasPart>
+</metadata>

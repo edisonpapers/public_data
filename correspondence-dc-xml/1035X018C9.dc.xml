@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Nichols, William Wallace to Edison, Mina Miller (Mrs Thomas A.), March 15, 1919
+	</dcterms:title>
+	<dcterms:date>
+		1919-03-15
+	</dcterms:date>
+	<dcterms:creator>
+		Nichols, William Wallace
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Mina Miller (Mrs Thomas A.)
+	</dcterms:contributor>
+	<dcterms:subject>
+		Clyde Steamship Co; Edison, Charles; Edison, Madeleine; Edison, Theodore Miller; Hitchcock, Halbert Kellogg; Miller, Grace A; Miller, Harry Frederick; Miller, John Vincent; Miller, Mary Emily; Seminole Lodge and Fort Myers; Sloane, John Eyre; Celebrations (anniversaries, birthdays, holidays); Edison-Miller family; Health and medicine; Railroads and transportation; Sports, leisure, recreation; World War I
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		1035X018C9
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3173.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3174.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3175.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3176.jpg</dcterms:hasPart>
+</metadata>

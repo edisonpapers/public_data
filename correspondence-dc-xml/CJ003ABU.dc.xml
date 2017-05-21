@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Central Railroad of New Jersey and Olhausen, Jacob H to Livor, Henry M, May 18, 1891
+	</dcterms:title>
+	<dcterms:date>
+		1891-05-18
+	</dcterms:date>
+	<dcterms:creator>
+		Central Railroad of New Jersey; Olhausen, Jacob H; 
+	</dcterms:creator>
+	<dcterms:contributor>
+		Livor, Henry M
+	</dcterms:contributor>
+	<dcterms:subject>
+		Ogden Ore Separating Plant; Peddle, William H; Ore milling and separation; Railroads and transportation
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ003ABU
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:270
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0258.jpg</dcterms:hasPart>
+</metadata>

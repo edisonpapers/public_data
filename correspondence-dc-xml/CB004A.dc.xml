@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Oregon and Trans-Continental Co and Henderson, John C to Edison, Thomas Alva, February 24, 1882
+	</dcterms:title>
+	<dcterms:date>
+		1882-02-24
+	</dcterms:date>
+	<dcterms:creator>
+		Oregon and Trans-Continental Co; Henderson, John C; 
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Villard, Henry; Dynamos and generators; Incandescent lamp; Isolated stations
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CB004A
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 96:676
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CB004] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #4
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB004
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0655r.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0656.jpg</dcterms:hasPart>
+</metadata>

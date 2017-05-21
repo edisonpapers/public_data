@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Miller, Robert Anderson to Edison, Mina Miller (Mrs Thomas A.), March 20, 1886
+	</dcterms:title>
+	<dcterms:date>
+		1886-03-20
+	</dcterms:date>
+	<dcterms:creator>
+		Miller, Robert Anderson
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Mina Miller (Mrs Thomas A.)
+	</dcterms:contributor>
+	<dcterms:subject>
+		Edison, Thomas Alva; Celebrations (anniversaries, birthdays, holidays); Edison-Miller family; Travel (TAE and family)
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		3461X018D3
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[X018D3] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Robert Anderson
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018D3
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2337.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2338.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2339.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2340.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2341.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2342.jpg</dcterms:hasPart>
+</metadata>

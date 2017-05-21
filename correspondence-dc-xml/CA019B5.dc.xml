@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Mottram, William T to Edison Electric Light Co and Johnson, Edward Hibberd, November 29, 1887
+	</dcterms:title>
+	<dcterms:date>
+		1887-11-29
+	</dcterms:date>
+	<dcterms:creator>
+		Mottram, William T
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison Electric Light Co; Johnson, Edward Hibberd; 
+	</dcterms:contributor>
+	<dcterms:subject>
+		Westinghouse Electric Co; Accidents, fires, explosions; Alternating current; Dynamos and generators
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CA019B5
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 147:47
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CA019] Primary Printed Series -- Electric Light Companies - Domestic Edison Electric Light Co (1887-1889)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA019
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0038.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0039.jpg</dcterms:hasPart>
+</metadata>

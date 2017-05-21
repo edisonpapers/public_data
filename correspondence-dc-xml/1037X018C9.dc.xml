@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Miller, Mary Emily, Nichols, William Wallace and Nichols, William Wallace to Edison, Madeleine, Edison, Mina Miller (Mrs Thomas A.), Edison, Madeleine and Edison, Mina Miller (Mrs Thomas A.), March 09, 1919
+	</dcterms:title>
+	<dcterms:date>
+		1919-03-09
+	</dcterms:date>
+	<dcterms:creator>
+		Miller, Mary Emily; Nichols, William Wallace; Nichols, William Wallace; 
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Madeleine; Edison, Mina Miller (Mrs Thomas A.); Edison, Madeleine; Edison, Mina Miller (Mrs Thomas A.); 
+	</dcterms:contributor>
+	<dcterms:subject>
+		Edison, Theodore Miller; Edison, Thomas Alva; Miller, Florence Nichols (Mrs John V.); Miller, John Vincent; Miller, Lewis Alexander; Miller, Louise Igoe (Mrs Robert A.); Miller, Margaret; Nichols, Marian; Nichols, Sarah Ann Stuart (Mrs Homer W.); Seminole Lodge and Fort Myers; Sloane, John Eyre; Sloane, Thomas Edison; Van Dyke, Henry Jackson; Edison-Miller family; Health and medicine; Newspapers, books, other publications; Sports, leisure, recreation; Travel
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		1037X018C9
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3181.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3182.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3183.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3184.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3185.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3186.jpg</dcterms:hasPart>
+</metadata>
