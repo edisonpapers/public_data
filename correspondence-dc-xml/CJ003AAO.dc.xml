@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Hewitt, Abram Stevens to Edison, Thomas Alva, April 07, 1891
+	</dcterms:title>
+	<dcterms:date>
+		1891-04-07
+	</dcterms:date>
+	<dcterms:creator>
+		Hewitt, Abram Stevens
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Cutting, Robert Livingston, Jr; Ore concentrate; Ore milling and separation; Sales and service
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CJ003AAO
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:230
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0218.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0219.jpg</dcterms:hasPart>
+</metadata>

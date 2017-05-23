@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Eaton and Lewis to Edison, Thomas Alva, November 13, 1894
+	</dcterms:title>
+	<dcterms:date>
+		1894-11-13
+	</dcterms:date>
+	<dcterms:creator>
+		Eaton and Lewis
+	</dcterms:creator>
+	<dcterms:contributor>
+		Edison, Thomas Alva
+	</dcterms:contributor>
+	<dcterms:subject>
+		Compagnie Continentale Edison; General Electric Co; Financial operations (companies and organizations); International business operations; Patents
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CE94110
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:524
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CE94] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1894)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE94
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0506.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0507.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0508.jpg</dcterms:hasPart>
+</metadata>

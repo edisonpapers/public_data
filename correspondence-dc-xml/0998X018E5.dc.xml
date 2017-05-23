@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Nichols, Marian to Edison, Mina Miller (Mrs Thomas A.) and Edison, Thomas Alva, June 11, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-06-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Nichols, Marian
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.); Edison, Thomas Alva; 
+  </dcterms:contributor>
+  <dcterms:subject>
+	Heurtley, Katharine; Kemper Hall; Miller, Mary Emily; Nichols, Ida Cornelia (Mrs Harrison J. Holt); Nichols, William Wallace; Sloane, Thomas Edison; Edison-Miller family; Education; Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund.
+  </dcterms:source>
+  <dcterms:identifier>
+	0998X018E5
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018E5] Charles Edison Fund Collection, Newark, N.J. Other Correspondents -- Nichols, Marian
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018E5
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3270.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3271.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3272.jpg</dcterms:hasPart>
+</metadata>

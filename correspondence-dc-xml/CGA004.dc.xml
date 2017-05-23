@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Perry, William S to Tate, Alfred Ord, November 09, 1892
+	</dcterms:title>
+	<dcterms:date>
+		1892-11-09
+	</dcterms:date>
+	<dcterms:creator>
+		Perry, William S
+	</dcterms:creator>
+	<dcterms:contributor>
+		Tate, Alfred Ord
+	</dcterms:contributor>
+	<dcterms:subject>
+		Edison Ore Milling Co Ltd; Edison, Thomas Alva; Contracts and other legal concerns; Ore milling and separation
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CGA004
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:633
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CGA] Company Records Series -- Edison Ore Milling Company, Ltd. Administrative Records (1892-1908)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CGA
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0621.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0622.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0623.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0624.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0625.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0626.jpg</dcterms:hasPart>
+</metadata>

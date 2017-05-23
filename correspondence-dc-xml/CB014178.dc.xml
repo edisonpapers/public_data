@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Edison Electric Light Co and Goddard, Calvin to New York Herald, September 23, 1882
+	</dcterms:title>
+	<dcterms:date>
+		1882-09-23
+	</dcterms:date>
+	<dcterms:creator>
+		Edison Electric Light Co; Goddard, Calvin; 
+	</dcterms:creator>
+	<dcterms:contributor>
+		New York Herald
+	</dcterms:contributor>
+	<dcterms:subject>
+		Faure Electric Accumulator Co; Dynamos and generators; Electric battery; Electric light and power
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CB014178
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 96:757
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CB014] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #14
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB014
+	</dcterms:isPartOf>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0736.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0737.jpg</dcterms:hasPart>
+	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0738.jpg</dcterms:hasPart>
+</metadata>

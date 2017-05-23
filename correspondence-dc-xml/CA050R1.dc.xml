@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+	<dcterms:title>
+		Letter from Shackleton, Ernest Henry to National Phonograph Co, March 30, 1910
+	</dcterms:title>
+	<dcterms:date>
+		1910-03-30
+	</dcterms:date>
+	<dcterms:creator>
+		Shackleton, Ernest Henry
+	</dcterms:creator>
+	<dcterms:contributor>
+		National Phonograph Co
+	</dcterms:contributor>
+	<dcterms:subject>
+		Cylinder recordings; Sales and service
+	</dcterms:subject>   
+	<dcterms:publisher>
+		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+	</dcterms:publisher>
+	<dcterms:source>
+		Courtesy of Thomas Edison National Historical Park.
+	</dcterms:source>
+	<dcterms:identifier>
+		CA050R1
+	</dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 219:765
+	</dcterms:identifier>
+	<dcterms:isPartOf>
+		[CA050] Primary Printed Series -- Edison Companies National Phonograph Co (1899-1910)
+	</dcterms:isPartOf> 
+	<dcterms:isPartOf type="dcterms:URI">
+		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA050
+	</dcterms:isPartOf>none available
+</metadata>
