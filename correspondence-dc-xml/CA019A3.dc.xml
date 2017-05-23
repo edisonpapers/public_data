@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison Electric Light Co, Johnson, Edward Hibberd and Johnson, Edward Hibberd to Thomson-Houston Electric Co, Garfield, Ellery Irving, Thomson-Houston Electric Co and Garfield, Ellery Irving, October 28, 1887
-	</dcterms:title>
-	<dcterms:date>
-		1887-10-28
-	</dcterms:date>
-	<dcterms:creator>
-		Edison Electric Light Co; Johnson, Edward Hibberd; Johnson, Edward Hibberd; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Thomson-Houston Electric Co; Garfield, Ellery Irving; Thomson-Houston Electric Co; Garfield, Ellery Irving; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Electric light and power; Patent infringement
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CA019A3
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison Electric Light Co and Johnson, Edward Hibberd to Thomson-Houston Electric Co and Garfield, Ellery Irving, October 28, 1887
+  </dcterms:title>
+  <dcterms:date>
+	1887-10-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Electric Light Co; Johnson, Edward Hibberd
+  </dcterms:creator>
+  <dcterms:contributor>
+	Thomson-Houston Electric Co; Garfield, Ellery Irving
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric light and power; Patent infringement
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CA019A3
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 147:14
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CA019] Primary Printed Series -- Electric Light Companies - Domestic Edison Electric Light Co (1887-1889)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA019
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0005.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0006.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CA019] Primary Printed Series -- Electric Light Companies - Domestic Edison Electric Light Co (1887-1889)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA019
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0005.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0006.jpg</dcterms:hasPart>
 </metadata>

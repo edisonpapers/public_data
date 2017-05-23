@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison Ore Milling Co Ltd and Perry, William S to Edison, Thomas Alva, August 05, 1887
-	</dcterms:title>
-	<dcterms:date>
-		1887-08-05
-	</dcterms:date>
-	<dcterms:creator>
-		Edison Ore Milling Co Ltd; Perry, William S; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Thomas Alva
-	</dcterms:contributor>
-	<dcterms:subject>
-		Tomlinson, John Canfield; Management (companies and organizations); Stocks, bonds, and investments
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CG001AAI7
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison Ore Milling Co Ltd and Perry, William S to Edison, Thomas Alva, August 05, 1887
+  </dcterms:title>
+  <dcterms:date>
+	1887-08-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Ore Milling Co Ltd; Perry, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Tomlinson, John Canfield; Management (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CG001AAI7
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 97:437
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CG001] Company Records Series -- Other Companies Edison Ore Milling Co (1879-1900)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CG001
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0420.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CG001] Company Records Series -- Other Companies Edison Ore Milling Co (1879-1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CG001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0420.jpg</dcterms:hasPart>
 </metadata>

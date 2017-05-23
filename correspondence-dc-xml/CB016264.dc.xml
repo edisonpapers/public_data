@@ -1,39 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison Electric Light Co, Eaton, Sherburne Blake and Eaton, Sherburne Blake to New York World, New York Times, New York World and New York Times, December 25, 1882
-	</dcterms:title>
-	<dcterms:date>
-		1882-12-25
-	</dcterms:date>
-	<dcterms:creator>
-		Edison Electric Light Co; Eaton, Sherburne Blake; Eaton, Sherburne Blake; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		New York World; New York Times; New York World; New York Times; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Brush Electric Co; Arc lighting; Electric battery; Electrocution
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CB016264
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison Electric Light Co and Eaton, Sherburne Blake to New York World and New York Times, December 25, 1882
+  </dcterms:title>
+  <dcterms:date>
+	1882-12-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Electric Light Co; Eaton, Sherburne Blake
+  </dcterms:creator>
+  <dcterms:contributor>
+	New York World; New York Times
+  </dcterms:contributor>
+  <dcterms:subject>
+	Brush Electric Co; Arc lighting; Electric battery; Electrocution
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CB016264
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 96:799
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CB016] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #16
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB016
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0778.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0779.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0780.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CB016] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #16
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB016
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0778.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0779.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0780.jpg</dcterms:hasPart>
 </metadata>

@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Perry, William S to Edison, Thomas Alva, September 16, 1890
-	</dcterms:title>
-	<dcterms:date>
-		1890-09-16
-	</dcterms:date>
-	<dcterms:creator>
-		Perry, William S
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Thomas Alva
-	</dcterms:contributor>
-	<dcterms:subject>
-		Gildea, P F; Ore exploration and mining
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ002ADO
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Perry, William S to Edison, Thomas Alva, September 16, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-09-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Perry, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gildea, P F; Ore exploration and mining
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ002ADO
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:179
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ002] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1890)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ002
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0168.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0169.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0170.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0171.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ002] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ002
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0168.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0169.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0170.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0171.jpg</dcterms:hasPart>
 </metadata>

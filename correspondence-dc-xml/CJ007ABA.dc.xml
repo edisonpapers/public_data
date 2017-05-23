@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Mallory, Walter Seeley to Perry, William S, November 14, 1894
-	</dcterms:title>
-	<dcterms:date>
-		1894-11-14
-	</dcterms:date>
-	<dcterms:creator>
-		Mallory, Walter Seeley
-	</dcterms:creator>
-	<dcterms:contributor>
-		Perry, William S
-	</dcterms:contributor>
-	<dcterms:subject>
-		Ogden Ore Separating Plant; Property
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ007ABA
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Perry, William S, November 14, 1894
+  </dcterms:title>
+  <dcterms:date>
+	1894-11-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Perry, William S
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ007ABA
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:637
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ007] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1894)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ007
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0626.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0627.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0628.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0629.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ007] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1894)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ007
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0626.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0627.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0628.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0629.jpg</dcterms:hasPart>
 </metadata>

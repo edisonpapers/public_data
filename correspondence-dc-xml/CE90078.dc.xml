@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Insull, Samuel to Tate, Alfred Ord, April 01, 1890
-	</dcterms:title>
-	<dcterms:date>
-		1890-04-01
-	</dcterms:date>
-	<dcterms:creator>
-		Insull, Samuel
-	</dcterms:creator>
-	<dcterms:contributor>
-		Tate, Alfred Ord
-	</dcterms:contributor>
-	<dcterms:subject>
-		Batchelor, Charles; Edison Electric Light Co of Europe Ltd; Electric light and power; International business operations; Management (companies and organizations)
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CE90078
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Insull, Samuel to Tate, Alfred Ord, April 01, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-04-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Insull, Samuel
+  </dcterms:creator>
+  <dcterms:contributor>
+	Tate, Alfred Ord
+  </dcterms:contributor>
+  <dcterms:subject>
+	Batchelor, Charles; Edison Electric Light Co of Europe Ltd; Electric light and power; International business operations; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE90078
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 158:476
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CE90] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1890)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE90
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0462.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0463.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CE90] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE90
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0462.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0463.jpg</dcterms:hasPart>
 </metadata>

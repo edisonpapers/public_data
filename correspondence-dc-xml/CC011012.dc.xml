@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Sawyer, William Edward to New York Sun, January 04, 1880
-	</dcterms:title>
-	<dcterms:date>
-		1880-01-04
-	</dcterms:date>
-	<dcterms:creator>
-		Sawyer, William Edward
-	</dcterms:creator>
-	<dcterms:contributor>
-		New York Sun
-	</dcterms:contributor>
-	<dcterms:subject>
-		Edison, Thomas Alva; Competition and market structure; Incandescent lamp
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CC011012
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Sawyer, William Edward to New York Sun, January 04, 1880
+  </dcterms:title>
+  <dcterms:date>
+	1880-01-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Sawyer, William Edward
+  </dcterms:creator>
+  <dcterms:contributor>
+	New York Sun
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Competition and market structure; Incandescent lamp
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CC011012
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 97:86
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CC011] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #11
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC011
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0084.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CC011] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #11
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC011
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0084.jpg</dcterms:hasPart>
 </metadata>

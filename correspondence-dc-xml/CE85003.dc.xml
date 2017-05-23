@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Meadowcroft, William Henry to Edison, Thomas Alva, January 19, 1885
-	</dcterms:title>
-	<dcterms:date>
-		1885-01-19
-	</dcterms:date>
-	<dcterms:creator>
-		Meadowcroft, William Henry
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Thomas Alva
-	</dcterms:contributor>
-	<dcterms:subject>
-		Contracts and other legal concerns
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CE85003
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Meadowcroft, William Henry to Edison, Thomas Alva, January 19, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-01-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Meadowcroft, William Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Contracts and other legal concerns
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE85003
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 158:358
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CE85] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1885)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE85
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0348.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CE85] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1885)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE85
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0348.jpg</dcterms:hasPart>
 </metadata>

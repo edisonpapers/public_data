@@ -1,36 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison, Theodore Miller and Edison, Ann Osterhout (Mrs Theodore M.) to Edison, Mina Miller (Mrs Thomas A.), April 03, 1938
-	</dcterms:title>
-	<dcterms:date>
-		1938-04-03
-	</dcterms:date>
-	<dcterms:creator>
-		Edison, Theodore Miller; Edison, Ann Osterhout (Mrs Theodore M.); 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Mina Miller (Mrs Thomas A.)
-	</dcterms:contributor>
-	<dcterms:subject>
-		Edison-Miller family
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		4319X018A8
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[X018A8B] Charles Edison Fund Collection, Newark, N.J. Edison Family Papers -- Edison, Theodore Miller  (1919-1932)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018A8B
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4020.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4021.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4022.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison, Theodore Miller and Edison, Ann Osterhout (Mrs Theodore M.) to Edison, Mina Miller (Mrs Thomas A.), April 03, 1938
+  </dcterms:title>
+  <dcterms:date>
+	1938-04-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Theodore Miller; Edison, Ann Osterhout (Mrs Theodore M.)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison-Miller family
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	4319X018A8
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018A8B] Charles Edison Fund Collection, Newark, N.J. Edison Family Papers -- Edison, Theodore Miller  (1919-1932)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018A8B
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4020.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4021.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw4022.jpg</dcterms:hasPart>
 </metadata>

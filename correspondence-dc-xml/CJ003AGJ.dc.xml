@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Batchelor, Charles to Edison, Thomas Alva, December 29, 1891
-	</dcterms:title>
-	<dcterms:date>
-		1891-12-29
-	</dcterms:date>
-	<dcterms:creator>
-		Batchelor, Charles
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Thomas Alva
-	</dcterms:contributor>
-	<dcterms:subject>
-		Conley, Owen J; Thomas, E W; Ore milling and separation
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ003AGJ
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Batchelor, Charles to Edison, Thomas Alva, December 29, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-12-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Batchelor, Charles
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Conley, Owen J; Thomas, E W; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ003AGJ
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:444
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0433.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0433.jpg</dcterms:hasPart>
 </metadata>

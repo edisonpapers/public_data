@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Hardy, William Abbott to Edison, Thomas Alva, May 22, 1925
-	</dcterms:title>
-	<dcterms:date>
-		1925-05-22
-	</dcterms:date>
-	<dcterms:creator>
-		Hardy, William Abbott
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Thomas Alva
-	</dcterms:contributor>
-	<dcterms:subject>
-		Electric battery; Patents
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of the Gallery of History, Inc.
-	</dcterms:source>
-	<dcterms:identifier>
-		B056aX
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[B056] Gallery of History, Las Vegas, Nev. 
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B056
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1649.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Hardy, William Abbott to Edison, Thomas Alva, May 22, 1925
+  </dcterms:title>
+  <dcterms:date>
+	1925-05-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Hardy, William Abbott
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric battery; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Gallery of History, Inc.
+  </dcterms:source>
+  <dcterms:identifier>
+	B056aX
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B056] Gallery of History, Las Vegas, Nev. 
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B056
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1649.jpg</dcterms:hasPart>
 </metadata>

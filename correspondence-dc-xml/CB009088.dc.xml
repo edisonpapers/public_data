@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Clarke, Frederick Emerson to Edison Company for Isolated Lighting and Moore, Miller F, May 01, 1882
-	</dcterms:title>
-	<dcterms:date>
-		1882-05-01
-	</dcterms:date>
-	<dcterms:creator>
-		Clarke, Frederick Emerson
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Company for Isolated Lighting; Moore, Miller F; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Edison, Thomas Alva; Dynamos and generators; Gas, petroleum, and derivative products; Incandescent lamp
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CB009088
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Clarke, Frederick Emerson to Edison Company for Isolated Lighting and Moore, Miller F, May 01, 1882
+  </dcterms:title>
+  <dcterms:date>
+	1882-05-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Clarke, Frederick Emerson
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Company for Isolated Lighting; Moore, Miller F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Dynamos and generators; Gas, petroleum, and derivative products; Incandescent lamp
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CB009088
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 96:712
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CB009] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #9
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB009
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0691.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CB009] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #9
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB009
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0691.jpg</dcterms:hasPart>
 </metadata>
