@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Nichols, William Wallace to Edison, Mina Miller (Mrs Thomas A.), September 18, 1916
-	</dcterms:title>
-	<dcterms:date>
-		1916-09-18
-	</dcterms:date>
-	<dcterms:creator>
-		Nichols, William Wallace
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Mina Miller (Mrs Thomas A.)
-	</dcterms:contributor>
-	<dcterms:subject>
-		American Industrial Commission (France); Edison, Thomas Alva; Edison-Miller family; TAE personality and character; Travel
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		1000X018C9
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3101.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Nichols, William Wallace to Edison, Mina Miller (Mrs Thomas A.), September 18, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-09-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Nichols, William Wallace
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Industrial Commission (France); Edison, Thomas Alva; Edison-Miller family; TAE personality and character; Travel
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	1000X018C9
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3101.jpg</dcterms:hasPart>
 </metadata>
