@@ -5,26 +5,14 @@
 	<xs:element name="taep">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element ref="dcterms:identifier" maxOccurs="2"/>
-				<xs:element ref="dcterms:publisher" maxOccurs="1"/>
-				<xs:element ref="dcterms:source" maxOccurs="1"/>
 				<xs:element ref="dcterms:title" maxOccurs="1"/>
 				<xs:element ref="dcterms:date" maxOccurs="1"/>
+				<xs:element ref="dcterms:creator" minOccurs="1" maxOccurs="unbounded"/>
+				<xs:element ref="dcterms:contributor" minOccurs="1" maxOccurs="unbounded"/>
 				<xs:element ref="dcterms:subject" minOccurs="0" maxOccurs="unbounded"/>
-				<xs:element name="correspDesc" maxOccurs="1">
-					<xs:complexType>
-						<xs:sequence>
-							<xs:element name="correspAction" maxOccurs="2">
-								<xs:complexType>
-									<xs:sequence>
-										<xs:element name="persName" maxOccurs="unbounded"/>
-										<xs:element name="orgName" minOccurs="0" maxOccurs="unbounded"/>
-									</xs:sequence>
-								</xs:complexType>
-							</xs:element>
-						</xs:sequence>
-					</xs:complexType>
-				</xs:element>
+				<xs:element ref="dcterms:publisher" maxOccurs="1"/>
+				<xs:element ref="dcterms:source" maxOccurs="1"/>
+				<xs:element ref="dcterms:identifier" maxOccurs="2"/>
 				<xs:element ref="dcterms:isPartOf" maxOccurs="2"/>
 				<xs:element ref="dcterms:hasPart" minOccurs="0" maxOccurs="unbounded"/>
 			</xs:sequence>
