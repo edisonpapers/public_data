@@ -1,0 +1,122 @@
+<TEI xml:id="D9715AAD; TAEM 136:737" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="en">
+ <fileDesc>
+  <titleStmt>
+   <title type="main">Association of Edison Illuminating Companies and Insull, Samuel to Edison, Thomas Alva</title>
+   <author>
+    <orgName>Association of Edison Illuminating Companies</orgName> and <persName>Insull, Samuel</persName>
+   </author>
+  </titleStmt>
+  <publicationStmt>
+   <publisher>The Thomas A. Edison Papers: Rutgers University</publisher>
+   <availability>
+    <p>These pages may be freely searched. Permission must be received for any type of citation
+        or distribution. Please go to http://edison.rutgers.edu/contact.htm for more information.To order the Thomas A. Edison Microfilm Edition, and guide, contact Proquest 
+        Phone: 800.521.0600 (toll free in the USA and Canada)E-mail: academicinfo@proquest.com</p>
+   </availability>
+   <date when="1897-07-28"/>
+  </publicationStmt>
+  <seriesStmt>
+   <title level="s" type="main">Document File Series</title>
+  </seriesStmt>
+  <sourceDesc>
+   <biblStruct>
+    <monogr>
+     <author>
+      <orgName>Association of Edison Illuminating Companies</orgName> and <persName>Insull, Samuel</persName>
+     </author>
+     <title level="s" type="sub">Correspondence.</title>
+     <imprint>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>Association of Edison Illuminating Companies</publisher>
+      <date when="1897-07-28">July 28, 1897</date>
+     </imprint>
+     <extent>4 images</extent>
+    </monogr>
+    <note>First published in microfilm in The Thomas A. Edison Papers Microfilm Edition</note>
+    <idno type="URI">http://edison.rutgers.edu/NamesSearch/SingleDoc.php3?DocId=D9715AAD&searchDoc=Enter</idno>
+   </biblStruct>
+   <msDesc>
+    <additional>
+        <adminInfo>
+            <recordHist>
+                <source>Courtesy of <name type="place">Thomas Edison National Historical Park</name></source>
+            </recordHist>
+        </adminInfo>
+    </additional>
+   </msDesc>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>XML created for The Thomas A. Edison Papers.</p>
+  </projectDesc>
+  <editorialDecl>
+   <p>Data in the <gi>sourceDesc</gi> of the header comes from a pre-AACR2 record. Other data
+       follows AACR2 when applicable.</p>
+   <p>
+    <gi>sourceDesc</gi> created by exporting from catalog on 2008-06-15.</p>
+   <p>This electronic text file was created by optical character recognition (OCR). No
+       corrections have been made to the OCR-ed text and no editing has been done to the content
+       of the original document. Encoding has been done using the recommendations for Level 1 of
+       the TEI in Libraries Guidelines.</p>
+   <p>Line breaks and column breaks have not been encoded, but page breaks have.</p>
+   <p>All hyphens and quotation marks have been retained.</p>
+  </editorialDecl>
+  <tagsDecl>
+   <namespace name="http://edison.rutgers.edu/NamesSearch/SingleDoc.php3?DocId=D9715AAD&searchDoc=Enter">
+    <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+   </namespace>
+  </tagsDecl>
+  <classDecl>
+   <taxonomy xml:id="LCC">
+    <bibl>Library of Congress Classification</bibl>
+   </taxonomy>
+   <taxonomy xml:id="LCSH">
+    <bibl>Library of Congress Subject Headings</bibl>
+   </taxonomy>
+  </classDecl>
+ </encodingDesc>
+ <profileDesc>
+  <langUsage>
+   <language ident="en"/>
+  </langUsage>
+  <textClass>
+   <classCode scheme="https://www.loc.gov/catdir/cpso/lcco/">E456</classCode>
+   <keywords scheme="http://id.loc.gov/authorities/about.html#lcsh">
+    <list>
+     <item>Awards (Awards & honors/clubs & societies)</item>
+     <item>Clubs (Awards & honors/clubs & societies)</item>
+     <item>Electric lighting (Electric light and power)</item>
+     <item>Magnetic separation of ores (Ore milling & separation)</item>
+    </list>
+   </keywords>
+  </textClass>
+<correspDesc>
+ <correspAction type="sent">
+  <persName>Association of Edison Illuminating Companies</persName>
+   <placeName>Chicago</placeName>
+   <date when="1897-07-28">19 July 1886</date>
+ </correspAction>
+ <persName>Samuel Insull</persName>
+   <placeName>Chicago</placeName>
+ </correspAction>
+ <correspAction type="received">
+  <orgName>Edison, Thomas Alva</orgName>
+  <placeName>Orange</placeName>
+ </correspAction>
+</correspDesc>
+<settingDesc>
+    <place>
+        <country>United States</country>
+        <placeName>
+            <region type="state" n="NJ">New Jersey</region>
+            <settlement>Ogden Ore Separating Plant/Ogdensburg</settlement>
+        </placeName>
+    </place>
+</settingDesc>
+</profileDesc>
+ <revisionDesc>
+  <change who="#CKP" when="2005-05-25">Header generated from export of MARC record</change>
+ </revisionDesc>
+</teiHeader>
