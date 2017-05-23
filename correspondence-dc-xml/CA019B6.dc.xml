@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison Electric Illuminating Co (New York), Beggs, John Irvin and Beggs, John Irvin to Edison Electric Light Co, Johnson, Edward Hibberd, Edison Electric Light Co and Johnson, Edward Hibberd, December 27, 1887
-	</dcterms:title>
-	<dcterms:date>
-		1887-12-27
-	</dcterms:date>
-	<dcterms:creator>
-		Edison Electric Illuminating Co (New York); Beggs, John Irvin; Beggs, John Irvin; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Electric Light Co; Johnson, Edward Hibberd; Edison Electric Light Co; Johnson, Edward Hibberd; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Skehan, James B; Trask, Spencer; Central stations; Sales and service; Sockets, fuses, meters, and other interior elements
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CA019B6
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison Electric Illuminating Co (New York) and Beggs, John Irvin to Edison Electric Light Co and Johnson, Edward Hibberd, December 27, 1887
+  </dcterms:title>
+  <dcterms:date>
+	1887-12-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Electric Illuminating Co (New York); Beggs, John Irvin
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co; Johnson, Edward Hibberd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Skehan, James B; Trask, Spencer; Central stations; Sales and service; Sockets, fuses, meters, and other interior elements
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CA019B6
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 147:48
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CA019] Primary Printed Series -- Electric Light Companies - Domestic Edison Electric Light Co (1887-1889)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA019
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0039.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0040.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CA019] Primary Printed Series -- Electric Light Companies - Domestic Edison Electric Light Co (1887-1889)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA019
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0039.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fq/fq0040.jpg</dcterms:hasPart>
 </metadata>

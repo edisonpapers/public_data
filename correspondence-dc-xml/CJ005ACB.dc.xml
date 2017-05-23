@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Baker and Adamson Chemical Co to Bethlehem Iron Co and Colby, Albert Ladd, October 01, 1892
-	</dcterms:title>
-	<dcterms:date>
-		1892-10-01
-	</dcterms:date>
-	<dcterms:creator>
-		Baker and Adamson Chemical Co
-	</dcterms:creator>
-	<dcterms:contributor>
-		Bethlehem Iron Co; Colby, Albert Ladd; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Metals and minerals; Sales and service
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ005ACB
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Baker and Adamson Chemical Co to Bethlehem Iron Co and Colby, Albert Ladd, October 01, 1892
+  </dcterms:title>
+  <dcterms:date>
+	1892-10-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Baker and Adamson Chemical Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bethlehem Iron Co; Colby, Albert Ladd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Metals and minerals; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ005ACB
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:514
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ005] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1892)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ005
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0503.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ005] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ005
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0503.jpg</dcterms:hasPart>
 </metadata>

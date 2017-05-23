@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Miller, Mary Emily to Edison, Mina Miller (Mrs Thomas A.) and Edison, Thomas Alva, March 21, 1920
-	</dcterms:title>
-	<dcterms:date>
-		1920-03-21
-	</dcterms:date>
-	<dcterms:creator>
-		Miller, Mary Emily
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison, Mina Miller (Mrs Thomas A.); Edison, Thomas Alva; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		League of Nations; Nichols, Marian; Nichols, William Wallace; Seminole Lodge and Fort Myers; Washington Post; Edison-Miller family; Foreign affairs; Newspapers, books, other publications; Railroads and transportation; Social customs, norms, values; Sports, leisure, recreation; Travel
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		1048X018C9
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3211.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3212.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3213.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3214.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3215.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3216.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3217.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3218.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3219.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Miller, Mary Emily to Edison, Mina Miller (Mrs Thomas A.) and Edison, Thomas Alva, March 21, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-03-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, Mary Emily
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.); Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	League of Nations; Nichols, Marian; Nichols, William Wallace; Seminole Lodge and Fort Myers; Washington Post; Edison-Miller family; Foreign affairs; Newspapers, books, other publications; Railroads and transportation; Social customs, norms, values; Sports, leisure, recreation; Travel
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	1048X018C9
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3211.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3212.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3213.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3214.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3215.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3216.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3217.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3218.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3219.jpg</dcterms:hasPart>
 </metadata>

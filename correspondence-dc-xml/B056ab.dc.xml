@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison, Thomas Alva to Norris, George, April 06, 1878
-	</dcterms:title>
-	<dcterms:date>
-		1878-04-06
-	</dcterms:date>
-	<dcterms:creator>
-		Edison, Thomas Alva
-	</dcterms:creator>
-	<dcterms:contributor>
-		Norris, George
-	</dcterms:contributor>
-	<dcterms:subject>
-		Batchelor, Charles; Domestic Telegraph Co; Litigation
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of the Gallery of History, Inc.
-	</dcterms:source>
-	<dcterms:identifier>
-		B056ab
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[B056] Gallery of History, Las Vegas, Nev. 
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B056
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1623.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1624.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Norris, George, April 06, 1878
+  </dcterms:title>
+  <dcterms:date>
+	1878-04-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Norris, George
+  </dcterms:contributor>
+  <dcterms:subject>
+	Batchelor, Charles; Domestic Telegraph Co; Litigation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Gallery of History, Inc.
+  </dcterms:source>
+  <dcterms:identifier>
+	B056ab
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B056] Gallery of History, Las Vegas, Nev. 
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B056
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1623.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1624.jpg</dcterms:hasPart>
 </metadata>

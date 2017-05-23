@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Western Edison Light Co to Edison Electric Light Co, October 06, 1883
-	</dcterms:title>
-	<dcterms:date>
-		1883-10-06
-	</dcterms:date>
-	<dcterms:creator>
-		Western Edison Light Co
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Electric Light Co
-	</dcterms:contributor>
-	<dcterms:subject>
-		Maxim, Hiram Stevens; United States Electric Lighting Co; Competition and market structure; Electric light and power; Sales and service
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CB020430
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Western Edison Light Co to Edison Electric Light Co, October 06, 1883
+  </dcterms:title>
+  <dcterms:date>
+	1883-10-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Western Edison Light Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Maxim, Hiram Stevens; United States Electric Lighting Co; Competition and market structure; Electric light and power; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CB020430
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 96:881
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CB020] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #20
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB020
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0860.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0861.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0862.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0863.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CB020] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #20
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB020
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0860.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0861.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0862.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0863.jpg</dcterms:hasPart>
 </metadata>

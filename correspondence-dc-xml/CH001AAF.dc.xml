@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Continental Telephone Co, Russell, Henry S and Russell, Henry S to Edison Telephone Co of Europe Ltd, Griffin, Stockton L, Edison Telephone Co of Europe Ltd and Griffin, Stockton L, August 31, 1880
-	</dcterms:title>
-	<dcterms:date>
-		1880-08-31
-	</dcterms:date>
-	<dcterms:creator>
-		Continental Telephone Co; Russell, Henry S; Russell, Henry S; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Telephone Co of Europe Ltd; Griffin, Stockton L; Edison Telephone Co of Europe Ltd; Griffin, Stockton L; 
-	</dcterms:contributor>
-	<dcterms:subject>
-		Bailey, Joshua Franklin; Puskas, Theodore; Contracts and other legal concerns; International business operations
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CH001AAF
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Continental Telephone Co and Russell, Henry S to Edison Telephone Co of Europe Ltd and Griffin, Stockton L, August 31, 1880
+  </dcterms:title>
+  <dcterms:date>
+	1880-08-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Continental Telephone Co; Russell, Henry S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Telephone Co of Europe Ltd; Griffin, Stockton L
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bailey, Joshua Franklin; Puskas, Theodore; Contracts and other legal concerns; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CH001AAF
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 97:548
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CH001] Company Records Series -- Other Companies Edison Telephone Co of Europe (1879-1881)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CH001
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0530.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0531.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CH001] Company Records Series -- Other Companies Edison Telephone Co of Europe (1879-1881)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CH001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0530.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0531.jpg</dcterms:hasPart>
 </metadata>

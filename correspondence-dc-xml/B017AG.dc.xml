@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison, Thomas Alva to Clarke, Charles Lorenzo, April 27, 1883
-	</dcterms:title>
-	<dcterms:date>
-		1883-04-27
-	</dcterms:date>
-	<dcterms:creator>
-		Edison, Thomas Alva
-	</dcterms:creator>
-	<dcterms:contributor>
-		Clarke, Charles Lorenzo
-	</dcterms:contributor>
-	<dcterms:subject>
-		Dynamos and generators
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		
-	</dcterms:source>
-	<dcterms:identifier>
-		B017AG
-	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[B017] Ernest Hodgdon Collection, Derry, N. H. 
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B017
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0400.jpg</dcterms:hasPart>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Clarke, Charles Lorenzo, April 27, 1883
+  </dcterms:title>
+  <dcterms:date>
+	1883-04-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Clarke, Charles Lorenzo
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dynamos and generators
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	
+  </dcterms:source>
+  <dcterms:identifier>
+	B017AG
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B017] Ernest Hodgdon Collection, Derry, N. H. 
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B017
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0400.jpg</dcterms:hasPart>
 </metadata>

@@ -1,36 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Electrical Testing Laboratories and Howell, Wilson Stout to Edison Business Phonograph Co, September 24, 1908
-	</dcterms:title>
-	<dcterms:date>
-		1908-09-24
-	</dcterms:date>
-	<dcterms:creator>
-		Electrical Testing Laboratories; Howell, Wilson Stout; 
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Business Phonograph Co
-	</dcterms:contributor>
-	<dcterms:subject>
-		Cylinder phonograph; Manufacturing; Motors
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CA045A3
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Electrical Testing Laboratories and Howell, Wilson Stout to Edison Business Phonograph Co, September 24, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Electrical Testing Laboratories; Howell, Wilson Stout
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Business Phonograph Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder phonograph; Manufacturing; Motors
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CA045A3
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 219:361
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CA045] Primary Printed Series -- Edison Companies Edison Business Phonograph Co (1908-1910)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA045
-	</dcterms:isPartOf>none available
+  <dcterms:isPartOf>
+	[CA045] Primary Printed Series -- Edison Companies Edison Business Phonograph Co (1908-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CA045
+  </dcterms:isPartOf>none available
 </metadata>

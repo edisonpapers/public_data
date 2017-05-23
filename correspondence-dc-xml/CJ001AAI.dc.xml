@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Edison, Thomas Alva to Tate, Alfred Ord, June 11, 1889
-	</dcterms:title>
-	<dcterms:date>
-		1889-06-11
-	</dcterms:date>
-	<dcterms:creator>
-		Edison, Thomas Alva
-	</dcterms:creator>
-	<dcterms:contributor>
-		Tate, Alfred Ord
-	</dcterms:contributor>
-	<dcterms:subject>
-		Bergh, F P; Dickson, William Kennedy Laurie; Miscellaneous electrical technologies; Ore milling and separation; Scientific and other instruments
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ001AAI
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Tate, Alfred Ord, June 11, 1889
+  </dcterms:title>
+  <dcterms:date>
+	1889-06-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Tate, Alfred Ord
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bergh, F P; Dickson, William Kennedy Laurie; Miscellaneous electrical technologies; Ore milling and separation; Scientific and other instruments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ001AAI
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:20
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ001] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1889)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ001
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0010.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0011.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ001] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1889)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0010.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0011.jpg</dcterms:hasPart>
 </metadata>

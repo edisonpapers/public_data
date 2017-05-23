@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Societa Generale Italiana di Elettricita to Edison Electric Light Co of Europe Ltd, August 27, 1891
-	</dcterms:title>
-	<dcterms:date>
-		1891-08-27
-	</dcterms:date>
-	<dcterms:creator>
-		Societa Generale Italiana di Elettricita
-	</dcterms:creator>
-	<dcterms:contributor>
-		Edison Electric Light Co of Europe Ltd
-	</dcterms:contributor>
-	<dcterms:subject>
-		Edison General Electric Co; Sprague Electric Railway and Motor Co; Contracts and other legal concerns; Electric traction; International business operations
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CE91095
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Societa Generale Italiana di Elettricita to Edison Electric Light Co of Europe Ltd, August 27, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-08-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Societa Generale Italiana di Elettricita
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co of Europe Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison General Electric Co; Sprague Electric Railway and Motor Co; Contracts and other legal concerns; Electric traction; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE91095
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 158:500
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CE91] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1891)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE91
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0485.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CE91] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE91
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0485.jpg</dcterms:hasPart>
 </metadata>

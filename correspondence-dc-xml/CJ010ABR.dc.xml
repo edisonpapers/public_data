@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Worcester Machine Screw Co to New Jersey and Pennsylvania Concentrating Works, October 04, 1897
-	</dcterms:title>
-	<dcterms:date>
-		1897-10-04
-	</dcterms:date>
-	<dcterms:creator>
-		Worcester Machine Screw Co
-	</dcterms:creator>
-	<dcterms:contributor>
-		New Jersey and Pennsylvania Concentrating Works
-	</dcterms:contributor>
-	<dcterms:subject>
-		Edison, Thomas Alva; Loans
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ010ABR
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Worcester Machine Screw Co to New Jersey and Pennsylvania Concentrating Works, October 04, 1897
+  </dcterms:title>
+  <dcterms:date>
+	1897-10-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Worcester Machine Screw Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	New Jersey and Pennsylvania Concentrating Works
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Loans
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ010ABR
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:805
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ010] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1897)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ010
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0794.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ010] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1897)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ010
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0794.jpg</dcterms:hasPart>
 </metadata>

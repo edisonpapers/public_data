@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Tate, Alfred Ord to Dyer and Seely, September 14, 1887
-	</dcterms:title>
-	<dcterms:date>
-		1887-09-14
-	</dcterms:date>
-	<dcterms:creator>
-		Tate, Alfred Ord
-	</dcterms:creator>
-	<dcterms:contributor>
-		Dyer and Seely
-	</dcterms:contributor>
-	<dcterms:subject>
-		Comitato per le Applicazioni dell'Elettricita; Compagnie Continentale Edison; Electric light and power; International business operations; Patents
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CE87049
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Tate, Alfred Ord to Dyer and Seely, September 14, 1887
+  </dcterms:title>
+  <dcterms:date>
+	1887-09-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Tate, Alfred Ord
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer and Seely
+  </dcterms:contributor>
+  <dcterms:subject>
+	Comitato per le Applicazioni dell'Elettricita; Compagnie Continentale Edison; Electric light and power; International business operations; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE87049
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 158:427
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CE87] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1887)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE87
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0416.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CE87] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1887)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE87
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0416.jpg</dcterms:hasPart>
 </metadata>

@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/"  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
-	<dcterms:title>
-		Letter from Gilpin, Charles, Jr to Perry, William S, May 21, 1891
-	</dcterms:title>
-	<dcterms:date>
-		1891-05-21
-	</dcterms:date>
-	<dcterms:creator>
-		Gilpin, Charles, Jr
-	</dcterms:creator>
-	<dcterms:contributor>
-		Perry, William S
-	</dcterms:contributor>
-	<dcterms:subject>
-		Andover Iron Co; Ogden Iron Co; Financial operations (companies and organizations); Profits and losses; Property
-	</dcterms:subject>   
-	<dcterms:publisher>
-		The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
-	</dcterms:publisher>
-	<dcterms:source>
-		Courtesy of Thomas Edison National Historical Park.
-	</dcterms:source>
-	<dcterms:identifier>
-		CJ003ABW2
-	</dcterms:identifier>
+<metadata 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:dcterms="http://purl.org/dc/terms/"  
+  dcterms:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dcterms:title>
+	Letter from Gilpin, Charles, Jr to Perry, William S, May 21, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-05-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilpin, Charles, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Perry, William S
+  </dcterms:contributor>
+  <dcterms:subject>
+	Andover Iron Co; Ogden Iron Co; Financial operations (companies and organizations); Profits and losses; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ003ABW2
+  </dcterms:identifier>
 	<dcterms:identifier>
 		TAEM 149:276
 	</dcterms:identifier>
-	<dcterms:isPartOf>
-		[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
-	</dcterms:isPartOf> 
-	<dcterms:isPartOf type="dcterms:URI">
-		http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
-	</dcterms:isPartOf>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0264.jpg</dcterms:hasPart>
-	<dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0265.jpg</dcterms:hasPart>
+  <dcterms:isPartOf>
+	[CJ003] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ003
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0264.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0265.jpg</dcterms:hasPart>
 </metadata>
