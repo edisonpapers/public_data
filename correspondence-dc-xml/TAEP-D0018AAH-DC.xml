@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison-Bell Consolidated Phonograph Co Ltd and Slater, Arthur Simpson to Edison, Thomas Alva, October 16, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-10-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison-Bell Consolidated Phonograph Co Ltd; Slater, Arthur Simpson
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; National Phonograph Co; Competition and market structure; Patents; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0018AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:1061
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0018] Document File Series -- 1900 (D-00-18) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0018
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Edison, Charles and Edison, Thomas Alva, July 18, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-07-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Charles; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Fox, William; Holden, Delos; Kingsley, Charles F; Mambert, Stephen Babcock; Scull, George Francis; Anti-trust litigation; Competition and market structure
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK913AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1084
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK913] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK913
+  </dcterms:isPartOf>none available
+</metadata>

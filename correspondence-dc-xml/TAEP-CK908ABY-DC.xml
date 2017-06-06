@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Church, C, January 17, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-01-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Church, C
+  </dcterms:contributor>
+  <dcterms:subject>
+	Pelzer, William; National government (U.S.); Patent infringement
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK908ABY
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:895
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK908] Company Records Series -- Motion Picture Patents Company -- Individuals Dyer, Frank L. (1908-1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK908
+  </dcterms:isPartOf>none available
+</metadata>

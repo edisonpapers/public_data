@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Edison, Mina Miller (Mrs Thomas A.), December 01, 1898
+  </dcterms:title>
+  <dcterms:date>
+	1898-12-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chautauqua Institution; Edison, William Leslie; Marvin, Richard Pratt; McKinley, William; Miller, Jane Eliza; Miller, Lewis; Miller, Mary Valinda (Mrs Lewis); Miller, Robert Anderson; Edison-Miller family; National government (U.S.); Ore milling and separation; TAE opinions and prejudices; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Swann Galleries
+  </dcterms:source>
+  <dcterms:identifier>
+	B037ABU
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B037A] Swann Galleries, Inc., New York, N.Y. Family Correspondence and Related Documents
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B037A
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0504.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0505.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0506.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0507.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0508.jpg</dcterms:hasPart>
+</metadata>

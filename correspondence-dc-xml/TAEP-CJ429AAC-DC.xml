@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Simpkin, William to Edison, Thomas Alva, July 31, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-07-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Simpkin, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bergmann, Sigmund; Dunderland Iron Ore Co Ltd; Edison Cement Works (Stewartsville); Standard Construction Corp Ltd; Engines, boilers, prime movers; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ429AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:709
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ429] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Standard Construction Corporation, Ltd., Files Correspondence (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ429
+  </dcterms:isPartOf>none available
+</metadata>

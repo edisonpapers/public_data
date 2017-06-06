@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Edison, Thomas Alva, August 18, 1925
+  </dcterms:title>
+  <dcterms:date>
+	1925-08-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Darby Mine; Financial operations (companies and organizations); Property; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ518AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:181
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ518] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- John V. Miller Files Correspondence (1925-1930)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ518
+  </dcterms:isPartOf>none available
+</metadata>

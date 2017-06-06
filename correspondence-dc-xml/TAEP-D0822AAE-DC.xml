@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hemsworth, H R to Edison, Thomas Alva, December 31, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Hemsworth, H R
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Microphone and other acoustic devices; Newspapers, books, other publications; TAE health
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0822AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:482
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0822] Document File Series -- 1908 (D-08-22) Edison, T.A. -- Unsolicited Correspondence -- Deafness
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0822
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Batchelor, Charles to Dyer, Richard Nott, February 09, 1892
+  </dcterms:title>
+  <dcterms:date>
+	1892-02-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Batchelor, Charles
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Richard Nott
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ore concentrate; Ore milling and separation; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ053065A
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:514
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ053] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Plant Operations Records -- Bound Volumes Experiment Book (1891-1893)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ053
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0487.jpg</dcterms:hasPart>
+</metadata>

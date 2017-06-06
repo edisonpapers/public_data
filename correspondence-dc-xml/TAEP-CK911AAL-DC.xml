@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Edison, Thomas Alva, September 25, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-09-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Berst, Jacques Albert; Biograph Co; Blackton, James Stuart; Grosvenor, Edwin Prescott; Kalem Co; Kennedy, Jeremiah Joseph; Kleine, George; Lubin Manufacturing Co; Marion, Frank Joseph; Melies Manufacturing Co; Pathe Freres; Rock, John; Selig, William Nicholas; Spoor, George K; U.S. Justice Dept; Vitagraph Company of America; Contracts and other legal concerns; Patent assignments, licenses, and royalties; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK911AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:990
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK911] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK911
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kelly, John to Meadowcroft, William Henry, December 26, 1919
+  </dcterms:title>
+  <dcterms:date>
+	1919-12-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Kelly, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Meadowcroft, William Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Walker Vehicle Co; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK602AFS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:548
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK602] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1911-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK602
+  </dcterms:isPartOf>none available
+</metadata>

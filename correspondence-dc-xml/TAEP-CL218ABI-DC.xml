@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Edison, Thomas Alva, September 29, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Lybrand Ross Bros and Montgomery; National Phonograph Co (Australia); Stevens, Walter; Financial operations (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL218ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:1117
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL218] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL218
+  </dcterms:isPartOf>none available
+</metadata>

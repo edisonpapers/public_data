@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Allentown Iron Co and Clymer, Edward Tilghman to Pilling, William Stockman, January 25, 1893
+  </dcterms:title>
+  <dcterms:date>
+	1893-01-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Allentown Iron Co; Clymer, Edward Tilghman
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pilling, William Stockman
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Briquettes and bricker machinery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ006AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:556
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ006] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1893)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ006
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0545.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0546.jpg</dcterms:hasPart>
+</metadata>

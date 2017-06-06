@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison United Phonograph Co and Morison, George N to Edison Phonograph Works, January 16, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-01-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison United Phonograph Co; Morison, George N
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Phonograph Works
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder phonograph; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0017AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:1034
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0017] Document File Series -- 1900 (D-00-17) Phonograph -- Edison Phonograph Works
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0017
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Bergmann, Sigmund to Mallory, Walter Seeley, October 18, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-10-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Bergmann, Sigmund
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Storage Battery Co; Klein, Philip Henry, Jr; Electric battery; Financial operations (companies and organizations); Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0204ABD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:645
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0204] Document File Series -- 1902 (D-02-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0204
+  </dcterms:isPartOf>none available
+</metadata>

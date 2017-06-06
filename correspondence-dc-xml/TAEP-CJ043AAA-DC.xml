@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New Jersey and Pennsylvania Concentrating Works and Smith, T H to Edison, Thomas Alva, December 18, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-12-18
+  </dcterms:date>
+  <dcterms:creator>
+  	New Jersey and Pennsylvania Concentrating Works; Smith, T H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Rolls and crushers; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ043AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:132
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ043] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Plant Operations Records -- Unbound Records Test Reports (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ043
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0116.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0117.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0118.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0119.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0120.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0121.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0122.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0123.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0124.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0125.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0126.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0127.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0128.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0129.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0130.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0131.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0132.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0133.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0134.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0135.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0136.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0137.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0138.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0139.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0140.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0141.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0142.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0143.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0144.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0145.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0146.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0147.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0148.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0149.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0150.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0151.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0152.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0153.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0154.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0155.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0156.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0157.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0158.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0159.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0160.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0161.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0162.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0163.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0164.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0165.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0166.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0167.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0168.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0169.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0170.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0171.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0172.jpg</dcterms:hasPart>
+</metadata>

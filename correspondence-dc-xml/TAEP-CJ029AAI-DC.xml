@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Elliott, Alexander, Jr to Edison, Thomas Alva, September 16, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-09-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Elliott, Alexander, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Iron Co; Reed, Charles J; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ029AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:529
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ029] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ029
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0524.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0525.jpg</dcterms:hasPart>
+</metadata>

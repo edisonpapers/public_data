@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Eaton, Sherburne Blake to Edison Ore Milling Co Ltd, October 30, 1881
+  </dcterms:title>
+  <dcterms:date>
+	1881-10-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Eaton, Sherburne Blake
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Ore Milling Co Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Carman, William; Cheesman, W H; Ore exploration and mining; Ore milling and separation; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CG001AAI1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:411
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CG001] Company Records Series -- Other Companies Edison Ore Milling Co (1879-1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CG001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0394.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0395.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0396.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0397.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0398.jpg</dcterms:hasPart>
+</metadata>

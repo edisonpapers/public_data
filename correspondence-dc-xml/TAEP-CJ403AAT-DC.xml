@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Lawrence, Joseph, March 29, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-03-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Lawrence, Joseph
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; New Jersey Zinc Co; Ogden Ore Separating Plant; Ore milling and separation; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ403AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:484
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ403] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ403
+  </dcterms:isPartOf>none available
+</metadata>

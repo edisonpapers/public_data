@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Freid, Calvin T to Edison, Thomas Alva, December 21, 1898
+  </dcterms:title>
+  <dcterms:date>
+	1898-12-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Freid, Calvin T
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Briquettes and bricker machinery; Labor; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ011ADJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:956
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ011] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1898)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ011
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0945.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0946.jpg</dcterms:hasPart>
+</metadata>

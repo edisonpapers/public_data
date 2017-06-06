@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Randolph, John F, May 28, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-05-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ott, Frederick Paul; Cylinder phonograph; Labor; Telephone
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0232AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:1020
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0232] Document File Series -- 1902 (D-02-32) West Orange Laboratory
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0232
+  </dcterms:isPartOf>none available
+</metadata>

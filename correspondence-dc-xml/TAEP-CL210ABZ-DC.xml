@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stollwerck, Ludwig Albert to Edison, Thomas Alva, August 08, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-08-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Stollwerck, Ludwig Albert
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Graf, Thomas; Hayes, Howard W; Moriarty, Stephen Fossa; Volkmann, John H; White, James Henry; Contracts and other legal concerns; Cylinder recordings; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL210ABZ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:114
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL210] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL210
+  </dcterms:isPartOf>none available
+</metadata>

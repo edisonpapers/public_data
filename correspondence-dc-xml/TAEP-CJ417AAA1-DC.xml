@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Simpkin, William to Edison, Thomas Alva, February 26, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-02-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Simpkin, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Cement Works (Stewartsville); Herter, Emil; Pollen, Francis Gabriel Hungerford; Rhodes, William; Briquettes and bricker machinery; Cement; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ417AAA1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:304
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ417] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ417
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Essex Press and Helm, John E to McChesney, Leonard C, July 08, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-07-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Essex Press; Helm, John E
+  </dcterms:creator>
+  <dcterms:contributor>
+	McChesney, Leonard C
+  </dcterms:contributor>
+  <dcterms:subject>
+	Friend, Harry Meyer; Competition and market structure; Management (companies and organizations); Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL215AAX
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:756
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL215] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL215
+  </dcterms:isPartOf>none available
+</metadata>

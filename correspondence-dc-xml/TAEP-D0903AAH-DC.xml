@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from General Electric Co and Beran, Theodore B to Hughes, Charles Turner, February 02, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-02-02
+  </dcterms:date>
+  <dcterms:creator>
+  	General Electric Co; Beran, Theodore B
+  </dcterms:creator>
+  <dcterms:contributor>
+	Hughes, Charles Turner
+  </dcterms:contributor>
+  <dcterms:subject>
+	Beach, Ralph Hamilton; Westinghouse, George, Jr; Electric battery; Electric traction
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0903AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:21
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0903] Document File Series -- 1909 (D-09-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0903
+  </dcterms:isPartOf>none available
+</metadata>

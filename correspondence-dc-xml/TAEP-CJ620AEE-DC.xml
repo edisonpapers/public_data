@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Burger, Frank M to Miller, Harry Frederick, December 12, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-12-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Burger, Frank M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Competition and market structure; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ620AEE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:347
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ620] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ620
+  </dcterms:isPartOf>none available
+</metadata>

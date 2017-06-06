@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Moriarty, Stephen Fossa to Moriarty, John, January 23, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-01-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Moriarty, Stephen Fossa
+  </dcterms:creator>
+  <dcterms:contributor>
+	Moriarty, John
+  </dcterms:contributor>
+  <dcterms:subject>
+	Clarke, William J; Guarantee Trust and Safe Deposit Co; Morison, George N; Schermerhorn, John Relyea; Searles, John E; Seligman, Jesse; Financial operations (companies and organizations); International business operations; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0627AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:813
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0627] Document File Series -- 1906 (D-06-27) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0627
+  </dcterms:isPartOf>none available
+</metadata>

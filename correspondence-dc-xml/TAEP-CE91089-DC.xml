@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Compagnie Continentale Edison and Rau, Louis to Edison Electric Light Co of Europe Ltd, January 13, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-01-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Compagnie Continentale Edison; Rau, Louis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co of Europe Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Comitato per le Applicazioni dell'Elettricita; Edison General Electric Co; Dynamos and generators; Electric light and power; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE91089
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:488
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CE91] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE91
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0473.jpg</dcterms:hasPart>
+</metadata>

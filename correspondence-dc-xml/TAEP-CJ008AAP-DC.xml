@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Parrish, James C, November 26, 1895
+  </dcterms:title>
+  <dcterms:date>
+	1895-11-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Parrish, James C
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Briquettes and bricker machinery; Rolls and crushers; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ008AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:662
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ008] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1895)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ008
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0651.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0652.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0653.jpg</dcterms:hasPart>
+</metadata>

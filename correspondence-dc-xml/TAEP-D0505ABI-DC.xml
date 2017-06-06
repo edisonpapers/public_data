@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Bergmann, Sigmund, June 09, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-06-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bergmann, Sigmund
+  </dcterms:contributor>
+  <dcterms:subject>
+	Aylsworth, Jonas Walter; Edison, Thomas Alva; Electric battery; Production difficulties and adjustments; Research and development
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0505ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:864
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0505] Document File Series -- 1905 (D-05-05) Battery -- Storage -- Foreign -- Bergmann, Sigmund
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0505
+  </dcterms:isPartOf>none available
+</metadata>

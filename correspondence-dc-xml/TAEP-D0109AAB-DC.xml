@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from International Engineering Congress (Glasgow 1901) to Edison, Thomas Alva, April 25, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-04-25
+  </dcterms:date>
+  <dcterms:creator>
+  	International Engineering Congress (Glasgow 1901)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dick, Herman Ernest; Awards & honors/clubs & societies; Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0109AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:153
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0109] Document File Series -- 1901 (D-01-09) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0109
+  </dcterms:isPartOf>none available
+</metadata>

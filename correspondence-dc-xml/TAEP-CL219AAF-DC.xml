@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Thompson and Norris Co and Thompson, Robert Henry to Edison, Thomas Alva, January 14, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-01-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Thompson and Norris Co; Thompson, Robert Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Edison Portland Cement Co; Leeming, Harry Toyne; Purchases; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL219AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:23
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL219] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL219
+  </dcterms:isPartOf>none available
+</metadata>

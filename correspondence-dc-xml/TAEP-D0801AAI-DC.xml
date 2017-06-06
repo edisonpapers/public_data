@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Lansden, John M, Jr to Miller, Harry Frederick, June 10, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-06-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Lansden, John M, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	West Orange Laboratory; Finances (TAE and family); Loans
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0801AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:786
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0801] Document File Series -- 1908 (D-08-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0801
+  </dcterms:isPartOf>none available
+</metadata>

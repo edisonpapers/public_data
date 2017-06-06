@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Upton, Francis Robbins, September 14, 1898
+  </dcterms:title>
+  <dcterms:date>
+	1898-09-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Upton, Francis Robbins
+  </dcterms:contributor>
+  <dcterms:subject>
+	Central Railroad of New Jersey; Edison, Thomas Alva; Financial operations (companies and organizations); Railroads and transportation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ011ACH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:920
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ011] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1898)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ011
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0909.jpg</dcterms:hasPart>
+</metadata>

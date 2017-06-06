@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McCarter and English to Dyer, Frank Lewis, May 24, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-05-24
+  </dcterms:date>
+  <dcterms:creator>
+  	McCarter and English
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Mallory, Walter Seeley; Litigation; Management (companies and organizations); Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ023AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:86
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ023] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ023
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0086.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0087.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0088.jpg</dcterms:hasPart>
+</metadata>

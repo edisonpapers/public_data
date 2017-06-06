@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McDougall, J Lorne to Edison, Thomas Alva, October 29, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-10-29
+  </dcterms:date>
+  <dcterms:creator>
+  	McDougall, J Lorne
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cement houses and other concrete structures; Financial operations (companies and organizations); Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0906AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:168
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0906] Document File Series -- 1909 (D-09-06) Cement House
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0906
+  </dcterms:isPartOf>none available
+</metadata>

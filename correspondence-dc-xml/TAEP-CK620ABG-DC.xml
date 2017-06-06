@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wright, Paul D to Edison Storage Battery Co, April 01, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-04-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Wright, Paul D
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Storage Battery Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Charles; Electric battery; Manufacturing; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK620ABG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:143
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK620] Company Records Series -- Edison Storage Battery Company -- Plant Operations and Research Records Research Reports (1901, 1914-1923)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK620
+  </dcterms:isPartOf>none available
+</metadata>

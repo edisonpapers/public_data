@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hapgoods Inc and Thyng, H M to Edison, Thomas Alva, March 24, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-03-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Hapgoods Inc; Thyng, H M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Henderson, John C; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0310AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:335
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0310] Document File Series -- 1903 (D-03-10) Edison, T.A. -- Employment
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0310
+  </dcterms:isPartOf>none available
+</metadata>

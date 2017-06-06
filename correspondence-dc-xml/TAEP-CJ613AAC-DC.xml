@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Weis Manufacturing Co to Edison Portland Cement Co, February 25, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-02-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Weis Manufacturing Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Portland Cement Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Plum, Matthias; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ613AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:821
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ613] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1905)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ613
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Scull, George Francis to Dyer, Frank Lewis, December 11, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-12-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Scull, George Francis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Daniels, Walter A; Edison (Thomas A.) Inc; Thompson, Frederick B; Contracts and other legal concerns; Management (companies and organizations); Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK905AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:766
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK905] Company Records Series -- Motion Picture Patents Company -- Administrative Records National Waterproof Film Co (1909-1913)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK905
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Ellis, Ellery Ware to Edison, Thomas Alva, November 25, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-11-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Ellis, Ellery Ware
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Mallory, Walter Seeley; Opdyke, Edgar Smith; Briquettes and bricker machinery; Metals and minerals; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ608ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:701
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ608] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ608
+  </dcterms:isPartOf>none available
+</metadata>

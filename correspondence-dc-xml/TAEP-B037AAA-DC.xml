@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Miller, Lewis, September 30, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-09-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Mina Miller (Mrs Thomas A.); Miller, Grace A; Edison-Miller family; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Swann Galleries
+  </dcterms:source>
+  <dcterms:identifier>
+	B037AAA
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B037A] Swann Galleries, Inc., New York, N.Y. Family Correspondence and Related Documents
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B037A
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0405.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0406.jpg</dcterms:hasPart>
+</metadata>

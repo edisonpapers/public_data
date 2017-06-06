@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Holden, Delos to Dodge, Eben G, July 13, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-07-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Holden, Delos
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dodge, Eben G
+  </dcterms:contributor>
+  <dcterms:subject>
+	Battery Supplies Co; Fidelity Trust Co; Contracts and other legal concerns; Electric battery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0902AAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:994
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0902] Document File Series -- 1909 (D-09-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0902
+  </dcterms:isPartOf>none available
+</metadata>

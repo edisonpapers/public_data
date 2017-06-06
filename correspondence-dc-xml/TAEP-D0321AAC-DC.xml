@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Llewellyn Park (N.J.). Trustees and Howe, William Read to Edison, Thomas Alva, December 30, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-12-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Llewellyn Park (N.J.). Trustees; Howe, William Read
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0321AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:461
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0321] Document File Series -- 1903 (D-03-21) Glenmont
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0321
+  </dcterms:isPartOf>none available
+</metadata>

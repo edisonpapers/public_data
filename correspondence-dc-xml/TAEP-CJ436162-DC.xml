@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Simpkin, William, January 15, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-01-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Simpkin, William
+  </dcterms:contributor>
+  <dcterms:subject>
+	Production difficulties and adjustments; Rolls and crushers; Travel (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ436162
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:429
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ436] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Bound Volumes Letterbook, LM-282 (1902-1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ436
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Graf, Thomas to Dyer, Frank Lewis, January 17, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-01-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Graf, Thomas
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Scull, George Francis; Contracts and other legal concerns
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK918AAR1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:160
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK918] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Gaumont Co (1908-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK918
+  </dcterms:isPartOf>none available
+</metadata>

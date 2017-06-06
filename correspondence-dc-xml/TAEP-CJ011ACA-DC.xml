@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Robins Conveying Belt Co and Robins, Thomas to Mallory, Walter Seeley, June 04, 1898
+  </dcterms:title>
+  <dcterms:date>
+	1898-06-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Robins Conveying Belt Co; Robins, Thomas
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	New Jersey Zinc Co; Ore processing and storage (after separation); Rolls and crushers; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ011ACA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:911
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ011] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1898)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ011
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0900.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Slipp Butler Co and Butler, L C to Engineering and Mining Journal and Edison, Thomas Alva, January 18, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-01-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Slipp Butler Co; Butler, L C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Engineering and Mining Journal; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Competition and market structure; Electric battery; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0805AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:925
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0805] Document File Series -- 1908 (D-08-05) Battery -- Storage -- Metals
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0805
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dolbeer, Frank K to Gilmore, William Edgar, August 10, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-08-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Dolbeer, Frank K
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bradstreet Co; Dun (R.G.) & Co; Edison Manufacturing Co; Edison Phonograph Works; Edison, Thomas Alva; Pelzer, William; Financial operations (companies and organizations); Management (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL209ABC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:1091
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL209] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL209
+  </dcterms:isPartOf>none available
+</metadata>

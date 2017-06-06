@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New Jersey Zinc Co and Tonking, James Bryant to Mallory, Walter Seeley, March 19, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-03-19
+  </dcterms:date>
+  <dcterms:creator>
+  	New Jersey Zinc Co; Tonking, James Bryant
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; New Jersey and Pennsylvania Concentrating Works; Loans; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0016AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:1010
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0016] Document File Series -- 1900 (D-00-16) Patents
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0016
+  </dcterms:isPartOf>none available
+</metadata>

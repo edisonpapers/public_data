@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mudd, Arthur to Edison, Thomas Alva, April 29, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-04-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Mudd, Arthur
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Manufacturing; Profits and losses
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK602ABZ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:374
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK602] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1911-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK602
+  </dcterms:isPartOf>none available
+</metadata>

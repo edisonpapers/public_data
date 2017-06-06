@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Madeleine to Edison, Thomas Alva, April 04, 1923
+  </dcterms:title>
+  <dcterms:date>
+	1923-04-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Madeleine
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Mina Miller (Mrs Thomas A.); Sloane, John Eyre; Sloane, Peter Edison ; Sloane, Thomas Edison; Edison-Miller family; Finances (TAE and family); Health and medicine; Loans; Stocks, bonds, and investments; World War I
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Swann Galleries
+  </dcterms:source>
+  <dcterms:identifier>
+	B037ACH
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B037A] Swann Galleries, Inc., New York, N.Y. Family Correspondence and Related Documents
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B037A
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0536.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xz/xz1460.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xz/xz1461.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xz/xz1462.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0537.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0538.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xx/xx0539.jpg</dcterms:hasPart>
+</metadata>

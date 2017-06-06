@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Leeming, Harry Toyne to Miller, Harry Frederick, September 29, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Leeming, Harry Toyne
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Adams Express Co; West Orange Laboratory; Engines, boilers, prime movers; Shipping and materials handling
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0814ABS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:345
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0814] Document File Series -- 1908 (D-08-14) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0814
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Evans, James to Edison, Thomas Alva, May 02, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-05-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Evans, James
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Seminole Lodge and Fort Myers; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0002AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:696
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0002] Document File Series -- 1900 (D-00-02) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0002
+  </dcterms:isPartOf>none available
+</metadata>

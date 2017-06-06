@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Whitridge, Frederick Wallingford, February 13, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-02-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Whitridge, Frederick Wallingford
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; Edison United Phonograph Co; International Graphophone Co; Moriarty, Stephen Fossa; Searles, John E; Twombly, Hamilton McKown; Contracts and other legal concerns; Cylinder phonograph; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0230AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:950
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0230] Document File Series -- 1902 (D-02-30) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0230
+  </dcterms:isPartOf>none available
+</metadata>

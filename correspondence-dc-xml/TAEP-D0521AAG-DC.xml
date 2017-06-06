@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Mina Miller (Mrs Thomas A.) to Brady, Patrick, October 23, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-10-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Brady, Patrick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Glenmont; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0521AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:162
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0521] Document File Series -- 1905 (D-05-21) Glenmont
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0521
+  </dcterms:isPartOf>none available
+</metadata>

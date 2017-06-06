@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stewart, Willis N to Dick, Herman Ernest, November 20, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-11-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Stewart, Willis N
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dick, Herman Ernest
+  </dcterms:contributor>
+  <dcterms:subject>
+	Jungner, Ernest Waldemar; Wallenberg, Knut Agathon; Electric battery; Railroads and transportation; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0204ABF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:649
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0204] Document File Series -- 1902 (D-02-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0204
+  </dcterms:isPartOf>none available
+</metadata>

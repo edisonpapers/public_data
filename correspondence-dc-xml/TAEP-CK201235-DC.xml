@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from North American Phonograph Co and Tate, Alfred Ord to New England Phonograph Co, January 28, 1893
+  </dcterms:title>
+  <dcterms:date>
+	1893-01-28
+  </dcterms:date>
+  <dcterms:creator>
+  	North American Phonograph Co; Tate, Alfred Ord
+  </dcterms:creator>
+  <dcterms:contributor>
+	New England Phonograph Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Contracts and other legal concerns; Cylinder phonograph; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK201235
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 157:598
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK201] Company Records Series -- North American Phonograph Company Minute Book (1888-1894)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK201
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0589.jpg</dcterms:hasPart>
+</metadata>

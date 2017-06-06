@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Upton, Francis Robbins to Marks, William Dennis, April 09, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-04-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Upton, Francis Robbins
+  </dcterms:creator>
+  <dcterms:contributor>
+	Marks, William Dennis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Expositions, demonstrations, lectures; Incandescent lamp; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CC010024
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:77
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CC010] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #10
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC010
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0075.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0076.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0077.jpg</dcterms:hasPart>
+</metadata>

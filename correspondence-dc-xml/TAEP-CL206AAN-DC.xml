@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hayes, Howard W to Twombly, Hamilton McKown, July 07, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-07-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Hayes, Howard W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Twombly, Hamilton McKown
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cary and Whitridge; Edison Phonograph Works; Edison, Thomas Alva; International Graphophone Co; Moriarty, Stephen Fossa; Contracts and other legal concerns; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL206AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:722
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL206] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL206
+  </dcterms:isPartOf>none available
+</metadata>

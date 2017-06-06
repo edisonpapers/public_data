@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Beatrice Heyzer (Mrs Thomas A. Jr) to Randolph, John F, May 24, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-05-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Beatrice Heyzer (Mrs Thomas A. Jr)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva, Jr; Edison-Miller family; Finances (TAE and family); Loans
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0511AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:98
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0511] Document File Series -- 1905 (D-05-11) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0511
+  </dcterms:isPartOf>none available
+</metadata>

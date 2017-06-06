@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Roche, Auguste, Jr to Mallory, Walter Seeley, February 10, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-02-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Roche, Auguste, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Meyer, Emanuel; Upton, Francis Robbins; Financial operations (companies and organizations); Labor; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ618AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:770
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ618] Company Records Series -- Edison Portland Cement Company -- Corporate Files Upton, Francis R. (1909-1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ618
+  </dcterms:isPartOf>none available
+</metadata>

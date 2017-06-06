@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Woodward Iron Co and Wilson, David E to Kellow, Richard Wesley and Edison, Thomas Alva, April 04, 1917
+  </dcterms:title>
+  <dcterms:date>
+	1917-04-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Woodward Iron Co; Wilson, David E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Kellow, Richard Wesley; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM08bf
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:477
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM08] Special Collections Series -- Chemical Production Records -- Organic Chemical Plant Records Woodward Benzol Plant (1915-1918, 1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM08
+  </dcterms:isPartOf>none available
+</metadata>

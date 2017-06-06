@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Sawyer, William Edward to New York Sun, December 21, 1879
+  </dcterms:title>
+  <dcterms:date>
+	1879-12-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Sawyer, William Edward
+  </dcterms:creator>
+  <dcterms:contributor>
+	New York Sun
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Competition and market structure; Incandescent lamp
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CC014016
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:120
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CC014] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #14
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC014
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0118.jpg</dcterms:hasPart>
+</metadata>

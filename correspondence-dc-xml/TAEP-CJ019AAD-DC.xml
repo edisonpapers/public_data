@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, Oliver W to Mallory, Walter Seeley, February 08, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-02-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, Oliver W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ019AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:41
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ019] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1906)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ019
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0041.jpg</dcterms:hasPart>
+</metadata>

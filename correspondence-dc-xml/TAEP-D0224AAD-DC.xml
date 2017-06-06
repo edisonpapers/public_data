@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Liddle, W H to Mallory, Walter Seeley, August 20, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-08-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Liddle, W H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Randolph, John F; Electric battery; Ore exploration and mining; Ore milling (non-iron ore)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0224AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:803
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0224] Document File Series -- 1902 (D-02-24) Mining -- Dry Placer Process
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0224
+  </dcterms:isPartOf>none available
+</metadata>

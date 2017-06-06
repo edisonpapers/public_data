@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Scull, George Francis to Eastman Kodak Co, March 15, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-03-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Scull, George Francis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Eastman Kodak Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Contracts and other legal concerns; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK903AAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:712
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK903] Company Records Series -- Motion Picture Patents Company -- Administrative Records Eastman Kodak Co (1908-1913)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK903
+  </dcterms:isPartOf>none available
+</metadata>

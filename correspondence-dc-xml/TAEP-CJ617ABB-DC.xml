@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Opdyke, Edgar Smith to Reeves (Paul S.) and Son, February 06, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-02-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Opdyke, Edgar Smith
+  </dcterms:creator>
+  <dcterms:contributor>
+	Reeves (Paul S.) and Son
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Newbold (R.S.) and Sons Co; Norbom Engineering Co; Management (companies and organizations); Metals and minerals; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ617ABB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:565
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ617] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ617
+  </dcterms:isPartOf>none available
+</metadata>

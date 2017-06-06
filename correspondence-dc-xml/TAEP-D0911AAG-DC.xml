@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Edison, Thomas Alva, March 08, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-03-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Adelskold, Claes; Royal Academy of Sciences (Sweden); Awards & honors/clubs & societies
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0911AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:388
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0911] Document File Series -- 1909 (D-09-11) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0911
+  </dcterms:isPartOf>none available
+</metadata>

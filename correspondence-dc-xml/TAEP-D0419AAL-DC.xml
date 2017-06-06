@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Andrews, William Symes to Mallory, Walter Seeley, May 05, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-05-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Andrews, William Symes
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Caskey, Alvin Dickson; Edison, Thomas Alva; Randolph, John F; West Orange Laboratory; Electric light and power; Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0419AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:244
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0419] Document File Series -- 1904 (D-04-19) Exhibitions
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0419
+  </dcterms:isPartOf>none available
+</metadata>

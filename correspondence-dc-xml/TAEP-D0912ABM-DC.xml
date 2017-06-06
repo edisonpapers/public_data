@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McChesney, Leonard Ward to Meister, George Arthur, June 17, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-06-17
+  </dcterms:date>
+  <dcterms:creator>
+  	McChesney, Leonard Ward
+  </dcterms:creator>
+  <dcterms:contributor>
+	Meister, George Arthur
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemistry; Labor; Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0912ABM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:443
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0912] Document File Series -- 1909 (D-09-12) Edison, T.A. -- Employment
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0912
+  </dcterms:isPartOf>none available
+</metadata>

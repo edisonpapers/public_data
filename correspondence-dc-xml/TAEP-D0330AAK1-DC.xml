@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Ideal Cash Register Co to Edison, Thomas Alva, August 07, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-08-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Ideal Cash Register Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Machinist; Edison Storage Battery Co; Mallory, Walter Seeley; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0330AAK1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:714
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0330] Document File Series -- 1903 (D-03-30) West Orange Laboratory
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0330
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mambert, Stephen Babcock to Edison Storage Battery Co, November 22, 1921
+  </dcterms:title>
+  <dcterms:date>
+	1921-11-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Mambert, Stephen Babcock
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Storage Battery Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Railway Express Co; Edison, Thomas Alva; Fagan, Frank D; La Schum, Edward E; Automobiles and trucks; Competition and market structure; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK603AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:644
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK603] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1921-1931)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK603
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Perry, William S to Couch, Franklin, November 06, 1893
+  </dcterms:title>
+  <dcterms:date>
+	1893-11-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Perry, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Couch, Franklin
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJD134398
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:842
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJD] Company Records Series -- New York Concentrating Works Letterbook (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJD
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0825.jpg</dcterms:hasPart>
+</metadata>

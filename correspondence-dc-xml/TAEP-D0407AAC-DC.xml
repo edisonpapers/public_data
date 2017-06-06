@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Jones, Francis Arthur to Boehme, John A, May 15, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-05-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Jones, Francis Arthur
+  </dcterms:creator>
+  <dcterms:contributor>
+	Boehme, John A
+  </dcterms:contributor>
+  <dcterms:subject>
+	West Orange Laboratory; Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0407AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:169
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0407] Document File Series -- 1904 (D-04-07) Edison, T.A. -- Articles
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0407
+  </dcterms:isPartOf>none available
+</metadata>

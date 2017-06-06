@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Dyer, Frank Lewis, April 27, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-04-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Manufacturing Co; Competition and market structure; Patent assignments, licenses, and royalties; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK908AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:827
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK908] Company Records Series -- Motion Picture Patents Company -- Individuals Dyer, Frank L. (1908-1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK908
+  </dcterms:isPartOf>none available
+</metadata>

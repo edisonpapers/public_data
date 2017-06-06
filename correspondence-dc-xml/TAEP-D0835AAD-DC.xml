@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hunter, Alexander to Langhorne, E G, March 20, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-03-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Hunter, Alexander
+  </dcterms:creator>
+  <dcterms:contributor>
+	Langhorne, E G
+  </dcterms:contributor>
+  <dcterms:subject>
+	Pike Adding Machine Co; Financial operations (companies and organizations); Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0835AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:783
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0835] Document File Series -- 1908 (D-08-35) Pike Adding Machine Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0835
+  </dcterms:isPartOf>none available
+</metadata>

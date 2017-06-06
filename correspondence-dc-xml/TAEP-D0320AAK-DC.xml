@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Stulpner, Ewald, September 12, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-09-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Stulpner, Ewald
+  </dcterms:contributor>
+  <dcterms:subject>
+	Randolph, John F; Seminole Lodge and Fort Myers; Cellulose, resins, and related products; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0320AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:449
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0320] Document File Series -- 1903 (D-03-20) Fort Myers
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0320
+  </dcterms:isPartOf>none available
+</metadata>

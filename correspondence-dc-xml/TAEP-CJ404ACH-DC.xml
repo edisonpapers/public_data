@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New Jersey Zinc Co and Hardenburg, W P to Mallory, Walter Seeley, November 01, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-11-01
+  </dcterms:date>
+  <dcterms:creator>
+  	New Jersey Zinc Co; Hardenburg, W P
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	New Jersey and Pennsylvania Concentrating Works; Financial operations (companies and organizations); Rolls and crushers; Salaries, wages, and commissions
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ404ACH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:802
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ404] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ404
+  </dcterms:isPartOf>none available
+</metadata>

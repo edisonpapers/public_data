@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stevens, Walter to Ramos and Suarez, May 28, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Stevens, Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Ramos and Suarez
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder phonograph; Cylinder recordings; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL301437
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:628
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL301] Company Records Series -- National Phonograph Company -- Foreign Department Letterbooks Letterbook #1 (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL301
+  </dcterms:isPartOf>none available
+</metadata>

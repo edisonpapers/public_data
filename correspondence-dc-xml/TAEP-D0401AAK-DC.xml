@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from General Electric Co and Hughes, Charles Turner to Edison, Thomas Alva, September 30, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-09-30
+  </dcterms:date>
+  <dcterms:creator>
+  	General Electric Co; Hughes, Charles Turner
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Whiting, Allan H; Automobiles and trucks; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0401AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:761
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0401] Document File Series -- 1904 (D-04-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0401
+  </dcterms:isPartOf>none available
+</metadata>

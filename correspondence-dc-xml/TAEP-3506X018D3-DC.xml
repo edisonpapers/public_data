@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, Robert Anderson to Edison, Mina Miller (Mrs Thomas A.), July 12, 1898
+  </dcterms:title>
+  <dcterms:date>
+	1898-07-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, Robert Anderson
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Theodore Miller; Celebrations (anniversaries, birthdays, holidays); Edison-Miller family
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	3506X018D3
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018D3] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Robert Anderson
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018D3
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2472.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw2473.jpg</dcterms:hasPart>
+</metadata>

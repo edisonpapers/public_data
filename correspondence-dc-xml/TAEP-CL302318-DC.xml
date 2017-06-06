@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stevens, Walter to Kennedy, Thomas J, January 07, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-01-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Stevens, Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Kennedy, Thomas J
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bradstreet Co; Cabanas, Rafael; Coates & Co; Dyer, Frank Lewis; Edison, Thomas Alva; Competition and market structure; Cylinder phonograph; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL302318
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:654
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL302] Company Records Series -- National Phonograph Company -- Foreign Department Letterbooks Letterbook #2 (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL302
+  </dcterms:isPartOf>none available
+</metadata>

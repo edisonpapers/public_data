@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hayes, Howard W to Schermerhorn, John Relyea, September 29, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-09-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Hayes, Howard W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Schermerhorn, John Relyea
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric battery; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0302AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:54
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0302] Document File Series -- 1903 D--03-02) Battery -- Primary 
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0302
+  </dcterms:isPartOf>none available
+</metadata>

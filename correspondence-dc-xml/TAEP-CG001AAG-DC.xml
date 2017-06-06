@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison Ore Milling Co Ltd to Edison, Thomas Alva, December 29, 1879
+  </dcterms:title>
+  <dcterms:date>
+	1879-12-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Ore Milling Co Ltd
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cutting, Robert Livingston, Jr; Lowrey, Grosvenor Porter; Management (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CG001AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:398
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CG001] Company Records Series -- Other Companies Edison Ore Milling Co (1879-1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CG001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0381.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0382.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0383.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0384.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Eckert, Walter Lewis, August 13, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-08-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Eckert, Walter Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Lubin, Sigmund; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK916BAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:77
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK916B] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Edison Manufacturing Co (1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK916B
+  </dcterms:isPartOf>none available
+</metadata>

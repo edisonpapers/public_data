@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Chicago Central Phonograph Co and Lombard, Thomas R to Tate, Alfred Ord, December 05, 1892
+  </dcterms:title>
+  <dcterms:date>
+	1892-12-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Chicago Central Phonograph Co; Lombard, Thomas R
+  </dcterms:creator>
+  <dcterms:contributor>
+	Tate, Alfred Ord
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bush, John Adriance; Cylinder phonograph; Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK201199
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 157:580
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK201] Company Records Series -- North American Phonograph Company Minute Book (1888-1894)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK201
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0571.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0572.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0573.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0574.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ga/ga0575.jpg</dcterms:hasPart>
+</metadata>

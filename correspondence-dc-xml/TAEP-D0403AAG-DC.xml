@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Electrical World to Edison Storage Battery Co, June 27, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-06-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Electrical World
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Storage Battery Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0403AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:826
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0403] Document File Series -- 1904 (D-04-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0403
+  </dcterms:isPartOf>none available
+</metadata>

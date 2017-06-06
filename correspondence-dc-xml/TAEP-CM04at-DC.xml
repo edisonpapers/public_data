@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kammerhoff, Heinrich H Meno to Edison, Thomas Alva, June 15, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-06-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Kammerhoff, Heinrich H Meno
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemicals, chemical products, and chemical processes; Financial operations (companies and organizations); Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM04at
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:373
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM04] Special Collections Series -- Chemical Production Records -- Organic Chemical Plant Records Carbolic Acid Division (1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM04
+  </dcterms:isPartOf>none available
+</metadata>

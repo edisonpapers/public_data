@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Zaubitz, August to Olmsted, Edwin I, October 10, 1896
+  </dcterms:title>
+  <dcterms:date>
+	1896-10-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Zaubitz, August
+  </dcterms:creator>
+  <dcterms:contributor>
+	Olmsted, Edwin I
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ott, John F; Ore milling and separation; Scientific and other instruments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ009ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:717
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ009] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1896)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ009
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0706.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0707.jpg</dcterms:hasPart>
+</metadata>

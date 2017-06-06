@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Bergmann, Sigmund to Gilmore, William Edgar, February 29, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-02-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Bergmann, Sigmund
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Randolph, John F; Electric battery; Labor; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0804AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:876
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0804] Document File Series -- 1908 (D-08-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0804
+  </dcterms:isPartOf>none available
+</metadata>

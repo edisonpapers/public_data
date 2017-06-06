@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer and Driscoll to Gilmore, William Edgar, August 31, 1895
+  </dcterms:title>
+  <dcterms:date>
+	1895-08-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer and Driscoll
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bates Manufacturing Co; Bates, Edwin G; Contracts and other legal concerns; Patent assignments, licenses, and royalties; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK302AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:191
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK302] Company Records Series -- Bates Manufacturing Company Company Records (1895)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK302
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0187.jpg</dcterms:hasPart>
+</metadata>

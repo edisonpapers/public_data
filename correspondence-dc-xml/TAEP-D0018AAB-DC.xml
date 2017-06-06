@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Searles, John E to Edison, Thomas Alva, April 11, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-04-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Searles, John E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder phonograph; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0018AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:1046
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0018] Document File Series -- 1900 (D-00-18) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0018
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Helm, John E to Gilmore, William Edgar, July 10, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-07-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Helm, John E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Battery Supplies Co; Dodge, Eben G; Gladstone, James W; Westee, Alphons; Financial operations (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0625AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:794
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0625] Document File Series -- 1906 (D-06-25) New Jersey Patent Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0625
+  </dcterms:isPartOf>none available
+</metadata>

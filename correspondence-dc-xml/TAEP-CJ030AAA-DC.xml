@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Eaton and Lewis to Edison, Thomas Alva, February 07, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-02-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Eaton and Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Elliott, Alexander, Jr; Reed, Charles J; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ030AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:542
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ030] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ030
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0536.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0537.jpg</dcterms:hasPart>
+</metadata>

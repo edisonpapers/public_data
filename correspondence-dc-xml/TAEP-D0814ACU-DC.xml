@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Babson Bros to Henderson, Tony, December 29, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Babson Bros
+  </dcterms:creator>
+  <dcterms:contributor>
+	Henderson, Tony
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison (Thomas A.) Jr Chemical Co; Edison, Thomas Alva; Edison, Thomas Alva, Jr; National Phonograph Co; U.S. Post Office Dept; Contracts and other legal concerns
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0814ACU
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:389
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0814] Document File Series -- 1908 (D-08-14) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0814
+  </dcterms:isPartOf>none available
+</metadata>

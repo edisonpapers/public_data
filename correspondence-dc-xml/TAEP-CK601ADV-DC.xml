@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Clymer, Arthur I to Second National Bank (Orange) and Close, Charles M, November 18, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-11-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Clymer, Arthur I
+  </dcterms:creator>
+  <dcterms:contributor>
+	Second National Bank (Orange); Close, Charles M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Banking and bankers; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK601ADV
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:294
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK601] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1901-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK601
+  </dcterms:isPartOf>none available
+</metadata>

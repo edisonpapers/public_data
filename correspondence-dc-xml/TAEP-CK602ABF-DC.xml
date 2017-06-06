@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Sangamo Electric Co and Lanphier, Robert Carr to Chesler, Isidor (Jerry), August 12, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-08-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Sangamo Electric Co; Lanphier, Robert Carr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Chesler, Isidor (Jerry)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Purchases; Sockets, fuses, meters, and other interior elements
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK602ABF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:348
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK602] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1911-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK602
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Central Railroad of New Jersey and Richards, W S to Mallory, Walter Seeley, May 10, 1899
+  </dcterms:title>
+  <dcterms:date>
+	1899-05-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Central Railroad of New Jersey; Richards, W S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Mosher, L O; Railroads and transportation; Salaries, wages, and commissions
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ012ADP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:1090
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ012] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1899)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ012
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs1079.jpg</dcterms:hasPart>
+</metadata>

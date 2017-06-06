@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Horne, William Eugene to Miller, Harry Frederick, December 18, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-12-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Horne, William Eugene
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Portland Cement Co; Mallory, Walter Seeley; Newspapers, books, other publications; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ411AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:111
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ411] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ411
+  </dcterms:isPartOf>none available
+</metadata>

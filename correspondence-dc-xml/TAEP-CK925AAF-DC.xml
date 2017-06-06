@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Scull, George Francis to Blackton, James Stuart, September 10, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-09-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Scull, George Francis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Blackton, James Stuart
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Manufacturing Co; Censorship; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK925AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:394
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK925] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Vitagraph Company of America (1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK925
+  </dcterms:isPartOf>none available
+</metadata>

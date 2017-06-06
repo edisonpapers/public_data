@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Upton, Francis Robbins to Edison, Thomas Alva, October 19, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-10-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Upton, Francis Robbins
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Black, Charles G; Cement; Cement products
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ618AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:759
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ618] Company Records Series -- Edison Portland Cement Company -- Corporate Files Upton, Francis R. (1909-1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ618
+  </dcterms:isPartOf>none available
+</metadata>

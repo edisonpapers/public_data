@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Perry, William S to Batchelor, Frank, March 08, 1892
+  </dcterms:title>
+  <dcterms:date>
+	1892-03-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Perry, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Batchelor, Frank
+  </dcterms:contributor>
+  <dcterms:subject>
+	Batchelor, Charles; Ogden Ore Separating Plant; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJD134277
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:835
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJD] Company Records Series -- New York Concentrating Works Letterbook (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJD
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0818.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Van Nostrand (D.) Co, December 20, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-12-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Van Nostrand (D.) Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Metals and minerals; Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0910AAA1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:377
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0910] Document File Series -- 1909 (D-09-10) Edison, T.A. -- Book &amp; Journal Orders
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0910
+  </dcterms:isPartOf>none available
+</metadata>

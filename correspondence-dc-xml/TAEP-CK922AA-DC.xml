@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Desbriere, Fernand to Marks, George Croydon, July 04, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-07-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Desbriere, Fernand
+  </dcterms:creator>
+  <dcterms:contributor>
+	Marks, George Croydon
+  </dcterms:contributor>
+  <dcterms:subject>
+	Brandon, Douglas Horace; Leveque (Compagnie Francaise du Phonographe); Competition and market structure; Litigation; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK922AA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:302
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK922] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Path&eacute; Fr&egrave;res Moving Pictures (1906-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK922
+  </dcterms:isPartOf>none available
+</metadata>

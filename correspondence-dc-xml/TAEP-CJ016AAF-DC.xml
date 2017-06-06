@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pilling and Crane and Le Fevre, S to Herter, Emil, November 17, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-11-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Pilling and Crane; Le Fevre, S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Herter, Emil
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ016AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:26
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ016] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ016
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0026.jpg</dcterms:hasPart>
+</metadata>

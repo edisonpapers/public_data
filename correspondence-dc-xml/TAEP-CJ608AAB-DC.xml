@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Martin, Thomas Commerford to Mallory, Walter Seeley, January 02, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-01-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Martin, Thomas Commerford
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electrical World; U.S. Geological Survey; Cement
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ608AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:659
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ608] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ608
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Blackton, James Stuart, December 23, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-12-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Blackton, James Stuart
+  </dcterms:contributor>
+  <dcterms:subject>
+	Motion picture performers; Motion pictures; Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK925AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:400
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK925] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Vitagraph Company of America (1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK925
+  </dcterms:isPartOf>none available
+</metadata>

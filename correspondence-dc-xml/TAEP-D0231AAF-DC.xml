@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Lewis, Eugene Howard to Edison, Thomas Alva, May 17, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-05-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Lewis, Eugene Howard
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Hammer, William Joseph; Marconi Wireless Telegraph Company of America; Patents; Wireless and radio
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0231AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:968
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0231] Document File Series -- 1902 (D-02-31) Radio
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0231
+  </dcterms:isPartOf>none available
+</metadata>

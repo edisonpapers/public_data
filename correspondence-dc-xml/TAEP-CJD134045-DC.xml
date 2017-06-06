@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Batchelor, Charles to Edison, Thomas Alva, July 08, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-07-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Batchelor, Charles
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Brennan, Daniel, Jr; Perry, William S; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJD134045
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:828
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJD] Company Records Series -- New York Concentrating Works Letterbook (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJD
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0811.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0812.jpg</dcterms:hasPart>
+</metadata>

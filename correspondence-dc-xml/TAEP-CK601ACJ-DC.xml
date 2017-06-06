@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Cochrane Chemical Co to Edison Chemical Works and Other Silver Lake Plants, December 26, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-12-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Cochrane Chemical Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Chemical Works and Other Silver Lake Plants
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Chemicals, chemical products, and chemical processes; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK601ACJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:253
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK601] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1901-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK601
+  </dcterms:isPartOf>none available
+</metadata>

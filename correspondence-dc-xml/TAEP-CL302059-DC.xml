@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stevens, Walter to Wells Fargo & Co, January 06, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-01-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Stevens, Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Wells Fargo & Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; Cylinder recording & reproducing apparatus; Metals and minerals; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL302059
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:640
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL302] Company Records Series -- National Phonograph Company -- Foreign Department Letterbooks Letterbook #2 (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL302
+  </dcterms:isPartOf>none available
+</metadata>

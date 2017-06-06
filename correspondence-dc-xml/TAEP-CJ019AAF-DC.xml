@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Balfour, John to Randolph, John F, May 04, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-05-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Balfour, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Ogden Ore Separating Plant; Cylinder phonograph; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ019AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:43
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ019] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1906)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ019
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0043.jpg</dcterms:hasPart>
+</metadata>

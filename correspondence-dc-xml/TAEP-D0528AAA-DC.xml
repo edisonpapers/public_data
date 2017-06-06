@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Edison, Thomas Alva, June 14, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-06-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Graphophone Co; Aylsworth, Jonas Walter; Edison Phonograph Works; Macdonald, Thomas Hood; Melzer, Adolph; Miller, Harry Frederick; Competition and market structure; Cylinder record and duplicating technology; Litigation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0528AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:297
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0528] Document File Series -- 1905 (D-05-28) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0528
+  </dcterms:isPartOf>none available
+</metadata>

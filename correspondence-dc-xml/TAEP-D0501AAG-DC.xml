@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from White, James Henry to Mallory, Walter Seeley, February 11, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-02-11
+  </dcterms:date>
+  <dcterms:creator>
+  	White, James Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Automobiles and trucks; Electric battery; Production difficulties and adjustments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0501AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:578
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0501] Document File Series -- 1905 (D-05-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0501
+  </dcterms:isPartOf>none available
+</metadata>

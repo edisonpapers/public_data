@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New York Board of Fire Underwriters and Anderson, William A to Edison Electric Illuminating Co (New York), July 06, 1882
+  </dcterms:title>
+  <dcterms:date>
+	1882-07-06
+  </dcterms:date>
+  <dcterms:creator>
+  	New York Board of Fire Underwriters; Anderson, William A
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Illuminating Co (New York)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Central stations; Electrical distribution system; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CB012122
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 96:729
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CB012] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #12
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB012
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0708.jpg</dcterms:hasPart>
+</metadata>

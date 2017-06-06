@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Scull, George Francis, May 29, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-05-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Biograph Co; Daniels, Walter A; Marvin, Harry Norton; Walker, Isaac W; Competition and market structure; Motion picture film technology
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK916AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:66
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK916] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Armat, Thomas (1901-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK916
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Mina Miller (Mrs Thomas A.) to Edison, Madeleine, March 16, 1946
+  </dcterms:title>
+  <dcterms:date>
+	1946-03-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Madeleine
+  </dcterms:contributor>
+  <dcterms:subject>
+	Arnn, Edward Thomas, III; Arnn, Edward Thomas, Jr; Edison, Thomas Alva; Miller, Grace A; Miller, Nancy; Seminole Lodge and Fort Myers; Sloane, John Eyre; Sloane, Jule Day (Mrs John E.); Sloane, Madeleine Edison (Madalee); Edison-Miller family; Health and medicine; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Swann Galleries
+  </dcterms:source>
+  <dcterms:identifier>
+	B037ACO
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B037A] Swann Galleries, Inc., New York, N.Y. Family Correspondence and Related Documents
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B037A
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xv/xv3712.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xv/xv3713.jpg</dcterms:hasPart>
+</metadata>

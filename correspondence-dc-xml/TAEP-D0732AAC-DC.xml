@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Aiken, Edward L to Hird, Allan M, May 31, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-05-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Aiken, Edward L
+  </dcterms:creator>
+  <dcterms:contributor>
+	Hird, Allan M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Durand, Nelson C; Moore, Alexander T; Redfearn, George Benjamin; Cylinder phonograph; Cylinder recording & reproducing apparatus; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0732AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:701
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0732] Document File Series -- 1907 (D-07-32) Phonograph -- Edison Phonograph Works
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0732
+  </dcterms:isPartOf>none available
+</metadata>

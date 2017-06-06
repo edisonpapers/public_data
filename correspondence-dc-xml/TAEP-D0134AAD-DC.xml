@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Bergmann, Sigmund to Edison, Thomas Alva, March 07, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-03-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Bergmann, Sigmund
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bergmann Elektromotoren and Dynamo Werke; National Phonograph Co; Winkler, George; Manufacturing; Motors; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0134AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:482
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0134] Document File Series -- 1901 (D-01-34) West Orange Laboratory
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0134
+  </dcterms:isPartOf>none available
+</metadata>

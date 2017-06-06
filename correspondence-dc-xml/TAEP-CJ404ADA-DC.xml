@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dick, Herman Ernest to Edison Ore Milling Syndicate Ltd, December 21, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-12-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Dick, Herman Ernest
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Ore Milling Syndicate Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Ore Milling Area; Edison, Thomas Alva; Financial operations (companies and organizations); Labor; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ404ADA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:826
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ404] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ404
+  </dcterms:isPartOf>none available
+</metadata>

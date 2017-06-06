@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Goldenberg, Carl T to Scull, George Francis, September 17, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-09-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Goldenberg, Carl T
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Eastman Kodak Co; Motion picture film technology; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK922AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:324
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK922] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Path&eacute; Fr&egrave;res Moving Pictures (1906-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK922
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from General Electric Co and Rach, Christian to Edison, Thomas Alva, May 04, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-05-04
+  </dcterms:date>
+  <dcterms:creator>
+  	General Electric Co; Rach, Christian
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Andrus, Milo P; Menlo Park Laboratory; Randolph, John F; Finances (TAE and family); Menlo Park reminiscences (1876-1881)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0510AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:33
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0510] Document File Series -- 1905 (D-05-10) Edison, T.A. -- Employment
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0510
+  </dcterms:isPartOf>none available
+</metadata>

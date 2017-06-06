@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Scull, George Francis to Waters, Percival Lee, October 04, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-10-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Scull, George Francis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Waters, Percival Lee
+  </dcterms:contributor>
+  <dcterms:subject>
+	Contracts and other legal concerns; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK908ABJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:879
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK908] Company Records Series -- Motion Picture Patents Company -- Individuals Dyer, Frank L. (1908-1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK908
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Pennsylvania Railroad and Hale, Arthur, December 08, 1899
+  </dcterms:title>
+  <dcterms:date>
+	1899-12-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pennsylvania Railroad; Hale, Arthur
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Logue, William S; Contracts and other legal concerns; Phonoplex and railroad telegraphy; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0009AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:778
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0009] Document File Series -- 1900 (D-00-09) Edison Manufacturing Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0009
+  </dcterms:isPartOf>none available
+</metadata>

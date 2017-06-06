@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Marconi Wireless Telegraph Company of America and Bottomley, John to Edison, Thomas Alva, October 05, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-10-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Marconi Wireless Telegraph Company of America; Bottomley, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Marconi, Guglielmo; Thomson, Frances Anna Blandy (Mrs William); Loans; Wireless and radio
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0733AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:714
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0733] Document File Series -- 1907 (D-07-33) Radio
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0733
+  </dcterms:isPartOf>none available
+</metadata>

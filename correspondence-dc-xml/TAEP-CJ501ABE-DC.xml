@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Valin, George J, January 21, 1936
+  </dcterms:title>
+  <dcterms:date>
+	1936-01-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Valin, George J
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Charles; Edison, Theodore Miller; Edison, Thomas Alva; Lanahan, Henry; Mining Exploration Company of New Jersey; Sudbury District (Ontario); Finances (TAE and family); Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ501ABE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:436
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ501] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Corporate Documentation 1902-1936
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ501
+  </dcterms:isPartOf>none available
+</metadata>

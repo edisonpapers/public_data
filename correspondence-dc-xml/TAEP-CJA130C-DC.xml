@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Palisades Interstate Park Commission and Welch, William Addams to Allen, Ralph Henry, June 26, 1924
+  </dcterms:title>
+  <dcterms:date>
+	1924-06-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Palisades Interstate Park Commission; Welch, William Addams
+  </dcterms:creator>
+  <dcterms:contributor>
+	Allen, Ralph Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Perkins, George Walbridge; Finances (TAE and family); State and local government
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJA130C
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:712
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJA] Company Records Series -- New York Concentrating Works Administrative Records (1891-1906,1923-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0700.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Adams Express Co and Wells, George A to Weir, Levi Candee, November 02, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-11-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Adams Express Co; Wells, George A
+  </dcterms:creator>
+  <dcterms:contributor>
+	Weir, Levi Candee
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; General Electric Co; Automobiles and trucks; Electric battery; Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0401AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:770
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0401] Document File Series -- 1904 (D-04-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0401
+  </dcterms:isPartOf>none available
+</metadata>

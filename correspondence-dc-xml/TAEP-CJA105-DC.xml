@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Eaton, Sherburne Blake to Insull, Samuel, April 24, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-04-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Eaton, Sherburne Blake
+  </dcterms:creator>
+  <dcterms:contributor>
+	Insull, Samuel
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cutting, Robert Livingston, Jr; Perry, William S; Financial operations (companies and organizations); Management (companies and organizations); Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJA105
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:670
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJA] Company Records Series -- New York Concentrating Works Administrative Records (1891-1906,1923-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0657.jpg</dcterms:hasPart>
+</metadata>

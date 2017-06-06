@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Williams, Howard C to Mallory, Walter Seeley, June 02, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-06-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Williams, Howard C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	New York Sun; Stevens, Edwin Augustus; Railroads and transportation; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ621ABA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:411
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ621] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ621
+  </dcterms:isPartOf>none available
+</metadata>

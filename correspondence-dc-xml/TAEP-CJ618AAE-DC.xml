@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Upton, Francis Robbins to Edison, Thomas Alva, August 31, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-08-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Upton, Francis Robbins
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ingalls, Percy; Public Service Corp of New Jersey; Whittlesey, James Thomas; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ618AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:763
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ618] Company Records Series -- Edison Portland Cement Company -- Corporate Files Upton, Francis R. (1909-1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ618
+  </dcterms:isPartOf>none available
+</metadata>

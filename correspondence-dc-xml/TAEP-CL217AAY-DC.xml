@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McChesney, Leonard C to Gilmore, William Edgar, May 27, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-27
+  </dcterms:date>
+  <dcterms:creator>
+  	McChesney, Leonard C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Blackman, Joseph Newcomb; Nisbett, George M; Talking Machine World; Victor Talking Machine Co; Competition and market structure; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL217AAY
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:956
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL217] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL217
+  </dcterms:isPartOf>none available
+</metadata>

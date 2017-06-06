@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hayes, Howard W to Gilmore, William Edgar, July 03, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-07-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Hayes, Howard W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Hawthorne and Sheble; McPherson, John Bayard; U.S. Court of Appeals. Third Circuit; Litigation; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL203AAX
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:552
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL203] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL203
+  </dcterms:isPartOf>none available
+</metadata>

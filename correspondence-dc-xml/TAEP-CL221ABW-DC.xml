@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from National Phonograph Co to Shackleton, Ernest Henry, May 03, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-05-03
+  </dcterms:date>
+  <dcterms:creator>
+  	National Phonograph Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Shackleton, Ernest Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Victor Talking Machine Co; Competition and market structure; Cylinder recordings
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL221ABW
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:348
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL221] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL221
+  </dcterms:isPartOf>none available
+</metadata>

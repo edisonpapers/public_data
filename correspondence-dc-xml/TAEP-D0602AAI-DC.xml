@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Nisbett, George M to Gilmore, William Edgar, May 04, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-05-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Nisbett, George M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Battery Supplies Co; Dodge, Eben G; Logue, William S; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0602AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:402
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0602] Document File Series -- 1906 (D-06-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0602
+  </dcterms:isPartOf>none available
+</metadata>

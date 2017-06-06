@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from North American Transportation and Trading Co and Robe, L S to Isom, W H, November 04, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-11-04
+  </dcterms:date>
+  <dcterms:creator>
+  	North American Transportation and Trading Co; Robe, L S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Isom, W H
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chapman, Cloyd Mason; Financial operations (companies and organizations); Ore exploration and mining; Ore milling (non-iron ore)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0423AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:299
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0423] Document File Series -- 1904 (D-04-23) Mining -- Dry Placer
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0423
+  </dcterms:isPartOf>none available
+</metadata>

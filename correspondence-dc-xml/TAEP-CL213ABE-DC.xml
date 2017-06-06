@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Durand, Nelson C, October 24, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-10-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Durand, Nelson C
+  </dcterms:contributor>
+  <dcterms:subject>
+	Schmidt, A A; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL213ABE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:547
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL213] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1906)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL213
+  </dcterms:isPartOf>none available
+</metadata>

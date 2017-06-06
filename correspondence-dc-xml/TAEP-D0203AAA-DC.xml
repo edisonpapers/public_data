@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from General Electric Co and Mullin, E H to Edison, Thomas Alva, January 06, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-01-06
+  </dcterms:date>
+  <dcterms:creator>
+  	General Electric Co; Mullin, E H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Railroad Gazette; Electric battery; Newspapers, books, other publications; Railroads and transportation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0203AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:557
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0203] Document File Series -- 1902 (D-02-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0203
+  </dcterms:isPartOf>none available
+</metadata>

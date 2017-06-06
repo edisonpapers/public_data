@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Edison, Thomas Alva, April 16, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-04-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Carbon, coal, glass, ceramics; Ore milling and separation; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ047AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:249
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ047] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Plant Operations Records -- Unbound Records Correspondence & Reports (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ047
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0229.jpg</dcterms:hasPart>
+</metadata>

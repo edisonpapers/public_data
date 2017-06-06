@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Batchelor, Charles to Blake Crusher Co, August 05, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-08-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Batchelor, Charles
+  </dcterms:creator>
+  <dcterms:contributor>
+	Blake Crusher Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	West Orange Laboratory; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJD134083
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:830
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJD] Company Records Series -- New York Concentrating Works Letterbook (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJD
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0813.jpg</dcterms:hasPart>
+</metadata>

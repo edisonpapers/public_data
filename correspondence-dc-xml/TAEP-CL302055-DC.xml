@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stevens, Walter to Wyper, William Wright, December 31, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Stevens, Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Wyper, William Wright
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; National Phonograph Co Ltd; Wilson, Carl Hillis; Cylinder record and duplicating technology; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL302055
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:637
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL302] Company Records Series -- National Phonograph Company -- Foreign Department Letterbooks Letterbook #2 (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL302
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dillistin, Howard P to Edison, Thomas Alva, December 14, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-12-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Dillistin, Howard P
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Sockets, fuses, meters, and other interior elements
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0716AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:458
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0716] Document File Series -- 1907 (D-07-16) Edison, T.A. -- Unsolicited Correspondence -- Advice
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0716
+  </dcterms:isPartOf>none available
+</metadata>

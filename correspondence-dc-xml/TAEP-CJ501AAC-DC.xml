@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Mining Exploration Company of New Jersey, June 10, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-06-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mining Exploration Company of New Jersey
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Storage Battery Co; Finances (TAE and family); Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ501AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:383
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ501] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Corporate Documentation 1902-1936
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ501
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Altengarten, Henry Augustus to Egerton, Henry Clifford, December 12, 1921
+  </dcterms:title>
+  <dcterms:date>
+	1921-12-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Altengarten, Henry Augustus
+  </dcterms:creator>
+  <dcterms:contributor>
+	Egerton, Henry Clifford
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bissell, C W; Edison, Thomas Alva; Electric battery; Manufacturing; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK619AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:55
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK619] Company Records Series -- Edison Storage Battery Company -- Plant Operations and Research Records Operations Reports (1905-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK619
+  </dcterms:isPartOf>none available
+</metadata>

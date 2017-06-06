@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Deutsche Bank to Bergmann, Sigmund, November 15, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-11-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Deutsche Bank
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bergmann, Sigmund
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electric battery; International business operations; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0405AAO1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:31
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0405] Document File Series -- 1904 (D-04-05) Battery -- Storage -- Foreign -- Bergmann, Sigmund
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0405
+  </dcterms:isPartOf>none available
+</metadata>

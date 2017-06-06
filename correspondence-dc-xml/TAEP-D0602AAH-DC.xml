@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to California Electric Co and Scribner, E M, March 19, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-03-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	California Electric Co; Scribner, E M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Competition and market structure; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0602AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:401
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0602] Document File Series -- 1906 (D-06-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0602
+  </dcterms:isPartOf>none available
+</metadata>

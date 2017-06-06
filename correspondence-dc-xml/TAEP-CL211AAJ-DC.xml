@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Gilmore, William Edgar, May 18, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-05-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Graphophone Co; Armat Motion Picture Co; Columbia Phonograph Co; Macdonald, Thomas Hood; Mauro, Philip; New England Phonograph Co; Competition and market structure; Litigation; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL211AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:209
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL211] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1905)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL211
+  </dcterms:isPartOf>none available
+</metadata>

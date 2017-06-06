@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Edison Ore Milling Syndicate Ltd, January 01, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-01-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Ore Milling Syndicate Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ogden Ore Separating Plant; Ore concentrate; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ404AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:654
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ404] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ404
+  </dcterms:isPartOf>none available
+</metadata>

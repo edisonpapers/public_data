@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Graf, Thomas, March 19, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-03-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Graf, Thomas
+  </dcterms:contributor>
+  <dcterms:subject>
+	Columbia Phonograph Co; Victor Talking Machine Co; Competition and market structure; Cylinder recordings; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL220AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:160
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL220] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL220
+  </dcterms:isPartOf>none available
+</metadata>

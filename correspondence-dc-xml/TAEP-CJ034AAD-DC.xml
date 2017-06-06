@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Elliott, Alexander, Jr to Edison, Thomas Alva, February 08, 1894
+  </dcterms:title>
+  <dcterms:date>
+	1894-02-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Elliott, Alexander, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Moller, George H; Contracts and other legal concerns; Finances (TAE and family); Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ034AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:714
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ034] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1894)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ034
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0704.jpg</dcterms:hasPart>
+</metadata>

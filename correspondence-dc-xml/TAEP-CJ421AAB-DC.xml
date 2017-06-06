@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Simpkin, William to Pollen, Stephen Hungerford, January 25, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-01-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Simpkin, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pollen, Stephen Hungerford
+  </dcterms:contributor>
+  <dcterms:subject>
+	Rolls and crushers; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ421AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:485
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ421] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ421
+  </dcterms:isPartOf>none available
+</metadata>

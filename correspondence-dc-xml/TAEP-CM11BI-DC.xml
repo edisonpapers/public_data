@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to O'Dair, William J, November 10, 1919
+  </dcterms:title>
+  <dcterms:date>
+	1919-11-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	O'Dair, William J
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemicals, chemical products, and chemical processes; Electric battery; Production difficulties and adjustments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM11BI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:754
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM11] Special Collections Series -- Chemical Production Records -- Edison Chemical Works W. J. O'Dair Papers (1919-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM11
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Goldsborough, Winder Elwell to Edison Storage Battery Co, September 02, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-09-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Goldsborough, Winder Elwell
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Storage Battery Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Exhibition. St Louis (1904); Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0419AAQ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:250
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0419] Document File Series -- 1904 (D-04-19) Exhibitions
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0419
+  </dcterms:isPartOf>none available
+</metadata>

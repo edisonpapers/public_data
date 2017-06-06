@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dick, Herman Ernest to Lawrence, Joseph, January 22, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-01-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Dick, Herman Ernest
+  </dcterms:creator>
+  <dcterms:contributor>
+	Lawrence, Joseph
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Iron Ore Co Ltd; Edison Ore Milling Syndicate Ltd; Edison, Thomas Alva; Pollen, Francis Gabriel Hungerford; Rudd, Charles Dunell; Cement; Ore milling and separation; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ435328
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:346
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ435] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Bound Volumes Letterbook, LM-281 (1900-1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ435
+  </dcterms:isPartOf>none available
+</metadata>

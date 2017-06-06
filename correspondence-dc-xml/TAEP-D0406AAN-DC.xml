@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Edison, Thomas Alva, February 29, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-02-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Graphophone Co; Aylsworth, Jonas Walter; Miller, Walter Henry; National Phonograph Co; Rosanoff, Martin Andre; Competition and market structure; Cylinder phonograph; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0406AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:109
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0406] Document File Series -- 1904 (D-04-06) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0406
+  </dcterms:isPartOf>none available
+</metadata>

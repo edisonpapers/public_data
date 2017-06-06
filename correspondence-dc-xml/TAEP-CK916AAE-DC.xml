@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Armat, Thomas, October 06, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-10-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Armat, Thomas
+  </dcterms:contributor>
+  <dcterms:subject>
+	Scull, George Francis; Competition and market structure; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK916AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:56
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK916] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Armat, Thomas (1901-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK916
+  </dcterms:isPartOf>none available
+</metadata>

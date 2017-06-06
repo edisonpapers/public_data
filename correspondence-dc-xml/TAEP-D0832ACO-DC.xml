@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pound, George W to Dyer, Frank Lewis, November 29, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-11-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Pound, George W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; National Phonograph Co; National government (U.S.); Stocks, bonds, and investments; Taxes
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0832ACO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:716
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0832] Document File Series -- 1908 (D-08-32) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0832
+  </dcterms:isPartOf>none available
+</metadata>

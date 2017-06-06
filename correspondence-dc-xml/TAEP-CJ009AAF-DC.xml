@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from North American Chemical Co and Taylor, William F, (New Jersey) to Conley, Owen J, February 11, 1896
+  </dcterms:title>
+  <dcterms:date>
+	1896-02-11
+  </dcterms:date>
+  <dcterms:creator>
+  	North American Chemical Co; Taylor, William F, (New Jersey)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Conley, Owen J
+  </dcterms:contributor>
+  <dcterms:subject>
+	Brennan, Daniel, Jr; Rolls and crushers; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ009AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:678
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ009] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1896)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ009
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0667.jpg</dcterms:hasPart>
+</metadata>

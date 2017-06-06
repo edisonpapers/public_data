@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from N.Y. State. Comptroller to Edison Ore Milling Co Ltd and Randolph, John F, December 10, 1896
+  </dcterms:title>
+  <dcterms:date>
+	1896-12-10
+  </dcterms:date>
+  <dcterms:creator>
+  	N.Y. State. Comptroller
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Ore Milling Co Ltd; Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Taxes
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CGB011B
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:643
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CGB] Company Records Series -- Edison Ore Milling Company, Ltd. Financial Records (1880-1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CGB
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0632.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0633.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0634.jpg</dcterms:hasPart>
+</metadata>

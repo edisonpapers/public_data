@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from O'Connell, John J to Dyer, Frank Lewis, October 03, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-10-03
+  </dcterms:date>
+  <dcterms:creator>
+  	O'Connell, John J
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cromelin, Paul Henderson; New York Phonograph Co; New York World; Pettit, Horace; U.S. Congress; Victor Talking Machine Co; Competition and market structure; Contracts and other legal concerns; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL217ACB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:1001
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL217] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL217
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Lanahan, Henry to Mambert, Stephen Babcock, January 30, 1919
+  </dcterms:title>
+  <dcterms:date>
+	1919-01-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Lanahan, Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mambert, Stephen Babcock
+  </dcterms:contributor>
+  <dcterms:subject>
+	Brandon Bros; Brandon, Douglas Horace; Brandon, Raphael Hunter; Edison, Thomas Alva; Flicoteaux, Paul; Graf, Thomas; Lehmann, Maurice; Marks, George Croydon; Miller, Harry Frederick; Stevens, Walter; Wilson, Carl Hillis; International business operations; Patent assignments, licenses, and royalties; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL401ABA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 198:706
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL401] Company Records Series -- Compagnie Fran&ccedil;aise du Phonographe Edison Corporate Records (1904-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL401
+  </dcterms:isPartOf>none available
+</metadata>

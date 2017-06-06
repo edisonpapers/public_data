@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Logue, William S to Gilmore, William Edgar, December 24, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-12-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Logue, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Columbia Phonograph Co; Insull, Samuel; Kleine, George; Westee, Alphons; Competition and market structure; Labor; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL203ABT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:589
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL203] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL203
+  </dcterms:isPartOf>none available
+</metadata>

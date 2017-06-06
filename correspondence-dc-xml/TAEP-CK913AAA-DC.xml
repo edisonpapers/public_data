@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Edison, Charles and Edison, Thomas Alva, April 26, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-04-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Charles; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Kleine, George; Mambert, Stephen Babcock; McChesney, Leonard Ward; Competition and market structure; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK913AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1075
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK913] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK913
+  </dcterms:isPartOf>none available
+</metadata>

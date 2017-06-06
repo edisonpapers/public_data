@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Muckers (West Orange Laboratory) to Edison, Thomas Alva, May 19, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-05-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Muckers (West Orange Laboratory)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Aylsworth, Jonas Walter; Cowing, Percy Foote; Miller, John Vincent; Wangemann, Adelbert Theodor Edward; Warren, William Appleton; Whiting, Allan H; Awards & honors/clubs & societies; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0510AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:36
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0510] Document File Series -- 1905 (D-05-10) Edison, T.A. -- Employment
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0510
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Randolph, John F, March 16, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-03-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Denton Dunn and Boultbee; Edison, Thomas Alva; Gayley, James; Ore exploration and mining
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ505AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:816
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ505] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Thomas A. Edison Files Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ505
+  </dcterms:isPartOf>none available
+</metadata>

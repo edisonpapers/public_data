@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New York Journal and Brisbane, Arthur to Edison, Thomas Alva, December 10, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-12-10
+  </dcterms:date>
+  <dcterms:creator>
+  	New York Journal; Brisbane, Arthur
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Clemens, Samuel Langhorne; Cosmopolitan (Magazine); Hearst, William Randolph; Newspapers, books, other publications; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0709AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:224
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0709] Document File Series -- 1907 (D-07-09) Edison, T.A. -- Articles
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0709
+  </dcterms:isPartOf>none available
+</metadata>

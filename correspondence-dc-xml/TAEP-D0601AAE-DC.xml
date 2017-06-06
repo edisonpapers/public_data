@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Motor Car Company of New Jersey and Uppercu, Inglis Moore to Randolph, John F, June 21, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-06-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Motor Car Company of New Jersey; Uppercu, Inglis Moore
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; West Orange Laboratory; Automobiles and trucks; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0601AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:380
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0601] Document File Series -- 1906 (D-06-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0601
+  </dcterms:isPartOf>none available
+</metadata>

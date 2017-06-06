@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Siegel, Oscar Othan to Edison, Thomas Alva, September 01, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-09-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Siegel, Oscar Othan
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Compagnie Continentale Edison; Societe du Phoenix; Contracts and other legal concerns
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE85026
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:387
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CE85] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1885)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE85
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0377.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0378.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0379.jpg</dcterms:hasPart>
+</metadata>

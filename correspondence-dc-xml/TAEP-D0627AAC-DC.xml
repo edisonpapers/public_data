@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Edison, Thomas Alva, June 29, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-06-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison United Phonograph Co; Edison-Bell Consolidated Phonograph Co Ltd; International Graphophone Co; Moriarty, John; New Jersey. Attorney General; Schermerhorn, John Relyea; Financial operations (companies and organizations); Litigation; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0627AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:816
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0627] Document File Series -- 1906 (D-06-27) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0627
+  </dcterms:isPartOf>none available
+</metadata>

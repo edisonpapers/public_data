@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dolbeer, Frank K to Durand, Nelson C, September 03, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Dolbeer, Frank K
+  </dcterms:creator>
+  <dcterms:contributor>
+	Durand, Nelson C
+  </dcterms:contributor>
+  <dcterms:subject>
+	Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0837AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:856
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0837] Document File Series -- 1908 (D-08-37) Phonograph -- Edison Business Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0837
+  </dcterms:isPartOf>none available
+</metadata>

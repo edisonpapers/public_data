@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pratt, Alfred E to Opdyke, Edgar Smith, August 04, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-08-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Pratt, Alfred E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Opdyke, Edgar Smith
+  </dcterms:contributor>
+  <dcterms:subject>
+	Lansden, John M, Jr; Wood, John H; Automobiles and trucks; Electric battery; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0401AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:760
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0401] Document File Series -- 1904 (D-04-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0401
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hunter, Charles Francis to Edison, Thomas Alva, May 21, 1926
+  </dcterms:title>
+  <dcterms:date>
+	1926-05-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Hunter, Charles Francis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Swenson Co; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM10CC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:686
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM10] Special Collections Series -- Chemical Production Records -- Edison Chemical Works C. F. Hunter Papers (1914-1926)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM10
+  </dcterms:isPartOf>none available
+</metadata>

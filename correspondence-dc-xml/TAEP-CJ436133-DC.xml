@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pollen, Francis Gabriel Hungerford to Edison, Thomas Alva, June 19, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-06-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Pollen, Francis Gabriel Hungerford
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ballantine, James B; Edison Ore Milling Syndicate Ltd; Simpkin, William; International business operations; Patents; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ436133
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:405
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ436] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Bound Volumes Letterbook, LM-282 (1902-1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ436
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Randolph, John F, February 16, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-02-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Storage Battery Co; Edison, Thomas Alva; Gilmore, William Edgar; Electric battery; Financial operations (companies and organizations); Loans
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0403AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:821
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0403] Document File Series -- 1904 (D-04-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0403
+  </dcterms:isPartOf>none available
+</metadata>

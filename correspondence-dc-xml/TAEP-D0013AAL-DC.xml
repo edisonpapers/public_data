@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Electric Smelting and Aluminum Co and Cowles, Alfred Hutchinson to Edison, Thomas Alva, May 01, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-05-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Electric Smelting and Aluminum Co; Cowles, Alfred Hutchinson
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	New Jersey Zinc Co; Wetherill, John Price; Ore exploration and mining; Ore milling (non-iron ore); Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0013AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:849
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0013] Document File Series -- 1900 (D-00-13) Mining -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0013
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Weber, Peter to Redfearn, George Benjamin, May 20, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Weber, Peter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Redfearn, George Benjamin
+  </dcterms:contributor>
+  <dcterms:subject>
+	Aiken, Edward L; Wilson, Carl Hillis; Cylinder phonograph; Cylinder recording & reproducing apparatus; Production difficulties and adjustments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0838AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:878
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0838] Document File Series -- 1908 (D-08-38) Phonograph -- Edison Phonograph Works
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0838
+  </dcterms:isPartOf>none available
+</metadata>

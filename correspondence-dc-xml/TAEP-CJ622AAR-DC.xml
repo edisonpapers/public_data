@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Horne, William Eugene to Mambert, Stephen Babcock, November 24, 1917
+  </dcterms:title>
+  <dcterms:date>
+	1917-11-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Horne, William Eugene
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mambert, Stephen Babcock
+  </dcterms:contributor>
+  <dcterms:subject>
+	Kellow, Richard Wesley; Mallory, Walter Seeley; North Jersey Paint Co; Pohatcong Railroad Co; Warren County Warehouse Co; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ622AAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:533
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ622] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1915-1919)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ622
+  </dcterms:isPartOf>none available
+</metadata>

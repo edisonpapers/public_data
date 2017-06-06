@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Colorado Midland Railway Co and Ristine, George Washington to Edison, Thomas Alva, February 17, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-02-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Colorado Midland Railway Co; Ristine, George Washington
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Wells Fargo & Co; Ore milling (non-iron ore)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0013AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:831
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0013] Document File Series -- 1900 (D-00-13) Mining -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0013
+  </dcterms:isPartOf>none available
+</metadata>

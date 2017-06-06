@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison Portland Cement Co and Kiefer, Herman E to Edison, Thomas Alva, October 15, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-10-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Portland Cement Co; Kiefer, Herman E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Casterline, R D; Cement; Metals and minerals; Ore exploration and mining
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJA124
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:697
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJA] Company Records Series -- New York Concentrating Works Administrative Records (1891-1906,1923-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0685.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0686.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pinkerton's National Detective Agency to Edison, Thomas Alva, October 31, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-10-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Pinkerton's National Detective Agency
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0327AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:688
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0327] Document File Series -- 1903 (D-03-27) Phonograph -- Edison Phonograph Works
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0327
+  </dcterms:isPartOf>none available
+</metadata>

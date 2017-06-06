@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Lystrup, John William, August 06, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-08-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Lystrup, John William
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemicals, chemical products, and chemical processes; Electric battery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Images courtesy of The Raab  Collection
+  </dcterms:source>
+  <dcterms:identifier>
+	B063L
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B063] The Raab Collection, Ardmore, Pa. John W. Lystrup Papers
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B063
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xz/xz0088.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xz/xz0089.jpg</dcterms:hasPart>
+</metadata>

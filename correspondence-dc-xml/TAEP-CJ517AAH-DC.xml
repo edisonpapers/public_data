@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Canada. Dept of Lands Forests and Mines and White, Aubrey, April 26, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-04-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Canada. Dept of Lands Forests and Mines; White, Aubrey
+  </dcterms:contributor>
+  <dcterms:subject>
+	Financial operations (companies and organizations); Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ517AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:164
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ517] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- John V. Miller Files Correspondence (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ517
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Menlo Park Fire Co and Carman, William, Jr to Edison, Thomas Alva, November 27, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-11-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Menlo Park Fire Co; Carman, William, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Carman, William; Middlesex County (N.J.). Sheriff; Awards & honors/clubs & societies; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0109AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:159
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0109] Document File Series -- 1901 (D-01-09) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0109
+  </dcterms:isPartOf>none available
+</metadata>

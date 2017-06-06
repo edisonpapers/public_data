@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Warwick Iron and Steel Co and Nicolls, Gustavus William to Pilling and Crane, January 10, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-01-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Warwick Iron and Steel Co; Nicolls, Gustavus William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pilling and Crane
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ore concentrate
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ015AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:14
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ015] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ015
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0014.jpg</dcterms:hasPart>
+</metadata>

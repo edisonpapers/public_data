@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kesler, Charles Holland to Miller, Harry Frederick, July 12, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-07-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Kesler, Charles Holland
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	New Jersey. Secretary of State; Ogden Iron Co; Contracts and other legal concerns; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ202C
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:889
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ202] Company Records Series -- Ogden Iron Company Documents Relating to Dissolution (1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ202
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0870.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0871.jpg</dcterms:hasPart>
+</metadata>

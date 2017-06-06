@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Compagnie Francaise du Phonographe Edison and Graf, Thomas to Gilmore, William Edgar, November 24, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-11-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Compagnie Francaise du Phonographe Edison; Graf, Thomas
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Deutsche Edison Phonographen Gesellschaft; Edison, Thomas Alva; Pathe Freres; Vitagraph Company of America; Cylinder phonograph; International business operations; Motion pictures; Peephole Kinetoscope; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0624AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:756
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0624] Document File Series -- 1906 (D-06-24) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0624
+  </dcterms:isPartOf>none available
+</metadata>

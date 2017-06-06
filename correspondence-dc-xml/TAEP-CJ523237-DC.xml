@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Denton, Frank, February 21, 1913
+  </dcterms:title>
+  <dcterms:date>
+	1913-02-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Denton, Frank
+  </dcterms:contributor>
+  <dcterms:subject>
+	Canada. Dept of Lands Forests and Mines; Edison, Thomas Alva; Miller, Lewis Alexander; Ott, Frederick Paul; Sudbury District (Ontario); Upton, Francis Robbins; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ523237
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:291
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ523] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Letterbooks Letterbook, LM-275 (1904-1913)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ523
+  </dcterms:isPartOf>none available
+</metadata>

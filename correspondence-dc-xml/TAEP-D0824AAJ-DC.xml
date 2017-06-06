@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mitchell, George to Edison, Thomas Alva, June 23, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-06-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Mitchell, George
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	General Electric Co; Education; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0824AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:496
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0824] Document File Series -- 1908 (D-08-24) Edison, T.A. -- Unsolicited Correspondence -- Personal
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0824
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Chandler, Albert B to Edison, Thomas Alva, April 01, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-04-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Chandler, Albert B
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Bell Telephone Co; Magnetic Club; Postal Telegraph Cable Co; Western Union; Awards & honors/clubs & societies; TAE friends and associates; Telegraph
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0509AAA1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:19
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0509] Document File Series -- 1905 (D-05-09) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0509
+  </dcterms:isPartOf>none available
+</metadata>

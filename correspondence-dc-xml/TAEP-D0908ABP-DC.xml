@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tuskegee Normal and Industrial Institute and Washington, Booker Taliaferro to Edison, Mina Miller (Mrs Thomas A.), March 27, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-03-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Tuskegee Normal and Industrial Institute; Washington, Booker Taliaferro
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison-Miller family; Education
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0908ABP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:273
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0908] Document File Series -- 1909 (D-09-08) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0908
+  </dcterms:isPartOf>none available
+</metadata>
