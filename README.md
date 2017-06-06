@@ -1,18 +1,13 @@
 # public_data
 Repository of public data sets released by the Thomas A. Edison Papers at Rutgers University
 
-http://edison.rutgers.edu
+With a renewed focus on digital access and preservation, the Edison Papers releases this data into the public domain for all curious seekers of knowledge. Intended for use both by the public, digital humanities students, and scholars around the world, this corpora includes nearly 100,000 records of correspondence that are part of the physical collections of the Thomas Edison National Historical Park. Correspondence primarily takes the form of letters, postcards, and telegrams. The records do not contain transcriptions, but metadata identifying date, source, author(s), recipient(s), and hyperlinks to digital images when available.
 
-**correspondence_release_2017_001.csv**
+http://edison.rutgers.edu + http://edison.rutgers.edu/xml
 
-- 90,519 rows of data 
-- raw data from merged SQL query on database
-- represents a curated set of correspondence from the edison.rutgers.edu database with both author and recipient identified.
+## 6/6/2017 
+First official public data set released; 10,000 records of correspondence in Dublin Core XML format
 
-Data structure:
+## Next
+CSV output coming soon
 
-- *document_id, name_code, full_name, role, date (YYYYMMDD), name_code, full_name, role*
-- *A = author, R = recipient*
-```
-0915X018C9, MGB, "Miller, Mary Emily", A, 19110305, MME, "Edison, Mina Miller (Mrs Thomas A.)",	R
-```
