@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McChesney, Leonard Ward to Wilson, Carl Hillis, January 02, 1915
+  </dcterms:title>
+  <dcterms:date>
+	1915-01-02
+  </dcterms:date>
+  <dcterms:creator>
+  	McChesney, Leonard Ward
+  </dcterms:creator>
+  <dcterms:contributor>
+	Wilson, Carl Hillis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Waters, Percival Lee; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK912AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1044
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK912] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1913-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK912
+  </dcterms:isPartOf>none available
+</metadata>

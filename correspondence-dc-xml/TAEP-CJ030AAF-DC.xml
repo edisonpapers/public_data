@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Eaton, Sherburne Blake to Edison, Thomas Alva, May 18, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-05-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Eaton, Sherburne Blake
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	East Jersey Board of Proprietors; Reed, Charles J; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ030AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:547
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ030] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1891)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ030
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0541.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0542.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0543.jpg</dcterms:hasPart>
+</metadata>

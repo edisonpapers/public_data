@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Miller, John Vincent and Chapman, Cloyd Mason, July 02, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-07-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, John Vincent; Chapman, Cloyd Mason
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ore milling (non-iron ore)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0014AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:887
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0014] Document File Series -- 1900 (D-00-14) Mining -- Ortiz Mine
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0014
+  </dcterms:isPartOf>none available
+</metadata>

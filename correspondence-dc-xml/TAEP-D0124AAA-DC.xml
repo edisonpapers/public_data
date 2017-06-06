@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Witherbee, Frank Spencer to Edison, Thomas Alva, February 14, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-02-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Witherbee, Frank Spencer
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0124AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:258
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0124] Document File Series -- 1901 (D-01-24) Mining -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0124
+  </dcterms:isPartOf>none available
+</metadata>

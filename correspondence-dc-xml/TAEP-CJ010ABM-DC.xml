@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Weimer Machine Works Co and Weimer, John A to New Jersey and Pennsylvania Concentrating Works, September 22, 1897
+  </dcterms:title>
+  <dcterms:date>
+	1897-09-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Weimer Machine Works Co; Weimer, John A
+  </dcterms:creator>
+  <dcterms:contributor>
+	New Jersey and Pennsylvania Concentrating Works
+  </dcterms:contributor>
+  <dcterms:subject>
+	Mallory, Walter Seeley; Loans; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ010ABM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:800
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ010] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1897)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ010
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0789.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0790.jpg</dcterms:hasPart>
+</metadata>

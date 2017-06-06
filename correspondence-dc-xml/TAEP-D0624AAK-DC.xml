@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hardin, John to Moore, Alexander T, October 16, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-10-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Hardin, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Moore, Alexander T
+  </dcterms:contributor>
+  <dcterms:subject>
+	Kleine Optical Co; Melies (Geo.); Pathe Freres; Vitagraph Company of America; Competition and market structure; Motion pictures; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0624AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:749
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0624] Document File Series -- 1906 (D-06-24) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0624
+  </dcterms:isPartOf>none available
+</metadata>

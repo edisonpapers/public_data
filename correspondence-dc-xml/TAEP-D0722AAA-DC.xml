@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Exhibition. Jamestown Ter-Centennial (1907) and Lee, Francis Bazley to Edison, Thomas Alva, April 04, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-04-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Exhibition. Jamestown Ter-Centennial (1907); Lee, Francis Bazley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Menlo Park Laboratory; Cylinder phonograph; Electric light and power; Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0722AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:474
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0722] Document File Series -- 1907 (D-07-22) Exhibitions
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0722
+  </dcterms:isPartOf>none available
+</metadata>

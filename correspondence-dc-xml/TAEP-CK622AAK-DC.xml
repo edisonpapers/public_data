@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mambert, Stephen Babcock and Edison, Thomas Alva to Mudd, Arthur, September 17, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-09-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Mambert, Stephen Babcock; Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mudd, Arthur
+  </dcterms:contributor>
+  <dcterms:subject>
+	Eckert, Howard Haines; Edison, Charles; Kellow, Richard Wesley; Robinson, John William; Financial operations (companies and organizations); General economic and business conditions; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK622AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:279
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK622] Company Records Series -- Edison Storage Battery Company -- Sales Records Sales Reports (1910-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK622
+  </dcterms:isPartOf>none available
+</metadata>

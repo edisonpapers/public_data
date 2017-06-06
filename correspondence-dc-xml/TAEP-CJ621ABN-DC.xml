@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Carhart, Edmund H to Case, W W, July 11, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-07-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Carhart, Edmund H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Case, W W
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Cement; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ621ABN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:433
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ621] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ621
+  </dcterms:isPartOf>none available
+</metadata>

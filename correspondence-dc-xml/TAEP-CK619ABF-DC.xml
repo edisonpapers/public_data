@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Sheldon, W M to Haggerty, Daniel T, June 05, 1924
+  </dcterms:title>
+  <dcterms:date>
+	1924-06-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Sheldon, W M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Haggerty, Daniel T
+  </dcterms:contributor>
+  <dcterms:subject>
+	Masterson, Edward; Electric battery; Labor; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK619ABF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:69
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK619] Company Records Series -- Edison Storage Battery Company -- Plant Operations and Research Records Operations Reports (1905-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK619
+  </dcterms:isPartOf>none available
+</metadata>

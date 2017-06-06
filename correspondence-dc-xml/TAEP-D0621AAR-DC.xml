@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Standard Consolidated Mines Co and Campbell, D M, July 02, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-07-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Standard Consolidated Mines Co; Campbell, D M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Storage Battery Co; Ledoux & Co; Contracts and other legal concerns; Metals and minerals; Purchases
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0621AAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:664
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0621] Document File Series -- 1906 (D-06-21) Mining -- Cobalt Search -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0621
+  </dcterms:isPartOf>none available
+</metadata>

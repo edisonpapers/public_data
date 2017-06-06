@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tate, Alfred Ord to Johnson, Edward Hibberd, May 16, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Tate, Alfred Ord
+  </dcterms:creator>
+  <dcterms:contributor>
+	Johnson, Edward Hibberd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Union League Club; Automobiles and trucks; Electric battery; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0808ABB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:46
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0808] Document File Series -- 1908 (D-08-08) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0808
+  </dcterms:isPartOf>none available
+</metadata>

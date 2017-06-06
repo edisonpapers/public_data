@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Griffin, Percy to Edison, Mina Miller (Mrs Thomas A.), January 30, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-01-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Griffin, Percy
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Glenmont; Edison-Miller family; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0606AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:483
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0606] Document File Series -- 1906 (D-06-06) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0606
+  </dcterms:isPartOf>none available
+</metadata>

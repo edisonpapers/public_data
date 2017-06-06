@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Johnson, Ligon to Wilson, Carl Hillis, June 17, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-06-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Johnson, Ligon
+  </dcterms:creator>
+  <dcterms:contributor>
+	Wilson, Carl Hillis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Competition and market structure
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK913AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1079
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK913] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK913
+  </dcterms:isPartOf>none available
+</metadata>

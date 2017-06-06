@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Knoll, A H to Edison, Thomas Alva, May 18, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Knoll, A H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cement houses and other concrete structures; Theater
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0807ABE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:1008
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0807] Document File Series -- 1908 (D-08-07) Cement House
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0807
+  </dcterms:isPartOf>none available
+</metadata>

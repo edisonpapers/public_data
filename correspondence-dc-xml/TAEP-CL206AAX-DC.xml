@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Marks, George Croydon to Gilmore, William Edgar, November 12, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-11-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Marks, George Croydon
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Columbia Phonograph Co; Edison-Bell Consolidated Phonograph Co Ltd; Graf, Thomas; Hayes, Howard W; Hough, James Edward; Competition and market structure; Patent assignments, licenses, and royalties; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL206AAX
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:753
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL206] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL206
+  </dcterms:isPartOf>none available
+</metadata>

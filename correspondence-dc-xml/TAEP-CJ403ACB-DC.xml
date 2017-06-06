@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from O'Hagan, H Osborne to Lawrence, Joseph, July 10, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-07-10
+  </dcterms:date>
+  <dcterms:creator>
+  	O'Hagan, H Osborne
+  </dcterms:creator>
+  <dcterms:contributor>
+	Lawrence, Joseph
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Pollen, Francis Gabriel Hungerford; Cement; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ403ACB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:566
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ403] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ403
+  </dcterms:isPartOf>none available
+</metadata>

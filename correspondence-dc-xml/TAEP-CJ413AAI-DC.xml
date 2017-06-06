@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hays Schmettau and Dunn to Read, Richard O, February 16, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-02-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Hays Schmettau and Dunn
+  </dcterms:creator>
+  <dcterms:contributor>
+	Read, Richard O
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Maw, C Percival; Finances (TAE and family); Litigation; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ413AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:189
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ413] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ413
+  </dcterms:isPartOf>none available
+</metadata>

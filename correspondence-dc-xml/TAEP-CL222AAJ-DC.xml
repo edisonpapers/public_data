@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Graf, Thomas, May 10, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-05-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Graf, Thomas
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Westee, Alphons; Financial operations (companies and organizations); Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL222AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:523
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL222] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL222
+  </dcterms:isPartOf>none available
+</metadata>

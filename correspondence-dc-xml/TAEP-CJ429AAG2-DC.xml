@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Simpkin, William, August 12, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-08-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Simpkin, William
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Cement Works (Stewartsville); General Electric Co; Ogden Ore Separating Plant; Motors; Railroads and transportation; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ429AAG2
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:722
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ429] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Standard Construction Corporation, Ltd., Files Correspondence (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ429
+  </dcterms:isPartOf>none available
+</metadata>

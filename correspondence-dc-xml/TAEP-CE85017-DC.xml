@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Compagnie Continentale Edison to Edison Electric Light Co of Europe Ltd, June 20, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-06-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Compagnie Continentale Edison
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co of Europe Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Deutsche Edison Gesellschaft; Siegel, Oscar Othan; Contracts and other legal concerns; Financial operations (companies and organizations); International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE85017
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:378
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CE85] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1885)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE85
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0368.jpg</dcterms:hasPart>
+</metadata>

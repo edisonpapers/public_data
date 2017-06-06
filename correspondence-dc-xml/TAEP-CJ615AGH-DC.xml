@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Churchill, S to Mallory, Walter Seeley, November 06, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-11-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Churchill, S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Atlas Portland Cement Co; Edison, Thomas Alva; Randolph, John F; Cement houses and other concrete structures; Competition and market structure
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ615AGH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:426
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ615] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ615
+  </dcterms:isPartOf>none available
+</metadata>

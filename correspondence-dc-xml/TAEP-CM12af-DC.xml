@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gruner (Edison Employee) to Meadowcroft, William Henry, June 24, 1927
+  </dcterms:title>
+  <dcterms:date>
+	1927-06-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Gruner (Edison Employee)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Meadowcroft, William Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM12af
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:803
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM12] Special Collections Series -- Chemical Production Records -- Edison Chemical Works Other Experimenters (1914-1927)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM12
+  </dcterms:isPartOf>none available
+</metadata>

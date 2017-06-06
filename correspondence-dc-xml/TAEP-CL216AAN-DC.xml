@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Aylsworth, Jonas Walter to Gilmore, William Edgar, June 10, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-06-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Aylsworth, Jonas Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Graf, Thomas; Riehl, Edward; White, James Henry; Cylinder record and duplicating technology; Production difficulties and adjustments; Research and development
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL216AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:815
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL216] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL216
+  </dcterms:isPartOf>none available
+</metadata>

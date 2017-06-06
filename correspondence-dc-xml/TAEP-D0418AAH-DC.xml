@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Chicago Edison Co and Holmes, Robert C P, August 26, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-08-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Chicago Edison Co; Holmes, Robert C P
+  </dcterms:contributor>
+  <dcterms:subject>
+	Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0418AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:226
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0418] Document File Series -- 1904 (D-04-18) Edison Manufacturing Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0418
+  </dcterms:isPartOf>none available
+</metadata>

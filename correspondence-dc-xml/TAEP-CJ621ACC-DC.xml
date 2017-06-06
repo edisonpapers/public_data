@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Horne, William Eugene to Miller, Harry Frederick, September 25, 1912
+  </dcterms:title>
+  <dcterms:date>
+	1912-09-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Horne, William Eugene
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Calehuff, Charles H; Dolbeer, Frank K; Edison Phonograph Co; Edison, Thomas Alva; Stewart, A Y; Wakeman, J T; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ621ACC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:454
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ621] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1912)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ621
+  </dcterms:isPartOf>none available
+</metadata>

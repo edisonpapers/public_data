@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Battery Supplies Co and Dodge, Eben G to Gilmore, William Edgar, January 02, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-01-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Battery Supplies Co; Dodge, Eben G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	California Electrical Works; Rockafellow, Edward Wade; Scribner, E M; Electric battery; Metals and minerals; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0602AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:392
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0602] Document File Series -- 1906 (D-06-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0602
+  </dcterms:isPartOf>none available
+</metadata>

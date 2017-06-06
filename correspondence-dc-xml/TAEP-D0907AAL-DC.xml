@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Groene, John F to Edison Manufacturing Co, April 22, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-04-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Groene, John F
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Manufacturing Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Scull, George Francis; Star of Bethlehem Theatrical Co; Copyright; Miscellaneous electrical technologies; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0907AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:192
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0907] Document File Series -- 1909 (D-09-07) Copyright
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0907
+  </dcterms:isPartOf>none available
+</metadata>

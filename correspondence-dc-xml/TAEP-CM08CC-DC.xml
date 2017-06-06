@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tsuji, S and Mitsui & Co Ltd to Kellow, Richard Wesley and Edison, Thomas Alva, January 19, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-01-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Tsuji, S; Mitsui & Co Ltd
+  </dcterms:creator>
+  <dcterms:contributor>
+	Kellow, Richard Wesley; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Spindle, Lee Addison; Chemicals, chemical products, and chemical processes; Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM08CC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:503
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM08] Special Collections Series -- Chemical Production Records -- Organic Chemical Plant Records Woodward Benzol Plant (1915-1918, 1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM08
+  </dcterms:isPartOf>none available
+</metadata>

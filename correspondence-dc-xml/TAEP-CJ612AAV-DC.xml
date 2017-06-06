@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Edison, Thomas Alva, July 28, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-07-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Mason, William Horatio; Randolph, John F; Cement; Management (companies and organizations); Production difficulties and adjustments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ612AAV
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:797
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ612] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ612
+  </dcterms:isPartOf>none available
+</metadata>

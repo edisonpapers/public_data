@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Helm, John E, December 31, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-12-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Helm, John E
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bond and Mortgage Guarantee Co; Clarke, W B; Edison, Mina Miller (Mrs Thomas A.); Edison, Thomas Alva; National Phonograph Co; Edison-Miller family; Finances (TAE and family); Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0712AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:291
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0712] Document File Series -- 1907 (D-07-12) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0712
+  </dcterms:isPartOf>none available
+</metadata>

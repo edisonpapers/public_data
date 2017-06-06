@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Simpkin, William to Dunderland Iron Ore Co Ltd, April 06, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-04-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Simpkin, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dunderland Iron Ore Co Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Consett Iron Works; Edison Cement Works (Stewartsville); Edison, Thomas Alva; Ogden Ore Separating Plant; Briquettes and bricker machinery; Cement; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ418AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:365
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ418] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ418
+  </dcterms:isPartOf>none available
+</metadata>

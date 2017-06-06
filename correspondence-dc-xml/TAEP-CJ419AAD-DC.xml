@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Parshall, Horace Field to Edison, Thomas Alva, April 04, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-04-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Parshall, Horace Field
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dick, Herman Ernest; Vulcan Iron Works; International business operations; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ419AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:381
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ419] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1905)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ419
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hayes, Howard W to Gilmore, William Edgar, January 14, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-01-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Hayes, Howard W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Lippincott, Jesse H; Lippincott, Lily R (Mrs Jesse H.); New England Phonograph Co; North American Phonograph Co; Finances (TAE and family); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL207AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:770
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL207] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL207
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Nomura, Shunkichi to Edison, Thomas Alva and Meadowcroft, William Henry, August 17, 1916
+  </dcterms:title>
+  <dcterms:date>
+	1916-08-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Nomura, Shunkichi
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva; Meadowcroft, William Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Hercules Powder Co; Mingle, Harry B; Chemicals, chemical products, and chemical processes; Financial operations (companies and organizations); Profits and losses
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM08AZ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:469
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM08] Special Collections Series -- Chemical Production Records -- Organic Chemical Plant Records Woodward Benzol Plant (1915-1918, 1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM08
+  </dcterms:isPartOf>none available
+</metadata>

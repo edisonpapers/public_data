@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Scull, George Francis, February 26, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-02-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Eastman Kodak Co; Farrell, John William; Motion picture film technology
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK904AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:734
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK904] Company Records Series -- Motion Picture Patents Company -- Administrative Records Memoranda (1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK904
+  </dcterms:isPartOf>none available
+</metadata>

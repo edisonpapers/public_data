@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from National Phonograph Co to Dyer, Frank Lewis, July 14, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-07-14
+  </dcterms:date>
+  <dcterms:creator>
+  	National Phonograph Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Talking Machine World; Wilson, Carl Hillis; Manufacturing; Motion pictures; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL220ABF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:208
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL220] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL220
+  </dcterms:isPartOf>none available
+</metadata>

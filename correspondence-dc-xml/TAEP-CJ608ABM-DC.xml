@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Electrical Review (N.Y. City) and Gray, Ainslie A to Mallory, Walter Seeley, December 04, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-12-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Electrical Review (N.Y. City); Gray, Ainslie A
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Public relations and public opinion
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ608ABM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:705
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ608] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ608
+  </dcterms:isPartOf>none available
+</metadata>

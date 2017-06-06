@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Simpkin, William to Edison, Thomas Alva, April 07, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-04-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Simpkin, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Ore Milling Area; Edison Cement Works (Stewartsville); Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ432AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:24
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ432] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Standard Construction Corporation, Ltd., Files Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ432
+  </dcterms:isPartOf>none available
+</metadata>

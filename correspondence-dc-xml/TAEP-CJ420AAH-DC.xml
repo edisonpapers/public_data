@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pollen, Stephen Hungerford to Adams, Campbell W, April 17, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-04-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Pollen, Stephen Hungerford
+  </dcterms:creator>
+  <dcterms:contributor>
+	Adams, Campbell W
+  </dcterms:contributor>
+  <dcterms:subject>
+	Paues, Johan; Simpkin, William; Labor; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ420AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:415
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ420] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1906)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ420
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stewart, Willis N to Edison, Thomas Alva, May 16, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-05-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Stewart, Willis N
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dick, Herman Ernest; Schmidt, Oscar; Electric battery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK601AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:197
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK601] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1901-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK601
+  </dcterms:isPartOf>none available
+</metadata>

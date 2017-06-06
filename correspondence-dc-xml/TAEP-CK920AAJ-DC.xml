@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kleine, George to Scull, George Francis, November 12, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-11-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Kleine, George
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Motion picture film technology; Shipping and materials handling
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK920AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:196
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK920] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Kleine, George (1908-1917)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK920
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Nichols, William Wallace to Edison, Mina Miller (Mrs Thomas A.), February 07, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-02-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Nichols, William Wallace
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Theodore Miller; Edison, Thomas Alva; Holt, Harrison J; Miller, Mary Emily; Nichols, Ida Cornelia (Mrs Harrison J. Holt); Traut, Cornelia Stockton (Mrs Frederick A.); Traut, Frederick Augustus; U.S. Naval Station (Key West); Edison-Miller family; Military; Ships, yachts, and other vessels; TAE opinions and prejudices; World War I
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	1024X018C9
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3150.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3151.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3152.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3153.jpg</dcterms:hasPart>
+</metadata>

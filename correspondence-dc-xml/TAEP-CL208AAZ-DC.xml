@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stollwerck, Ludwig Albert to Edison, Thomas Alva, June 12, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-06-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Stollwerck, Ludwig Albert
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Miller, Walter Henry; Randolph, John F; Volkmann Stollwerck & Co; Contracts and other legal concerns; Cylinder recordings; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL208AAZ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:938
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL208] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL208
+  </dcterms:isPartOf>none available
+</metadata>

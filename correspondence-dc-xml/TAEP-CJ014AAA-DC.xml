@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from New Jersey Zinc Co and Hardenburg, W P to Mallory, Walter Seeley, June 21, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-06-21
+  </dcterms:date>
+  <dcterms:creator>
+  	New Jersey Zinc Co; Hardenburg, W P
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Herter, Emil; Cement; Ore milling (non-iron ore); Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ014AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:12
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ014] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ014
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0012.jpg</dcterms:hasPart>
+</metadata>

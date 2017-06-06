@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hall, J, Jr to Edison, Thomas Alva, May 20, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-05-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Hall, J, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Iron Ore Co Ltd; Simpkin, William; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ432AAU
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:84
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ432] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Standard Construction Corporation, Ltd., Files Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ432
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Elliott, Alexander, Jr to Edison, Thomas Alva, February 16, 1895
+  </dcterms:title>
+  <dcterms:date>
+	1895-02-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Elliott, Alexander, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Rarick, Stewart M; Wright, E H; Contracts and other legal concerns; Litigation; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ036AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:7
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ036] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1895)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ036
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0006.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0007.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0008.jpg</dcterms:hasPart>
+</metadata>

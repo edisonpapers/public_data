@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mosler Bowen and Cook and Cook, George W to Dyer, Frank Lewis, April 12, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-04-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Mosler Bowen and Cook; Cook, George W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Mexican National Phonograph Co; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL222AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:521
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL222] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL222
+  </dcterms:isPartOf>none available
+</metadata>

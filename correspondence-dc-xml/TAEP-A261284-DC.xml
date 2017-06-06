@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dresher, George B to Edison, Thomas Alva, March 08, 1873
+  </dcterms:title>
+  <dcterms:date>
+	1873-03-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Dresher, George B
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Sales and service; Telegraph
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	A261284
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 22:781
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[A261] Account Series -- Menlo Park Books of Original Entry -- Cat. 1217 (1877-1878, 1873)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=A261
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/av/av0748.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Eaton, Sherburne Blake to Edison, Thomas Alva, October 28, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-10-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Eaton, Sherburne Blake
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Elliott, Alexander, Jr; Reed, Charles J; Contracts and other legal concerns; Ore exploration and mining; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ029AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:533
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ029] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ029
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0528.jpg</dcterms:hasPart>
+</metadata>

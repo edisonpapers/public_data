@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hardin, John to Dyer, Frank Lewis, September 23, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Hardin, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Berst, Jacques Albert; Pathe Freres; Scull, George Francis; Competition and market structure; Motion pictures; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK909BAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:909
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK909B] Company Records Series -- Motion Picture Patents Company -- Individuals Hardin, John (1908-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK909B
+  </dcterms:isPartOf>none available
+</metadata>

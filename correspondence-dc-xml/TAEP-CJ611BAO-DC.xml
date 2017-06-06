@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Thompson, Robert Henry to Mallory, Walter Seeley, April 21, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-04-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Thompson, Robert Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Moyer, Horace I; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ611BAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:757
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ611B] Company Records Series -- Edison Portland Cement Company -- Corporate Files Thompson, Robert H. (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ611B
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to White, James Henry, March 07, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-03-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	White, James Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Edison, Thomas Alva; Kaltenecker, Joseph Laurent Marks; Marks, George Croydon; Schermerhorn, John Relyea; Vives, Lucien; Contracts and other legal concerns; Copyright; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL212AAU
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:386
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL212] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1905)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL212
+  </dcterms:isPartOf>none available
+</metadata>

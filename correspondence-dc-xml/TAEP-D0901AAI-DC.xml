@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to General Vehicle Co and Hanson, Howard, December 14, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-12-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	General Vehicle Co; Hanson, Howard
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bee, William George; Coffin, Charles Albert; Lansden Co; Automobiles and trucks; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0901AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:977
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0901] Document File Series -- 1909 (D-09-01) Automobile
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0901
+  </dcterms:isPartOf>none available
+</metadata>

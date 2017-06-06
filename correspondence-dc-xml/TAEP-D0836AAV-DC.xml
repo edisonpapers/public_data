@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Tolstoy, Leo, July 22, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-07-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Tolstoy, Leo
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder recordings; Literature; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0836AAV
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:818
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0836] Document File Series -- 1908 (D-08-36) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0836
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from American Institute of Electrical Engineers and Sperry, Elmer Ambrose to Edison, Thomas Alva, February 27, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-02-27
+  </dcterms:date>
+  <dcterms:creator>
+  	American Institute of Electrical Engineers; Sperry, Elmer Ambrose
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Awards & honors/clubs & societies; Engineering
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0911AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:387
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0911] Document File Series -- 1909 (D-09-11) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0911
+  </dcterms:isPartOf>none available
+</metadata>

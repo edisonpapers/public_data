@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dick, Herman Ernest to Edison Ore Milling Syndicate Ltd, June 11, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-06-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Dick, Herman Ernest
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Ore Milling Syndicate Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ballantine, James B; Dunderland Iron Ore Co Ltd; Edison, Thomas Alva; Simpkin, William; Briquettes and bricker machinery; Financial operations (companies and organizations); Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ435163
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:297
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ435] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Bound Volumes Letterbook, LM-281 (1900-1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ435
+  </dcterms:isPartOf>none available
+</metadata>

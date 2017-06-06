@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Insull, Samuel to Gilmore, William Edgar, October 07, 1896
+  </dcterms:title>
+  <dcterms:date>
+	1896-10-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Insull, Samuel
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Contracts and other legal concerns; Microphone and other acoustic devices; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK303AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:235
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK303] Company Records Series -- Bates Manufacturing Company Company Records (1896)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK303
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0231.jpg</dcterms:hasPart>
+</metadata>

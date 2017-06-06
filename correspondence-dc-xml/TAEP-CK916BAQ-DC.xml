@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Hampton, Benjamin B, October 03, 1917
+  </dcterms:title>
+  <dcterms:date>
+	1917-10-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Hampton, Benjamin B
+  </dcterms:contributor>
+  <dcterms:subject>
+	General Film Co; Kleine, George; Miller, Harry Frederick; Walker, Isaac W; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK916BAQ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:95
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK916B] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Edison Manufacturing Co (1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK916B
+  </dcterms:isPartOf>none available
+</metadata>

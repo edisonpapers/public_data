@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Miller, John Vincent, July 25, 1914
+  </dcterms:title>
+  <dcterms:date>
+	1914-07-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, John Vincent
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemicals, chemical products, and chemical processes
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM09am
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:526
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM09] Special Collections Series -- Chemical Production Records -- Edison Chemical Works J. V. Miller Papers (1913-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM09
+  </dcterms:isPartOf>none available
+</metadata>

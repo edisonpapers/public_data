@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to North Ward National Bank, February 19, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-02-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	North Ward National Bank
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Harry Frederick; Miller, John Vincent; New Jersey Patent Co; Randolph, John F; Westee, Alphons; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK702001
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 219:41
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK702] Company Records Series -- New Jersey Patent Company Letterbook (1908-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK702
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Edison Portland Cement Co, January 02, 1930
+  </dcterms:title>
+  <dcterms:date>
+	1930-01-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Portland Cement Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Allen, Ralph Henry; Eckert, Howard Haines; Miller, Harry Frederick; Finances (TAE and family); Financial operations (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ629044
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 205:344
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ629] Company Records Series -- Edison Portland Cement Company -- Minutes Stockholders and Directors Minutes (1929-1931)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ629
+  </dcterms:isPartOf>none available
+</metadata>

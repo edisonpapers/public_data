@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Thomas, W G to Mallory, Walter Seeley, March 25, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-03-25
+  </dcterms:date>
+  <dcterms:creator>
+  	Thomas, W G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Naulty, James N; Motion picture equipment; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ611AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:732
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ611] Company Records Series -- Edison Portland Cement Company -- Corporate Files Mallory, Walter S. (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ611
+  </dcterms:isPartOf>none available
+</metadata>

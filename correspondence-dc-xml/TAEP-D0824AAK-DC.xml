@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dally, Charles M to Edison, Thomas Alva, July 02, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-07-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Dally, Charles M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Health and medicine; TAE health; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0824AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:498
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0824] Document File Series -- 1908 (D-08-24) Edison, T.A. -- Unsolicited Correspondence -- Personal
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0824
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Lodge, James J, September 18, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Lodge, James J
+  </dcterms:contributor>
+  <dcterms:subject>
+	Melies, Gaston; Melies, Georges; Melies, Paul G; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK921BAT1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:287
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK921B] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Geo. M&eacute;li&egrave;s and George M&eacute;li&egrave;s Co (1908-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK921B
+  </dcterms:isPartOf>none available
+</metadata>

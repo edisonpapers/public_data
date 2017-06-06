@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Aylsworth, Jonas Walter to Gilmore, William Edgar, March 31, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-03-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Aylsworth, Jonas Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; National Phonograph Co; Cylinder record and duplicating technology; Labor; Patent application
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0625AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:792
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0625] Document File Series -- 1906 (D-06-25) New Jersey Patent Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0625
+  </dcterms:isPartOf>none available
+</metadata>

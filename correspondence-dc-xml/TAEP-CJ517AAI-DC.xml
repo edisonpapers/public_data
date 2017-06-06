@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Denton, Frank, May 13, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-05-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Denton, Frank
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Marler, W Lake; Contracts and other legal concerns; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ517AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:165
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ517] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- John V. Miller Files Correspondence (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ517
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mambert, Stephen Babcock to Steuer, Bernhard, June 14, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-06-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Mambert, Stephen Babcock
+  </dcterms:creator>
+  <dcterms:contributor>
+	Steuer, Bernhard
+  </dcterms:contributor>
+  <dcterms:subject>
+	Alpha Portland Cement Co; Atlas Portland Cement Co; Lehigh Portland Cement Co; Cement; Competition and market structure
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ622ABA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:544
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ622] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1915-1919)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ622
+  </dcterms:isPartOf>none available
+</metadata>

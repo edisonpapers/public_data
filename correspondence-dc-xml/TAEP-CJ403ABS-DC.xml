@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Roudebush, Frank L to Edison, Thomas Alva, July 03, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-07-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Roudebush, Frank L
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Baucus, Joseph Deyhoe; Dick, Herman Ernest; Maguire, Franck Zeveley; Contracts and other legal concerns; International business operations; Ore concentrate
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ403ABS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:544
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ403] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ403
+  </dcterms:isPartOf>none available
+</metadata>

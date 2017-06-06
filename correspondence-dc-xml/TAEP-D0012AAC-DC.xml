@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from U.S. Patent Office. Commissioner to Edison, Thomas Alva, May 21, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-05-21
+  </dcterms:date>
+  <dcterms:creator>
+  	U.S. Patent Office. Commissioner
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Exhibition. Buffalo Pan-American (1901); Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0012AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:818
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0012] Document File Series -- 1900 (D-00-12) Exhibitions
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0012
+  </dcterms:isPartOf>none available
+</metadata>

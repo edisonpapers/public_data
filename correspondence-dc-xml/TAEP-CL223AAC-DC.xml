@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Dolbeer, Frank K, January 09, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-01-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dolbeer, Frank K
+  </dcterms:contributor>
+  <dcterms:subject>
+	Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL223AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:574
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL223] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL223
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pilling and Crane to Miller, Harry Frederick, November 17, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-11-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Pilling and Crane
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Engle, Horace M; Ott, John F; United States Express Co; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0843AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:942
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0843] Document File Series -- 1908 (D-08-43) West Orange Laboratory
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0843
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Durand, Nelson C to Gilmore, William Edgar, March 09, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-03-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Durand, Nelson C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Aiken, Edward L; Dolbeer, Frank K; Weber, Peter; Westee, Alphons; Financial operations (companies and organizations); Management (companies and organizations); Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL215AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:716
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL215] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL215
+  </dcterms:isPartOf>none available
+</metadata>

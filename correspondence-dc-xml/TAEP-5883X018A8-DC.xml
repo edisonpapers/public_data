@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Theodore Miller to Edison, Mina Miller (Mrs Thomas A.), November 01, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-11-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Theodore Miller
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison-Miller family; Education; Travel (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	5883X018A8
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018A8B] Charles Edison Fund Collection, Newark, N.J. Edison Family Papers -- Edison, Theodore Miller  (1919-1932)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018A8B
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3971.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3972.jpg</dcterms:hasPart>
+</metadata>

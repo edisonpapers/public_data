@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pilling, William Stockman to Mallory, Walter Seeley, June 27, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-06-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Pilling, William Stockman
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; New Jersey and Pennsylvania Concentrating Works; Finances (TAE and family); Financial operations (companies and organizations); Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ606AAW
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:558
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ606] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ606
+  </dcterms:isPartOf>none available
+</metadata>

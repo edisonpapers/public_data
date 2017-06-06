@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Elliott, Alexander, Jr to Mallory, Walter Seeley, November 19, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-11-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Elliott, Alexander, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Purcell, David; Engines, boilers, prime movers; Litigation; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ604AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:434
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ604] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ604
+  </dcterms:isPartOf>none available
+</metadata>

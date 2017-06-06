@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison Telephone Co of Europe Ltd and Edison, Thomas Alva to Gouraud, George Edward and Puskas, Theodore, April 02, 1881
+  </dcterms:title>
+  <dcterms:date>
+	1881-04-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison Telephone Co of Europe Ltd; Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gouraud, George Edward; Puskas, Theodore
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bouquie, Paul; Nottbeck, Charles; Contracts and other legal concerns; Patent assignments, licenses, and royalties; Telephone
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CH001AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:550
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CH001] Company Records Series -- Other Companies Edison Telephone Co of Europe (1879-1881)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CH001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0532.jpg</dcterms:hasPart>
+</metadata>

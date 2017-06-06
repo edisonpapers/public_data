@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Marks, George Croydon, May 20, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-05-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Marks, George Croydon
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Gilmore, William Edgar; Kaltenecker, Joseph Laurent Marks; Schermerhorn, John Relyea; Vives, Lucien; White, James Henry; Contracts and other legal concerns; Cylinder record and duplicating technology; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL401AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 198:647
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL401] Company Records Series -- Compagnie Fran&ccedil;aise du Phonographe Edison Corporate Records (1904-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL401
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Mason, William Horatio, December 28, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-12-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mason, William Horatio
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bethlehem Steel Co; Carpenter Steel Co; Edison, Thomas Alva; Cement; Metals and minerals
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ619AIC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:175
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ619] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ619
+  </dcterms:isPartOf>none available
+</metadata>

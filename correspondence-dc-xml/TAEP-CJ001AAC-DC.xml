@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Rowe, William G to Edison Machine Works and Livor, Henry M, January 22, 1889
+  </dcterms:title>
+  <dcterms:date>
+	1889-01-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Rowe, William G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Machine Works; Livor, Henry M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Financial operations (companies and organizations); Ore milling and separation; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ001AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:14
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ001] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1889)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ001
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0004.jpg</dcterms:hasPart>
+</metadata>

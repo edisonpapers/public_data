@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to McCarter and English, February 02, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-02-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	McCarter and English
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cutting, James De Wolf; Cutting, Robert Livingston, III; Edison, Thomas Alva; New Jersey and Pennsylvania Concentrating Works; Litigation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ620ABA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:211
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ620] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ620
+  </dcterms:isPartOf>none available
+</metadata>

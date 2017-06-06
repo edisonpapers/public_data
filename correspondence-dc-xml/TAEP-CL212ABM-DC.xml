@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Wyper, William Wright, October 27, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-10-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Wyper, William Wright
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bates Manufacturing Co; Edison Manufacturing Co; Gilmore, William Edgar; Stevens, Walter; Management (companies and organizations); Patent assignments, licenses, and royalties; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL212ABM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:444
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL212] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1905)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL212
+  </dcterms:isPartOf>none available
+</metadata>

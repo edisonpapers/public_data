@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Fox, Edwin M to Edison, Thomas Alva, June 08, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-06-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Fox, Edwin M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cheever, Charles Augustus; Georgia Phonograph Co; Lippincott, Jesse H; Metropolitan Phonograph Co; Missouri Phonograph Co; New York Phonograph Co; Cylinder phonograph; Management (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0326AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:650
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0326] Document File Series -- 1903 (D-03-26) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0326
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Pelzer, William to Edison, Thomas Alva, December 13, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-12-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Pelzer, William
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Harry Frederick; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK901AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:496
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK901] Company Records Series -- Motion Picture Patents Company -- Administrative Records Correspondence and Agreements (1900, 1908-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK901
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McChesney, Leonard Ward to Plimpton, Horace G, March 11, 1915
+  </dcterms:title>
+  <dcterms:date>
+	1915-03-11
+  </dcterms:date>
+  <dcterms:creator>
+  	McChesney, Leonard Ward
+  </dcterms:creator>
+  <dcterms:contributor>
+	Plimpton, Horace G
+  </dcterms:contributor>
+  <dcterms:subject>
+	Waters, Percival Lee; Wilson, Carl Hillis; Competition and market structure; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK912AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1053
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK912] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1913-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK912
+  </dcterms:isPartOf>none available
+</metadata>

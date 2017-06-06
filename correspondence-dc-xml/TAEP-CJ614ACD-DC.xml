@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller (E.C.) & Co to Mallory, Walter Seeley, September 17, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-09-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller (E.C.) & Co
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Randolph, John F; Finances (TAE and family); Financial operations (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ614ACD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 203:96
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ614] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1906)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ614
+  </dcterms:isPartOf>none available
+</metadata>

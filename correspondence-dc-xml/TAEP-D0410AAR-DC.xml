@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva, Jr to Randolph, John F, December 22, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-12-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison-Miller family; Finances (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0410AAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:209
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0410] Document File Series -- 1904 (D-04-10) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0410
+  </dcterms:isPartOf>none available
+</metadata>

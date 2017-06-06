@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Petit, Ademor Napoleon, December 11, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Petit, Ademor Napoleon
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Miller, Harry Frederick; National Phonograph Co; Cylinder phonograph; Labor; Research and development
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0812ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:237
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0812] Document File Series -- 1908 (D-08-12) Edison, T.A. -- Employment -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0812
+  </dcterms:isPartOf>none available
+</metadata>

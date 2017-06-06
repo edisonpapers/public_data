@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stull, Calvin H to Edison, Thomas Alva, June 28, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-06-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Stull, Calvin H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Newspapers, books, other publications; Photography; TAE opinions and prejudices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0916AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:670
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0916] Document File Series -- 1909 (D-09-16) Edison, T.A. -- Name Use
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0916
+  </dcterms:isPartOf>none available
+</metadata>

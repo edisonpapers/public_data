@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Platky, Joseph to Edison Electric Light Co of Europe Ltd, July 17, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-07-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Platky, Joseph
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Electric Light Co of Europe Ltd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bergmann & Co; Johnson, Edward Hibberd; Profits and losses; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE85022
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:382
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CE85] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1885)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE85
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0372.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0373.jpg</dcterms:hasPart>
+</metadata>

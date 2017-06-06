@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Colorado Midland Railway Co and Schlacks, Charles Henry to Edison Manufacturing Co, March 06, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-03-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Colorado Midland Railway Co; Schlacks, Charles Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Manufacturing Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	Randolph, John F; Contracts and other legal concerns; Loans; Phonoplex and railroad telegraphy
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0119AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:213
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0119] Document File Series -- 1901 (D-01-19) Edison, T.A. -- Edison Manufacturing Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0119
+  </dcterms:isPartOf>none available
+</metadata>

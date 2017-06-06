@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Frost, Arthur Cecil to Allen, Ralph Henry, April 26, 1924
+  </dcterms:title>
+  <dcterms:date>
+	1924-04-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Frost, Arthur Cecil
+  </dcterms:creator>
+  <dcterms:contributor>
+	Allen, Ralph Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Palisades Interstate Park Commission; Ore exploration and mining; Property; State and local government
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJA129
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:704
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJA] Company Records Series -- New York Concentrating Works Administrative Records (1891-1906,1923-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0692.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0693.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0694.jpg</dcterms:hasPart>
+</metadata>

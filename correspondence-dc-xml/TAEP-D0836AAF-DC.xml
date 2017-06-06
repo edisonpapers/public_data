@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Shoemaker, S H, July 02, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-07-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Shoemaker, S H
+  </dcterms:contributor>
+  <dcterms:subject>
+	Victor Talking Machine Co; Competition and market structure; Disc record and duplicating technology; Disc recordings
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0836AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:794
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0836] Document File Series -- 1908 (D-08-36) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0836
+  </dcterms:isPartOf>none available
+</metadata>

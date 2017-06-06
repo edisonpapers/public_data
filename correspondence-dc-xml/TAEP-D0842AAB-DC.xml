@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to David, Thomas B A, August 27, 1877
+  </dcterms:title>
+  <dcterms:date>
+	1877-08-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	David, Thomas B A
+  </dcterms:contributor>
+  <dcterms:subject>
+	Batchelor, Charles; Bell, Alexander Graham; Grace, Sergius Paul; Kruesi, John; Telephone
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0842AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:920
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0842] Document File Series -- 1908 (D-08-42) Telephone
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0842
+  </dcterms:isPartOf>none available
+</metadata>

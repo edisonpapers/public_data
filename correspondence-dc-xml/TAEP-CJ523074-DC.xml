@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Randolph, John F, April 20, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-04-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bachman, Robert Abraham; Oliver Iron Mining Co; Sullivan Machinery Co; Purchases; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ523074
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:284
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ523] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Letterbooks Letterbook, LM-275 (1904-1913)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ523
+  </dcterms:isPartOf>none available
+</metadata>

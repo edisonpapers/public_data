@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Lawrence, Joseph to Dick, Herman Ernest, January 03, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-01-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Lawrence, Joseph
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dick, Herman Ernest
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Dyer, Richard Nott; Edison, Thomas Alva; Persson, N; Pollen, Arthur Joseph Hungerford; Pollen, Stephen Hungerford; Management (companies and organizations); Ore milling and separation; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ404AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:655
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ404] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1901)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ404
+  </dcterms:isPartOf>none available
+</metadata>

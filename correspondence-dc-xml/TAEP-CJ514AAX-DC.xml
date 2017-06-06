@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Miller, John Vincent, November 04, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-11-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, John Vincent
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Financial operations (companies and organizations); Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ514AAX
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:108
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ514] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- John V. Miller Files Correspondence (1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ514
+  </dcterms:isPartOf>none available
+</metadata>

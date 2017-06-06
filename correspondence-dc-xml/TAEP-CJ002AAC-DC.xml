@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tate, Alfred Ord to Livor, Henry M, January 03, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-01-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Tate, Alfred Ord
+  </dcterms:creator>
+  <dcterms:contributor>
+	Livor, Henry M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Simeon Ogden; Edison, Thomas Alva; Edison-Miller family; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ002AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:61
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ002] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ002
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0050.jpg</dcterms:hasPart>
+</metadata>

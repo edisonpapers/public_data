@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wright, Warren to Edison, Thomas Alva, August 12, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-08-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Wright, Warren
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bates, Edwin G; Edison Ore Milling Co Ltd; Ore milling and separation; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CGA008
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:639
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CGA] Company Records Series -- Edison Ore Milling Company, Ltd. Administrative Records (1892-1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CGA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0628.jpg</dcterms:hasPart>
+</metadata>

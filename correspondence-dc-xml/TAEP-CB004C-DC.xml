@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Borden, Spencer to Edison Company for Isolated Lighting, February 21, 1882
+  </dcterms:title>
+  <dcterms:date>
+	1882-02-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Borden, Spencer
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Company for Isolated Lighting
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gas, petroleum, and derivative products; Incandescent lamp; Isolated stations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CB004C
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 96:678
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CB004] Company Records Series -- Electric Light Companies -- Domestic -- Edison Electric Light Company Bulletin #4
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CB004
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0657.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0658.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/dr/dr0659.jpg</dcterms:hasPart>
+</metadata>

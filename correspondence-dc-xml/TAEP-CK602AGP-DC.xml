@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kellow, Richard Wesley to Ryder, G M, August 30, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-08-30
+  </dcterms:date>
+  <dcterms:creator>
+  	Kellow, Richard Wesley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Ryder, G M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Altengarten, Henry Augustus; Edison, Thomas Alva; Egerton, Henry Clifford; Financial operations (companies and organizations); Labor; Research and development
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK602AGP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:583
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK602] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1911-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK602
+  </dcterms:isPartOf>none available
+</metadata>

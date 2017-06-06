@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gaumont, Leon to Edison, Thomas Alva, July 10, 1913
+  </dcterms:title>
+  <dcterms:date>
+	1913-07-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Gaumont, Leon
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Eastman, George; Competition and market structure; Contracts and other legal concerns; Motion picture film technology
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK918AAX
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:169
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK918] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Gaumont Co (1908-1915)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK918
+  </dcterms:isPartOf>none available
+</metadata>

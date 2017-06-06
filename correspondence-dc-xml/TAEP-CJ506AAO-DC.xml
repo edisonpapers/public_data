@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, John Vincent to Randolph, John F, May 02, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-05-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, John Vincent
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Canadian Copper Co; Edison, Thomas Alva; Johnson, S, (Sudbury, Ontario); Mallory, Walter Seeley; Contracts and other legal concerns; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ506AAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:972
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ506] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- Thomas A. Edison Files Correspondence (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ506
+  </dcterms:isPartOf>none available
+</metadata>

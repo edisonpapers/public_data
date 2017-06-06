@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Harjes, Henry Herman to Edison, Thomas Alva, June 29, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-06-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Harjes, Henry Herman
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	London Telegraph; Electric battery; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0904AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:86
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0904] Document File Series -- 1909 (D-09-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0904
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hartzell, Henry Kerr to Livor, Henry M, April 19, 1890
+  </dcterms:title>
+  <dcterms:date>
+	1890-04-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Hartzell, Henry Kerr
+  </dcterms:creator>
+  <dcterms:contributor>
+	Livor, Henry M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Ore exploration and mining
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ002ABT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 149:112
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ002] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ002
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fs/fs0101.jpg</dcterms:hasPart>
+</metadata>

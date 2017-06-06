@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Etris, Robert to Dyer, Frank Lewis, December 06, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-12-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Etris, Robert
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Scull, George Francis; Singhi, Ferdinand W; Motion picture film technology
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK921AAU
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:234
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK921] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Lubin Manufacturing Co (1908-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK921
+  </dcterms:isPartOf>none available
+</metadata>

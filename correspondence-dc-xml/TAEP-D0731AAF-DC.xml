@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Durand, Nelson C to Gilmore, William Edgar, January 24, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-01-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Durand, Nelson C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; International Correspondence Schools; Seitz, Edwin Atwater; Cylinder phonograph; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0731AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:663
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0731] Document File Series -- 1907 (D-07-31) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0731
+  </dcterms:isPartOf>none available
+</metadata>

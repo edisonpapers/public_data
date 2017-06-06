@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Batchelor, Charles to Edison, Thomas Alva, January 15, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-01-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Batchelor, Charles
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dickson, William Kennedy Laurie; Labor; Ore exploration and mining; Railroads and transportation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJA102
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:666
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJA] Company Records Series -- New York Concentrating Works Administrative Records (1891-1906,1923-1924)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJA
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0653.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0654.jpg</dcterms:hasPart>
+</metadata>

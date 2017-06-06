@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kleine, George to Dyer, Frank Lewis, December 05, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-12-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Kleine, George
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Marvin, Harry Norton; Awards & honors/clubs & societies
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK920AAQ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:206
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK920] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Kleine, George (1908-1917)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK920
+  </dcterms:isPartOf>none available
+</metadata>

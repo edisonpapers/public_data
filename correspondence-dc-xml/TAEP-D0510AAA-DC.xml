@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McFarland, Mary to Edison, Thomas Alva, January 27, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-01-27
+  </dcterms:date>
+  <dcterms:creator>
+  	McFarland, Mary
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Harrison, James L; Randolph, John F; West Orange Laboratory; Labor
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0510AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:29
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0510] Document File Series -- 1905 (D-05-10) Edison, T.A. -- Employment
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0510
+  </dcterms:isPartOf>none available
+</metadata>

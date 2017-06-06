@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Armat Motion Picture Co and Armat, Thomas to Edison, Thomas Alva, November 15, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-11-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Armat Motion Picture Co; Armat, Thomas
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Biograph Co; Daniel, Thomas Cushing; Gilmore, William Edgar; U.S. Patent Office; White, James Henry; Competition and market structure; Management (companies and organizations); Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0128AAQ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:346
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0128] Document File Series -- 1901 (D-01-28) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0128
+  </dcterms:isPartOf>none available
+</metadata>

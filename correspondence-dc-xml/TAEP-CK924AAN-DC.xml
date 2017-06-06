@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Selig, William Nicholas, Kleine, George and Spoor, George K to Dyer, Frank Lewis, December 27, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Selig, William Nicholas; Kleine, George; Spoor, George K
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Melies (Geo.); Scull, George Francis; Competition and market structure; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK924AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:374
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK924] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Selig Polyscope Co (1908-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK924
+  </dcterms:isPartOf>none available
+</metadata>

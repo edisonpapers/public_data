@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Herbert, G J to Edison, Thomas Alva, June 10, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-06-10
+  </dcterms:date>
+  <dcterms:creator>
+  	Herbert, G J
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	International Correspondence Schools; Chemicals, chemical products, and chemical processes; Electric battery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0802AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:833
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0802] Document File Series -- 1908 (D-08-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0802
+  </dcterms:isPartOf>none available
+</metadata>

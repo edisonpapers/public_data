@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Edison, Thomas Alva, April 22, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-04-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Buehler, William J; Columbia Phonograph Co; Gamage (A.W.) Ltd; Gramophone Co; Johnson, Edward Hibberd; Marks, George Croydon; Miller, Walter Henry; Competition and market structure; Financial operations (companies and organizations); Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL210ABC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:59
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL210] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL210
+  </dcterms:isPartOf>none available
+</metadata>

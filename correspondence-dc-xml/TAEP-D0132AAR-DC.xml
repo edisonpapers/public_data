@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Moriarty, Stephen Fossa to Stollwerck, Ludwig Albert, December 27, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-12-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Moriarty, Stephen Fossa
+  </dcterms:creator>
+  <dcterms:contributor>
+	Stollwerck, Ludwig Albert
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; Edison, Thomas Alva; Edison-Bell Consolidated Phonograph Co Ltd; Competition and market structure; Cylinder phonograph; Litigation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0132AAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:476
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0132] Document File Series -- 1901 (D-01-32) Phonograph -- Edison United Phonograph Co
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0132
+  </dcterms:isPartOf>none available
+</metadata>

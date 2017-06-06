@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Melies, Gaston to Dyer, Frank Lewis, September 24, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Melies, Gaston
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Scull, George Francis; Motion picture film technology
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK921BAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:260
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK921B] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Geo. M&eacute;li&egrave;s and George M&eacute;li&egrave;s Co (1908-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK921B
+  </dcterms:isPartOf>none available
+</metadata>

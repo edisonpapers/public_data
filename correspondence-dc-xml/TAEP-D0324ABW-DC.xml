@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Hammer, William Joseph, January 08, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-01-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Hammer, William Joseph
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Censorship; Motion picture projectors; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0324ABW
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:615
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0324] Document File Series -- 1903 (D-03-24) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0324
+  </dcterms:isPartOf>none available
+</metadata>

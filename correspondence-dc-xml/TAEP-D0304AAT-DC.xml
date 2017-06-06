@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hays, George to Mallory, Walter Seeley, May 16, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-05-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Hays, George
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bergmann, Sigmund; Edison Storage Battery Co; Electric battery; Manufacturing; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0304AAT
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:146
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0304] Document File Series -- 1903 (D-03-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0304
+  </dcterms:isPartOf>none available
+</metadata>

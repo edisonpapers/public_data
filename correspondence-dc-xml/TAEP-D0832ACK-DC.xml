@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Weber, Peter to Waterman, Albert Perry, November 19, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-11-19
+  </dcterms:date>
+  <dcterms:creator>
+  	Weber, Peter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Waterman, Albert Perry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Gall, Adolph F; Leeming, Harry Toyne; Luhr, Charles William; Pelzer, John; Wilson, Carl Hillis; Manufacturing; Motion picture projectors
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0832ACK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:711
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0832] Document File Series -- 1908 (D-08-32) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0832
+  </dcterms:isPartOf>none available
+</metadata>

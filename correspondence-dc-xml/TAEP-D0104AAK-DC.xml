@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stewart, Willis N to Dick, Herman Ernest, July 12, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-07-12
+  </dcterms:date>
+  <dcterms:creator>
+  	Stewart, Willis N
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dick, Herman Ernest
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric battery; International business operations; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0104AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:86
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0104] Document File Series -- 1901 (D-01-04) Battery -- Storage -- Foreign
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0104
+  </dcterms:isPartOf>none available
+</metadata>

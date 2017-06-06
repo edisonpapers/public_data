@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Physics Club to Edison, Thomas Alva, November 16, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-11-16
+  </dcterms:date>
+  <dcterms:creator>
+  	Physics Club
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cornell University; Crocker, Francis Bacon; Johns Hopkins University; Pupin, Michael Idvorsky; Awards & honors/clubs & societies; Education; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0911AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:398
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0911] Document File Series -- 1909 (D-09-11) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0911
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Parshall, Horace Field to D P Battery Co Ltd and Drake, Bernard Mervyn, October 31, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-10-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Parshall, Horace Field
+  </dcterms:creator>
+  <dcterms:contributor>
+	D P Battery Co Ltd; Drake, Bernard Mervyn
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electric battery; International business operations; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0704AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:953
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0704] Document File Series -- 1907 (D-07-04) Battery -- Storage -- Foreign -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0704
+  </dcterms:isPartOf>none available
+</metadata>

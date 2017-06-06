@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Squire, Charles C to Gilmore, William Edgar, November 05, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-11-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Squire, Charles C
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Manufacturing Co Ltd; Logue, William S; Stevens, Walter; Verity (B.) and Sons; Electric battery; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0402AAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:809
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0402] Document File Series -- 1904 (D-04-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0402
+  </dcterms:isPartOf>none available
+</metadata>

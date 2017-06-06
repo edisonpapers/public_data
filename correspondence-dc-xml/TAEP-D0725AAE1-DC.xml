@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Edison, Thomas Alva to Earle, Ellis Potter, February 13, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-02-13
+  </dcterms:date>
+  <dcterms:creator>
+  	Edison, Thomas Alva
+  </dcterms:creator>
+  <dcterms:contributor>
+	Earle, Ellis Potter
+  </dcterms:contributor>
+  <dcterms:subject>
+	Ledoux & Co; Electric battery; Ore concentrate
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0725AAE1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:523
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0725] Document File Series -- 1907 (D-07-25) Mining -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0725
+  </dcterms:isPartOf>none available
+</metadata>

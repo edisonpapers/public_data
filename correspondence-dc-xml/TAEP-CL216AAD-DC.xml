@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Schermerhorn, John Relyea to Miller, Walter Henry, February 06, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-02-06
+  </dcterms:date>
+  <dcterms:creator>
+  	Schermerhorn, John Relyea
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Walter Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Riehl, Edward; Cylinder record and duplicating technology; Manufacturing; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL216AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:789
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL216] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1907)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL216
+  </dcterms:isPartOf>none available
+</metadata>

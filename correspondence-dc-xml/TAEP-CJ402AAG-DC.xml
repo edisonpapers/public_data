@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dunford and Elliott to Beazley, Edwin Henry, December 23, 1899
+  </dcterms:title>
+  <dcterms:date>
+	1899-12-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Dunford and Elliott
+  </dcterms:creator>
+  <dcterms:contributor>
+	Beazley, Edwin Henry
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Ore Milling Area; Edison, Thomas Alva; Louis, Henry; Ore concentrate; Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ402AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:402
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ402] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1899)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ402
+  </dcterms:isPartOf>none available
+</metadata>

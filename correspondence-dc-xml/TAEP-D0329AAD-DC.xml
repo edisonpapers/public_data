@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from McGinness, John to Edison, Thomas Alva, June 08, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-06-08
+  </dcterms:date>
+  <dcterms:creator>
+  	McGinness, John
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Marconi Wireless Telegraph Company of America; Stocks, bonds, and investments; Wireless and radio
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0329AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:697
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0329] Document File Series -- 1903 (D-03-29) Radio
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0329
+  </dcterms:isPartOf>none available
+</metadata>

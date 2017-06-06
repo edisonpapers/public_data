@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Perry, William S to Batchelor, Charles, October 07, 1891
+  </dcterms:title>
+  <dcterms:date>
+	1891-10-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Perry, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Batchelor, Charles
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dickson, William Kennedy Laurie; Philadelphia and Reading Coal and Iron Co; Railroads and transportation; Rolls and crushers; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJD134171
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 148:833
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJD] Company Records Series -- New York Concentrating Works Letterbook (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJD
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0816.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fr/fr0817.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Musconetcong Iron Works and Howe, Frank Perley to Pilling and Crane, July 24, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-07-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Musconetcong Iron Works; Howe, Frank Perley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pilling and Crane
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Kennedy, John S; Briquettes and bricker machinery; Research and development; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ013AAE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 150:7
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ013] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Administrative and Financial Records Correspondence (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ013
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ft/ft0007.jpg</dcterms:hasPart>
+</metadata>

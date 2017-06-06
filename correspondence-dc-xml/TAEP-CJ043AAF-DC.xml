@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tate, Alfred Ord to New Jersey and Pennsylvania Concentrating Works, June 04, 1892
+  </dcterms:title>
+  <dcterms:date>
+	1892-06-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Tate, Alfred Ord
+  </dcterms:creator>
+  <dcterms:contributor>
+	New Jersey and Pennsylvania Concentrating Works
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Ogden Ore Separating Plant; Ore milling and separation; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ043AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:193
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ043] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Plant Operations Records -- Unbound Records Test Reports (1891-1892)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ043
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0177.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0178.jpg</dcterms:hasPart>
+</metadata>

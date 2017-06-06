@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Logue, William S to Gilmore, William Edgar, December 17, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-12-17
+  </dcterms:date>
+  <dcterms:creator>
+  	Logue, William S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Baltimore and Ohio Railroad Co; Delaware Lackawanna and Western Railroad; Hall Signal Co; Lake Shore and Michigan Southern Railroad; Lehigh Valley Railroad Co; Philadelphia and Reading Railroad Co; Competition and market structure; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0202AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:552
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0202] Document File Series -- 1902 (D-02-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0202
+  </dcterms:isPartOf>none available
+</metadata>

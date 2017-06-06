@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Jackson, Francis E to Upton, Francis Robbins, October 04, 1889
+  </dcterms:title>
+  <dcterms:date>
+	1889-10-04
+  </dcterms:date>
+  <dcterms:creator>
+  	Jackson, Francis E
+  </dcterms:creator>
+  <dcterms:contributor>
+	Upton, Francis Robbins
+  </dcterms:contributor>
+  <dcterms:subject>
+	Central stations; Financial operations (companies and organizations); Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK402034
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:318
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK402] Company Records Series -- Edison Electric Light Company and Related Companies PN-88-06-30 (1882-1890)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK402
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0310.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0311.jpg</dcterms:hasPart>
+</metadata>

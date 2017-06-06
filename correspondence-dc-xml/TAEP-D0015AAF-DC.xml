@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Biograph Co and Marvin, Harry Norton to Edison, Thomas Alva, March 27, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-03-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Biograph Co; Marvin, Harry Norton
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Richard Nott; Gilmore, William Edgar; Reichenbach, Henry M; Litigation; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0015AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:950
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0015] Document File Series -- 1900 (D-00-15) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0015
+  </dcterms:isPartOf>none available
+</metadata>

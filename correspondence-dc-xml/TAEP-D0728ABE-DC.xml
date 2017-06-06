@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Marks, George Croydon to Pathe Freres, May 21, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-05-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Marks, George Croydon
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pathe Freres
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Gilmore, William Edgar; Contracts and other legal concerns; Motion pictures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0728ABE
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:625
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0728] Document File Series -- 1907 (D-07-28) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0728
+  </dcterms:isPartOf>none available
+</metadata>

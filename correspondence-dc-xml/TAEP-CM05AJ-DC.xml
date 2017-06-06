@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kammerhoff, Heinrich H Meno to Edison, Charles, November 09, 1917
+  </dcterms:title>
+  <dcterms:date>
+	1917-11-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Kammerhoff, Heinrich H Meno
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Charles
+  </dcterms:contributor>
+  <dcterms:subject>
+	Chemicals, chemical products, and chemical processes; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM05AJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:389
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM05] Special Collections Series -- Chemical Production Records -- Organic Chemical Plant Records Coal Tar Products Division (1917)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM05
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Biglow and Main Co and Sankey, Ira Allan, May 07, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-05-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Biglow and Main Co; Sankey, Ira Allan
+  </dcterms:contributor>
+  <dcterms:subject>
+	Cylinder record and duplicating technology; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL201AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:450
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL201] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL201
+  </dcterms:isPartOf>none available
+</metadata>

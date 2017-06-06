@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hardy, William Abbott to Edison, Thomas Alva, July 20, 1926
+  </dcterms:title>
+  <dcterms:date>
+	1926-07-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Hardy, William Abbott
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electroplating; Metals and minerals; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Gallery of History, Inc.
+  </dcterms:source>
+  <dcterms:identifier>
+	B056aY
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[B056] Gallery of History, Las Vegas, Nev. 
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=B056
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xy/xy1650.jpg</dcterms:hasPart>
+</metadata>

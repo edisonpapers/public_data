@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Delaware Lackawanna and Western Railroad and Truesdale, William Haynes to Edison, Thomas Alva, April 03, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-04-03
+  </dcterms:date>
+  <dcterms:creator>
+  	Delaware Lackawanna and Western Railroad; Truesdale, William Haynes
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Railroads and transportation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ602AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:337
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ602] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ602
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Schermerhorn, John Relyea to Randolph, John F, October 15, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-10-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Schermerhorn, John Relyea
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dally, Clarence M; Ott, Frederick Paul; X-rays
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0431AAF
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:562
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0431] Document File Series -- 1904 (D-04-31) X-Rays
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0431
+  </dcterms:isPartOf>none available
+</metadata>

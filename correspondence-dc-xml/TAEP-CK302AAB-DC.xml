@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Bates, Edwin G to Edison Phonograph Works and Edison, Thomas Alva, January 02, 1895
+  </dcterms:title>
+  <dcterms:date>
+	1895-01-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Bates, Edwin G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison Phonograph Works; Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gilmore, William Edgar; Competition and market structure; Financial operations (companies and organizations); Microphone and other acoustic devices
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK302AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:143
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK302] Company Records Series -- Bates Manufacturing Company Company Records (1895)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK302
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0139.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0140.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0141.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0142.jpg</dcterms:hasPart>
+</metadata>

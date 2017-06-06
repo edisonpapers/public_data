@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from English, Conover to Miller, Harry Frederick, March 18, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-03-18
+  </dcterms:date>
+  <dcterms:creator>
+  	English, Conover
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Mallory, Walter Seeley; Contracts and other legal concerns; Financial operations (companies and organizations); Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ040AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:71
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ040] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ040
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0068.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Graf, Thomas to Dyer, Frank Lewis, December 22, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-12-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Graf, Thomas
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	National Phonograph Co (Australia); Cylinder record and duplicating technology; Financial operations (companies and organizations); Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL220AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:148
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL220] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL220
+  </dcterms:isPartOf>none available
+</metadata>

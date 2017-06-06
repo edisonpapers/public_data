@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Western Edison Light Co and Gorton, Frank S to Electrical Review (N.Y. City), October 26, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-10-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Western Edison Light Co; Gorton, Frank S
+  </dcterms:creator>
+  <dcterms:contributor>
+	Electrical Review (N.Y. City)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Competition and market structure; Isolated stations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CC011012A
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:86
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CC011] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #11
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC011
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0084.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0085.jpg</dcterms:hasPart>
+</metadata>

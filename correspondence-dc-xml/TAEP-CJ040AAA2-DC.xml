@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Perkins, Randolph to Miller, Harry Frederick, May 15, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Perkins, Randolph
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	New Jersey and Pennsylvania Concentrating Works; New Jersey. Chancery Court; Financial operations (companies and organizations); Management (companies and organizations); Ore milling and separation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ040AAA2
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 151:73
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ040] Company Records Series -- New Jersey and Pennsylvania Concentrating Works -- Legal Records General (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ040
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/fu/fu0070.jpg</dcterms:hasPart>
+</metadata>

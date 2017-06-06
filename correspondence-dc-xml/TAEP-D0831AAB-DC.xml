@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from English, Conover to Miller, Harry Frederick, March 12, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-03-12
+  </dcterms:date>
+  <dcterms:creator>
+  	English, Conover
+  </dcterms:creator>
+  <dcterms:contributor>
+	Miller, Harry Frederick
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Mallory, Walter Seeley; New Jersey and Pennsylvania Concentrating Works; Finances (TAE and family); Loans
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0831AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 192:610
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0831] Document File Series -- 1908 (D-08-31) Mining
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0831
+  </dcterms:isPartOf>none available
+</metadata>

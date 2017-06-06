@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Barstow, William Slocum to Edison, Thomas Alva, April 26, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-04-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Barstow, William Slocum
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electrical Engineer; Chemicals, chemical products, and chemical processes; Electric battery; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0103AAI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:43
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0103] Document File Series -- 1901 (D-01-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0103
+  </dcterms:isPartOf>none available
+</metadata>

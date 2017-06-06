@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Cattell, A G to Edison, Thomas Alva, February 20, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-02-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Cattell, A G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Marie Louise Toohey (Mrs Thomas A. Jr); Edison-Miller family; Finances (TAE and family); Social customs, norms, values
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0610AAD
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:583
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0610] Document File Series -- 1906 (D-06-10) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0610
+  </dcterms:isPartOf>none available
+</metadata>

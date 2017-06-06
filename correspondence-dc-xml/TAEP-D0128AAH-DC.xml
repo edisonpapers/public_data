@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Daniel, Thomas Cushing to Gilmore, William Edgar, July 31, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-07-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Daniel, Thomas Cushing
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Armat, Thomas; Edison, Thomas Alva; Patent infringement; Peephole Kinetoscope
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0128AAH
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:332
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0128] Document File Series -- 1901 (D-01-28) Motion Pictures
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0128
+  </dcterms:isPartOf>none available
+</metadata>

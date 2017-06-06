@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Gilmore, William Edgar to Edison, Thomas Alva, August 27, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-08-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Gilmore, William Edgar
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Columbia Phonograph Co; Edison-Bell Consolidated Phonograph Co Ltd; Gladstone, James W; Hayes, Howard W; Hough, James Edward; Logue, William S; Miller, Walter Henry; Pathe Freres; Prescott, Frederic M; Stollwerck, Ludwig Albert; Walcutt, Cleveland; Competition and market structure; Cylinder phonograph; Disc phonograph; Electric battery; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0326AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:654
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0326] Document File Series -- 1903 (D-03-26) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0326
+  </dcterms:isPartOf>none available
+</metadata>

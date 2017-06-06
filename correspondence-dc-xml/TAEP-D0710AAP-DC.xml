@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Engineers Club (N.Y. City) and Lozier, Robert Ten Eyck to Edison, Thomas Alva, October 24, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-10-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Engineers Club (N.Y. City); Lozier, Robert Ten Eyck
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Duncan, Louis; Edgar, Charles Leavitt; Edison Electric Light Co of Philadelphia; Hix, William Preston; Insull, Samuel; Sprague, Frank Julian; Awards & honors/clubs & societies; TAE friends and associates
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0710AAP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:244
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0710] Document File Series -- 1907 (D-07-10) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0710
+  </dcterms:isPartOf>none available
+</metadata>

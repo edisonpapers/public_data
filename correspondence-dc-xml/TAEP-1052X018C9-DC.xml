@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, Mary Emily and Nichols, William Wallace to Edison, Mina Miller (Mrs Thomas A.), February 21, 1914
+  </dcterms:title>
+  <dcterms:date>
+	1914-02-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, Mary Emily; Nichols, William Wallace
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Boston Symphony; Edison, Madeleine; Edison, Thomas Alva; Kunz, George Frederick; Miller, Elizabeth; Miller, Grace A; Miller, John Vincent; Miller, Lewis, II; Miller, Rachel Alice; Miller, Robert Anderson, Jr; Perine, Mary Elizabeth McCabe (Mrs John J.); Seminole Lodge and Fort Myers; Sloane, John Eyre; Celebrations (anniversaries, birthdays, holidays); Edison-Miller family; Music; TAE health; Travel (TAE and family)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	1052X018C9
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3227.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3228.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3229.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3230.jpg</dcterms:hasPart>
+</metadata>

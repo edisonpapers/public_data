@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Ristine, Marion Elizabeth to Edison, Mina Miller (Mrs Thomas A.), October 14, 1928
+  </dcterms:title>
+  <dcterms:date>
+	1928-10-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Ristine, Marion Elizabeth
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Hoover, Herbert Clark; Edison-Miller family; Politics and government
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund.
+  </dcterms:source>
+  <dcterms:identifier>
+	4567X018B5
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018B5] Charles Edison Fund Collection, Newark, N.J. Edison Family Papers -- Page, Ristine, and Wheeler Families
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018B5
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xv/xv4404.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xv/xv4405.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xv/xv4406.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Scull, George Francis, August 24, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-08-24
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Buehler, William J; Dyer, Frank Lewis; Graf, Thomas; Stevens, Walter; Wright, Orville; Wright, Wilbur; Motion pictures; Patent assignments, licenses, and royalties
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK910AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:918
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK910] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1909-1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK910
+  </dcterms:isPartOf>none available
+</metadata>

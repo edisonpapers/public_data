@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Ulbricht, G to Edison, Thomas Alva, December 23, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-12-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Ulbricht, G
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Beggs, John Irvin; Cement houses and other concrete structures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0707ABI
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:58
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0707] Document File Series -- 1907 (D-07-07) Cement House
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0707
+  </dcterms:isPartOf>none available
+</metadata>

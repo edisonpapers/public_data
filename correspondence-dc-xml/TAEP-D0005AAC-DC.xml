@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Page, Isobel W, (Mrs. G.W. Ristine) to Edison, Thomas Alva, February 01, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-02-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Page, Isobel W, (Mrs. G.W. Ristine)
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Marion Wallace; Edison-Miller family
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0005AAC
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 186:738
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0005] Document File Series -- 1900 (D-00-05) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0005
+  </dcterms:isPartOf>none available
+</metadata>

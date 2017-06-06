@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Miller, Mary Emily to Edison, Mina Miller (Mrs Thomas A.), March 29, 1920
+  </dcterms:title>
+  <dcterms:date>
+	1920-03-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Miller, Mary Emily
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Mina Miller (Mrs Thomas A.)
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Madeleine; Miller, Louise Igoe (Mrs Robert A.); National Plant Flower and Fruit Guild; Paul, Katharine; Stewart, Laura S (Mrs John Wood); Clubs and societies; Edison-Miller family
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of the Charles Edison Fund and Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	1046X018C9
+  </dcterms:identifier>
+  <dcterms:isPartOf>
+	[X018C9] Charles Edison Fund Collection, Newark, N.J. Miller Family Papers -- Miller, Mary Emily and Nichols, William Wallace
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=X018C9
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3207.jpg</dcterms:hasPart>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/xw/xw3208.jpg</dcterms:hasPart>
+</metadata>

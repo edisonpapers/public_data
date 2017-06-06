@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer, Frank Lewis to Holden, Delos, July 27, 1911
+  </dcterms:title>
+  <dcterms:date>
+	1911-07-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer, Frank Lewis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Holden, Delos
+  </dcterms:contributor>
+  <dcterms:subject>
+	Berliner, Emile; Edison, Thomas Alva; Jungner, Ernest Waldemar; Mallory, Walter Seeley; Patent and legal counsel
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ620ADG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 204:314
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ620] Company Records Series -- Edison Portland Cement Company -- Corporate Files General (1911)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ620
+  </dcterms:isPartOf>none available
+</metadata>

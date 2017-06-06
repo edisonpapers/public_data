@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Stevens, Walter to Cabanas, Rafael, May 21, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-05-21
+  </dcterms:date>
+  <dcterms:creator>
+  	Stevens, Walter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Cabanas, Rafael
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Walter Henry; Cylinder recordings; International business operations
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL301133
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:603
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL301] Company Records Series -- National Phonograph Company -- Foreign Department Letterbooks Letterbook #1 (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL301
+  </dcterms:isPartOf>none available
+</metadata>

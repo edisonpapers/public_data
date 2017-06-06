@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Horace M to Bartram, J Bogert, October 01, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-10-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Horace M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bartram, J Bogert
+  </dcterms:contributor>
+  <dcterms:subject>
+	Darby Mine; Edison, Thomas Alva; Ore exploration and mining; Property; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ518AAO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:191
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ518] Company Records Series -- Mining Exploration Company of New Jersey and Related Records -- John V. Miller Files Correspondence (1925-1930)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ518
+  </dcterms:isPartOf>none available
+</metadata>

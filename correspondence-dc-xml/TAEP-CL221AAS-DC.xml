@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Walker, Isaac W to Edison, Thomas Alva, February 11, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-02-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Walker, Isaac W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Gaumont Co; Motion pictures; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL221AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:275
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL221] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL221
+  </dcterms:isPartOf>none available
+</metadata>

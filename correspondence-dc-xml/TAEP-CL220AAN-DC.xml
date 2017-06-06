@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Dyer, Frank Lewis, May 11, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-05-11
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Dyer, Frank Lewis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Tolstoy, Leo; Cylinder recordings; Management (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL220AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 217:174
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL220] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1909)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL220
+  </dcterms:isPartOf>none available
+</metadata>

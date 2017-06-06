@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Chicago Edison Co and Insull, Samuel to Edison, Thomas Alva, August 05, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-08-05
+  </dcterms:date>
+  <dcterms:creator>
+  	Chicago Edison Co; Insull, Samuel
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Association of Edison Illuminating Companies; Boston Edison Co; Coffin, Charles Albert; Edgar, Charles Leavitt; Exhibition. St Louis (1904); Lieb, John William; Electric light and power; Expositions, demonstrations, lectures
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0319AAA
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:428
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0319] Document File Series -- 1903 (D-03-19) Exhibitions
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0319
+  </dcterms:isPartOf>none available
+</metadata>

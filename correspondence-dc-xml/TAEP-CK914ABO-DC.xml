@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Wilson, Carl Hillis to Gulick, W M, January 26, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-01-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Wilson, Carl Hillis
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gulick, W M
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Harry Frederick; Competition and market structure; Financial operations (companies and organizations); Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK914ABO
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 214:1165
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK914] Company Records Series -- Motion Picture Patents Company -- General Film Company Records (1917-1919)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK914
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Herrmann, Florence L to Edison, Thomas Alva, September 09, 1903
+  </dcterms:title>
+  <dcterms:date>
+	1903-09-09
+  </dcterms:date>
+  <dcterms:creator>
+  	Herrmann, Florence L
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Marion Estelle; Edison-Miller family
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0311AAW
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 188:381
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0311] Document File Series -- 1903 (D-03-11) Edison, T.A. -- Family
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0311
+  </dcterms:isPartOf>none available
+</metadata>

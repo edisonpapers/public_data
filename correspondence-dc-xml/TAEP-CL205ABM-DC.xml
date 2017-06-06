@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Purdy, James W, Jr to New England Phonograph Co, November 28, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-11-28
+  </dcterms:date>
+  <dcterms:creator>
+  	Purdy, James W, Jr
+  </dcterms:creator>
+  <dcterms:contributor>
+	New England Phonograph Co
+  </dcterms:contributor>
+  <dcterms:subject>
+	American Graphophone Co; Columbia Phonograph Co; Edison, Thomas Alva; Lippincott, Jesse H; North American Phonograph Co; U.S. Circuit Court. New Jersey; Competition and market structure; Litigation
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL205ABM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:684
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL205] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL205
+  </dcterms:isPartOf>none available
+</metadata>

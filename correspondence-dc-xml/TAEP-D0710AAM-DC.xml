@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from American Electrochemical Society and Von Isakovics, Alois to Edison, Thomas Alva, October 12, 1907
+  </dcterms:title>
+  <dcterms:date>
+	1907-10-12
+  </dcterms:date>
+  <dcterms:creator>
+  	American Electrochemical Society; Von Isakovics, Alois
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Mina Miller (Mrs Thomas A.); Hooper, George H, Jr; Miller, John Vincent; West Orange Laboratory; Awards & honors/clubs & societies
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0710AAM
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 191:240
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0710] Document File Series -- 1907 (D-07-10) Edison, T.A. -- Clubs &amp; Societies
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0710
+  </dcterms:isPartOf>none available
+</metadata>

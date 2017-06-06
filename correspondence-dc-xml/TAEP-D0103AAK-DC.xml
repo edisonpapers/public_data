@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Orford Copper Co and Johnson, Woolsey McA to Edison, Thomas Alva, September 20, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-09-20
+  </dcterms:date>
+  <dcterms:creator>
+  	Orford Copper Co; Johnson, Woolsey McA
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric battery; Metals and minerals; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0103AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:55
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0103] Document File Series -- 1901 (D-01-03) Battery -- Storage -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0103
+  </dcterms:isPartOf>none available
+</metadata>

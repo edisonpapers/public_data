@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Kellow, Richard Wesley to Edison, Charles, March 22, 1921
+  </dcterms:title>
+  <dcterms:date>
+	1921-03-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Kellow, Richard Wesley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Charles
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dick, Herman Ernest; Edison, Thomas Alva; Mambert, Stephen Babcock; Reminiscences (after 1886)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ603AAB
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 202:407
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ603] Company Records Series -- Edison Portland Cement Company -- Corporate Files Dick, Herman E. (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ603
+  </dcterms:isPartOf>none available
+</metadata>

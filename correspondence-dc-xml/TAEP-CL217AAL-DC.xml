@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Weber, Peter to Gilmore, William Edgar, February 08, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-02-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Weber, Peter
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dyer, Frank Lewis; Hazel, John Raymond; New York Phonograph Co; Wurth, Albert Frank; Management (companies and organizations); Patent infringement; Production difficulties and adjustments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL217AAL
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:929
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL217] Company Records Series -- National Phonograph Company -- Correspondence Domestic (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL217
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Roudebush, Frank L to Maguire and Baucus, March 27, 1900
+  </dcterms:title>
+  <dcterms:date>
+	1900-03-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Roudebush, Frank L
+  </dcterms:creator>
+  <dcterms:contributor>
+	Maguire and Baucus
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Financial operations (companies and organizations); International business operations; Ore milling (non-iron ore)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ403AAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 199:479
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ403] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Edison Ore Milling Syndicate, Ltd., Files Correspondence (1900)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ403
+  </dcterms:isPartOf>none available
+</metadata>

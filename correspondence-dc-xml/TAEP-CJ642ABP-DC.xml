@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Jayne, Morris D and Ackerman, A to Mallory, Walter Seeley, May 29, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-05-29
+  </dcterms:date>
+  <dcterms:creator>
+  	Jayne, Morris D; Ackerman, A
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mallory, Walter Seeley
+  </dcterms:contributor>
+  <dcterms:subject>
+	Darling, Edward A; Edison, Thomas Alva; Simpkin, William; Rolls and crushers; Testing and quality control
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ642ABP
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 205:956
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ642] Company Records Series -- Edison Portland Cement Company -- Plant Operations -- Reports Shop Inspector's Reports (1901-1902)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ642
+  </dcterms:isPartOf>none available
+</metadata>

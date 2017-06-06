@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Tomlinson, John Canfield to Johnson, Edward Hibberd, June 01, 1885
+  </dcterms:title>
+  <dcterms:date>
+	1885-06-01
+  </dcterms:date>
+  <dcterms:creator>
+  	Tomlinson, John Canfield
+  </dcterms:creator>
+  <dcterms:contributor>
+	Johnson, Edward Hibberd
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric light and power; Patent infringement
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CC003007
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 97:17
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CC003] Company Records Series -- Electric Light Companies -- Domestic -- Edison Company for Isolated Lighting Bulletin #3
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CC003
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/ds/ds0015.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from General Electric Co and Stanton, Charles H to Randolph, John F, October 07, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-10-07
+  </dcterms:date>
+  <dcterms:creator>
+  	General Electric Co; Stanton, Charles H
+  </dcterms:creator>
+  <dcterms:contributor>
+	Randolph, John F
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Walter Henry; Cylinder phonograph; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0426AAV
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:458
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0426] Document File Series -- 1904 (D-04-26) Phonograph -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0426
+  </dcterms:isPartOf>none available
+</metadata>

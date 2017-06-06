@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from American Association for Advancement of Science and Fisher, Irving to Edison, Thomas Alva, September 14, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-09-14
+  </dcterms:date>
+  <dcterms:creator>
+  	American Association for Advancement of Science; Fisher, Irving
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Hooper, George H, Jr; Washington, Booker Taliaferro; Awards & honors/clubs & societies; Health and medicine; TAE personality and character
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0606AAW
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:515
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0606] Document File Series -- 1906 (D-06-06) Edison, T.A. -- General
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0606
+  </dcterms:isPartOf>none available
+</metadata>

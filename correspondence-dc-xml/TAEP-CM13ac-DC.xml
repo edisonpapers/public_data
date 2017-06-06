@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Archer, Walter Nadler to Edison, Thomas Alva, February 07, 1924
+  </dcterms:title>
+  <dcterms:date>
+	1924-02-07
+  </dcterms:date>
+  <dcterms:creator>
+  	Archer, Walter Nadler
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Durand, Nelson C; Hunter, Charles Francis; Cylinder record and duplicating technology; Dictating machines; Financial operations (companies and organizations)
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM13ac
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:808
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM13] Special Collections Series -- Chemical Production Records -- Edison Chemical Works Wax Division Papers (1924-1925)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM13
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from White, James Henry to Gilmore, William Edgar, July 26, 1904
+  </dcterms:title>
+  <dcterms:date>
+	1904-07-26
+  </dcterms:date>
+  <dcterms:creator>
+  	White, James Henry
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Miller, Walter Henry; Petersson, H; Foreign affairs; International business operations; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CL210ABV
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 216:107
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CL210] Company Records Series -- National Phonograph Company -- Correspondence Foreign (1904)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CL210
+  </dcterms:isPartOf>none available
+</metadata>

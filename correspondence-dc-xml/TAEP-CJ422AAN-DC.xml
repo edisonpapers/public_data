@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Ballantine, James B to Edison, Thomas Alva, September 08, 1908
+  </dcterms:title>
+  <dcterms:date>
+	1908-09-08
+  </dcterms:date>
+  <dcterms:creator>
+  	Ballantine, James B
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Dunderland Ore Milling Area; Edison Ore Milling Syndicate Ltd; Louis, Henry; Paues, Johan; Simpkin, William; Management (companies and organizations); Production difficulties and adjustments; Rolls and crushers
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ422AAN
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 200:560
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ422] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Dunderland Iron Ore Company, Ltd., Files Correspondence (1908)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ422
+  </dcterms:isPartOf>none available
+</metadata>

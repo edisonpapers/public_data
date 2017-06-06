@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Walker, Isaac W to Bergmann, Sigmund, August 31, 1906
+  </dcterms:title>
+  <dcterms:date>
+	1906-08-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Walker, Isaac W
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bergmann, Sigmund
+  </dcterms:contributor>
+  <dcterms:subject>
+	Electric battery; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0605AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 190:465
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0605] Document File Series -- 1906 (D-06-05) Battery -- Storage -- Foreign -- Bergmann, Sigmund
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0605
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Delineator (Magazine) and Dreiser, Theodore to Edison, Thomas Alva, February 27, 1909
+  </dcterms:title>
+  <dcterms:date>
+	1909-02-27
+  </dcterms:date>
+  <dcterms:creator>
+  	Delineator (Magazine); Dreiser, Theodore
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Maxim, Hiram Stevens; Peary, Robert Edwin; Wright, Orville; Finances (TAE and family); Newspapers, books, other publications
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0909AAJ
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 193:352
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0909] Document File Series -- 1909 (D-09-09) Edison, T.A. -- Articles
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0909
+  </dcterms:isPartOf>none available
+</metadata>

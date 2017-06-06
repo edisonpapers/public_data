@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from O'Dair, William J to Pedersen, Arthur Zentgraf, September 11, 1919
+  </dcterms:title>
+  <dcterms:date>
+	1919-09-11
+  </dcterms:date>
+  <dcterms:creator>
+  	O'Dair, William J
+  </dcterms:creator>
+  <dcterms:contributor>
+	Pedersen, Arthur Zentgraf
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electric battery; Financial operations (companies and organizations); Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CM11AS1
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 281:729
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CM11] Special Collections Series -- Chemical Production Records -- Edison Chemical Works W. J. O'Dair Papers (1919-1920)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CM11
+  </dcterms:isPartOf>none available
+</metadata>

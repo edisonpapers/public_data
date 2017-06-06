@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Fagan, Frank D to Mambert, Stephen Babcock, June 23, 1921
+  </dcterms:title>
+  <dcterms:date>
+	1921-06-23
+  </dcterms:date>
+  <dcterms:creator>
+  	Fagan, Frank D
+  </dcterms:creator>
+  <dcterms:contributor>
+	Mambert, Stephen Babcock
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Charles; Edison, Thomas Alva; Labor; Salaries, wages, and commissions; World War I
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK603AAG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:626
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK603] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1921-1931)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK603
+  </dcterms:isPartOf>none available
+</metadata>

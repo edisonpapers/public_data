@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dyer and Seely to Tate, Alfred Ord, September 15, 1887
+  </dcterms:title>
+  <dcterms:date>
+	1887-09-15
+  </dcterms:date>
+  <dcterms:creator>
+  	Dyer and Seely
+  </dcterms:creator>
+  <dcterms:contributor>
+	Tate, Alfred Ord
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electric light and power; International business operations; Patents
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CE87049A
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 158:427
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CE87] Company Records Series -- Edison Electric Light Company of Europe, Ltd. Company Records (1887)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CE87
+  </dcterms:isPartOf>
+  <dcterms:hasPart type="dcterms:URI">http://edison.rutgers.edu/images/gb/gb0416.jpg</dcterms:hasPart>
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Melies, Gaston to Scull, George Francis, January 31, 1910
+  </dcterms:title>
+  <dcterms:date>
+	1910-01-31
+  </dcterms:date>
+  <dcterms:creator>
+  	Melies, Gaston
+  </dcterms:creator>
+  <dcterms:contributor>
+	Scull, George Francis
+  </dcterms:contributor>
+  <dcterms:subject>
+	Motion picture film technology; Tools and machinery
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK921BAR
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 215:276
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK921B] Company Records Series -- Motion Picture Patents Company -- Licensed Manufacturers Geo. M&eacute;li&egrave;s and George M&eacute;li&egrave;s Co (1908-1916)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK921B
+  </dcterms:isPartOf>none available
+</metadata>

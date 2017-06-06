@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Machinery and Electrical Co and Scribner, E M to Gilmore, William Edgar, December 22, 1905
+  </dcterms:title>
+  <dcterms:date>
+	1905-12-22
+  </dcterms:date>
+  <dcterms:creator>
+  	Machinery and Electrical Co; Scribner, E M
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gilmore, William Edgar
+  </dcterms:contributor>
+  <dcterms:subject>
+	Battery Supplies Co; Gladstone, James W; Competition and market structure; Electric battery; Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0502AAS
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 189:649
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0502] Document File Series -- 1905 (D-05-02) Battery -- Primary
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0502
+  </dcterms:isPartOf>none available
+</metadata>

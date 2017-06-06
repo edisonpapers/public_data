@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mallory, Walter Seeley to Gaunt, James, February 26, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-02-26
+  </dcterms:date>
+  <dcterms:creator>
+  	Mallory, Walter Seeley
+  </dcterms:creator>
+  <dcterms:contributor>
+	Gaunt, James
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bayly, William; Edison, Thomas Alva; Gaunt, Thomas T; Thompson, Robert Henry; Electric battery; Stocks, bonds, and investments
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK601AAK
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 208:176
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK601] Company Records Series -- Edison Storage Battery Company -- Administrative Records Correspondence (1901-1910)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK601
+  </dcterms:isPartOf>none available
+</metadata>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Hudson and Essex Gas Co and Dusenbery, J P to Edison, Thomas Alva, December 14, 1901
+  </dcterms:title>
+  <dcterms:date>
+	1901-12-14
+  </dcterms:date>
+  <dcterms:creator>
+  	Hudson and Essex Gas Co; Dusenbery, J P
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Thomas Alva
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison Phonograph Works; Edison Storage Battery Co; Silver Lake Property; West Orange Laboratory; Financial operations (companies and organizations); Gas, petroleum, and derivative products; Property
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	D0134AAH4
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 187:502
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[D0134] Document File Series -- 1901 (D-01-34) West Orange Laboratory
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=D0134
+  </dcterms:isPartOf>none available
+</metadata>

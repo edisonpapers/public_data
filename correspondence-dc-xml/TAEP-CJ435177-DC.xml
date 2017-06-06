@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Dick, Herman Ernest to Bobrinsky, Ludmilla, June 18, 1902
+  </dcterms:title>
+  <dcterms:date>
+	1902-06-18
+  </dcterms:date>
+  <dcterms:creator>
+  	Dick, Herman Ernest
+  </dcterms:creator>
+  <dcterms:contributor>
+	Bobrinsky, Ludmilla
+  </dcterms:contributor>
+  <dcterms:subject>
+	Edison, Thomas Alva; Electric battery; International business operations; Manufacturing
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CJ435177
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 201:301
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CJ435] Company Records Series -- Edison Ore Milling Syndicate, Ltd., and Related Companies -- Bound Volumes Letterbook, LM-281 (1900-1903)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CJ435
+  </dcterms:isPartOf>none available
+</metadata>

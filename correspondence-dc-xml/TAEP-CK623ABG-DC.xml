@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  
+  <dcterms:title>
+	Letter from Mambert, Stephen Babcock to Edison, Charles, March 02, 1918
+  </dcterms:title>
+  <dcterms:date>
+	1918-03-02
+  </dcterms:date>
+  <dcterms:creator>
+  	Mambert, Stephen Babcock
+  </dcterms:creator>
+  <dcterms:contributor>
+	Edison, Charles
+  </dcterms:contributor>
+  <dcterms:subject>
+	Bachman, Robert Abraham; Edison Chemical Works and Other Silver Lake Plants; Hutchison, Miller Reese; Thompson, Harrison Gilman; U.S. Signal Corps; Contracts and other legal concerns; National government (U.S.); Sales and service
+  </dcterms:subject>   
+  <dcterms:publisher>
+	The Thomas Edison Papers, part of The School of Arts and Sciences at Rutgers, The State University of New Jersey
+  </dcterms:publisher>
+  <dcterms:source>
+	Courtesy of Thomas Edison National Historical Park.
+  </dcterms:source>
+  <dcterms:identifier>
+	CK623ABG
+  </dcterms:identifier>
+	<dcterms:identifier>
+		TAEM 213:369
+	</dcterms:identifier>
+  <dcterms:isPartOf>
+	[CK623] Company Records Series -- Edison Storage Battery Company -- Sales Records Miller Reese Hutchison, Inc. (1911, 1916-1918)
+  </dcterms:isPartOf> 
+  <dcterms:isPartOf type="dcterms:URI">
+	http://edison.rutgers.edu/NamesSearch/glocpage.php?gloc=CK623
+  </dcterms:isPartOf>none available
+</metadata>
